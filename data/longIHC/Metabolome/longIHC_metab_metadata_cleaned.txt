@@ -1,0 +1,812 @@
+sample-id	filename	micro-sample-id	cage_food_consumption_g	cage_location	cage_number	diet	exposure_type	genotype	host_age	host_age_units	host_subject_id	host_weight	host_weight_units	mouse_number	sample_type
+A15_85_01	A15_85_01.mzXML	11548.A15.85.1	not applicable	On shelf	A15	Regular chow	Air	ApoE KO	10	weeks	Mouse 85	26.5	g	85	feces
+A15_85_02	A15_85_02.mzXML	11548.A15.85.2	56.6	On shelf	A15	Regular chow	Air	ApoE KO	10.5	weeks	Mouse 85	26.7	g	85	feces
+A15_85_03	A15_85_03.mzXML	11548.A15.85.3	85.9	On shelf	A15	Regular chow	Air	ApoE KO	11	weeks	Mouse 85	27.2	g	85	feces
+A15_85_04	A15_85_04.mzXML	11548.A15.85.4	59.3	On shelf	A15	Regular chow	Air	ApoE KO	11.5	weeks	Mouse 85	27.4	g	85	feces
+A15_85_05	A15_85_05.mzXML	11548.A15.85.5	81	On shelf	A15	Regular chow	Air	ApoE KO	12	weeks	Mouse 85	27.6	g	85	feces
+A15_85_06	A15_85_06.mzXML	11548.A15.85.6	71.7	On shelf	A15	Regular chow	Air	ApoE KO	12.5	weeks	Mouse 85	28.3	g	85	feces
+A15_85_07	A15_85_07.mzXML	11548.A15.85.7	95.8	On shelf	A15	Regular chow	Air	ApoE KO	13	weeks	Mouse 85	27.8	g	85	feces
+A15_85_08	A15_85_08.mzXML	11548.A15.85.8	75.9	On shelf	A15	Regular chow	Air	ApoE KO	13.5	weeks	Mouse 85	28.3	g	85	feces
+A15_85_09	A15_85_09.mzXML	11548.A15.85.9	103.4	On shelf	A15	Regular chow	Air	ApoE KO	14	weeks	Mouse 85	28.4	g	85	feces
+A15_85_10	A15_85_10.mzXML	11548.A15.85.10	64	On shelf	A15	Regular chow	Air	ApoE KO	14.5	weeks	Mouse 85	28.7	g	85	feces
+A15_85_11	A15_85_11.mzXML	11548.A15.85.11	96.7	On shelf	A15	Regular chow	Air	ApoE KO	15	weeks	Mouse 85	29	g	85	feces
+A15_85_12	A15_85_12.mzXML	11548.A15.85.12	64.7	On shelf	A15	Regular chow	Air	ApoE KO	15.5	weeks	Mouse 85	29.4	g	85	feces
+A15_85_13	A15_85_13.mzXML	11548.A15.85.13	94.4	On shelf	A15	Regular chow	Air	ApoE KO	16	weeks	Mouse 85	30	g	85	feces
+A15_85_14	A15_85_14.mzXML	11548.A15.85.14	69	On shelf	A15	Regular chow	Air	ApoE KO	16.5	weeks	Mouse 85	30	g	85	feces
+A15_85_15	A15_85_15.mzXML	11548.A15.85.15	95.8	On shelf	A15	Regular chow	Air	ApoE KO	17	weeks	Mouse 85	30.5	g	85	feces
+A15_85_16	A15_85_16.mzXML	11548.A15.85.16	75.4	On shelf	A15	Regular chow	Air	ApoE KO	17.5	weeks	Mouse 85	30.9	g	85	feces
+A15_85_17	A15_85_17.mzXML	11548.A15.85.17	36.5	On shelf	A15	Regular chow	Air	ApoE KO	18	weeks	Mouse 85	30.5	g	85	feces
+A15_85_18	A15_85_18.mzXML	11548.A15.85.18	57.2	On shelf	A15	Regular chow	Air	ApoE KO	18.5	weeks	Mouse 85	30.3	g	85	feces
+A15_85_19	A15_85_19.mzXML	11548.A15.85.19	78.5	On shelf	A15	Regular chow	Air	ApoE KO	19	weeks	Mouse 85	30.6	g	85	feces
+A15_85_20	A15_85_20.mzXML	11548.A15.85.20	56.8	On shelf	A15	Regular chow	Air	ApoE KO	19.5	weeks	Mouse 85	30.5	g	85	feces
+A15_85_plasma	A15_85_plasma.mzXML	11548.A15.85.plasma	Not provided	On shelf	A15	Regular chow	Air	ApoE KO	20	weeks	Mouse 85	Not provided	g	85	blood
+A15_85_teeth	A15_85_teeth.mzXML	11548.A15.85.teeth	Not provided	On shelf	A15	Regular chow	Air	ApoE KO	20	weeks	Mouse 85	Not provided	g	85	tooth
+A15_86_01	A15_86_01.mzXML	11548.A15.86.1	not applicable	On shelf	A15	Regular chow	Air	ApoE KO	10	weeks	Mouse 86	27	g	86	feces
+A15_86_02	A15_86_02.mzXML	11548.A15.86.2	56.6	On shelf	A15	Regular chow	Air	ApoE KO	10.5	weeks	Mouse 86	27.1	g	86	feces
+A15_86_03	A15_86_03.mzXML	11548.A15.86.3	85.9	On shelf	A15	Regular chow	Air	ApoE KO	11	weeks	Mouse 86	27.3	g	86	feces
+A15_86_04	A15_86_04.mzXML	11548.A15.86.4	59.3	On shelf	A15	Regular chow	Air	ApoE KO	11.5	weeks	Mouse 86	27.2	g	86	feces
+A15_86_05	A15_86_05.mzXML	11548.A15.86.5	81	On shelf	A15	Regular chow	Air	ApoE KO	12	weeks	Mouse 86	27.4	g	86	feces
+A15_86_06	A15_86_06.mzXML	11548.A15.86.6	71.7	On shelf	A15	Regular chow	Air	ApoE KO	12.5	weeks	Mouse 86	27.3	g	86	feces
+A15_86_07	A15_86_07.mzXML	11548.A15.86.7	95.8	On shelf	A15	Regular chow	Air	ApoE KO	13	weeks	Mouse 86	27.2	g	86	feces
+A15_86_08	A15_86_08.mzXML	11548.A15.86.8	75.9	On shelf	A15	Regular chow	Air	ApoE KO	13.5	weeks	Mouse 86	28.1	g	86	feces
+A15_86_09	A15_86_09.mzXML	11548.A15.86.9	103.4	On shelf	A15	Regular chow	Air	ApoE KO	14	weeks	Mouse 86	27.7	g	86	feces
+A15_86_10	A15_86_10.mzXML	11548.A15.86.10	64	On shelf	A15	Regular chow	Air	ApoE KO	14.5	weeks	Mouse 86	27.9	g	86	feces
+A15_86_11	A15_86_11.mzXML	11548.A15.86.11	96.7	On shelf	A15	Regular chow	Air	ApoE KO	15	weeks	Mouse 86	28.2	g	86	feces
+A15_86_12	A15_86_12.mzXML	11548.A15.86.12	64.7	On shelf	A15	Regular chow	Air	ApoE KO	15.5	weeks	Mouse 86	28.2	g	86	feces
+A15_86_13	A15_86_13.mzXML	11548.A15.86.13	94.4	On shelf	A15	Regular chow	Air	ApoE KO	16	weeks	Mouse 86	28.2	g	86	feces
+A15_86_14	A15_86_14.mzXML	11548.A15.86.14	69	On shelf	A15	Regular chow	Air	ApoE KO	16.5	weeks	Mouse 86	28.4	g	86	feces
+A15_86_15	A15_86_15.mzXML	11548.A15.86.15	95.8	On shelf	A15	Regular chow	Air	ApoE KO	17	weeks	Mouse 86	28.4	g	86	feces
+A15_86_16	A15_86_16.mzXML	11548.A15.86.16	75.4	On shelf	A15	Regular chow	Air	ApoE KO	17.5	weeks	Mouse 86	28.8	g	86	feces
+A15_86_17	A15_86_17.mzXML	11548.A15.86.17	88.7	On shelf	A15	Regular chow	Air	ApoE KO	18	weeks	Mouse 86	29.4	g	86	feces
+A15_86_18	A15_86_18.mzXML	11548.A15.86.18	57.2	On shelf	A15	Regular chow	Air	ApoE KO	18.5	weeks	Mouse 86	29.7	g	86	feces
+A15_86_19	A15_86_19.mzXML	11548.A15.86.19	78.5	On shelf	A15	Regular chow	Air	ApoE KO	19	weeks	Mouse 86	30.1	g	86	feces
+A15_86_20	A15_86_20.mzXML	11548.A15.86.20	56.8	On shelf	A15	Regular chow	Air	ApoE KO	19.5	weeks	Mouse 86	29.9	g	86	feces
+A15_86_plasma	A15_86_plasma.mzXML	11548.A15.86.plasma	Not provided	On shelf	A15	Regular chow	Air	ApoE KO	20	weeks	Mouse 86	Not provided	g	86	blood
+A15_86_teeth	A15_86_teeth.mzXML	11548.A15.86.teeth	Not provided	On shelf	A15	Regular chow	Air	ApoE KO	20	weeks	Mouse 86	Not provided	g	86	tooth
+A15_87_01	A15_87_01.mzXML	11548.A15.87.1	not applicable	On shelf	A15	Regular chow	Air	ApoE KO	10	weeks	Mouse 87	28	g	87	feces
+A15_87_02	A15_87_02.mzXML	11548.A15.87.2	56.6	On shelf	A15	Regular chow	Air	ApoE KO	10.5	weeks	Mouse 87	28.3	g	87	feces
+A15_87_03	A15_87_03.mzXML	11548.A15.87.3	85.9	On shelf	A15	Regular chow	Air	ApoE KO	11	weeks	Mouse 87	28.6	g	87	feces
+A15_87_04	A15_87_04.mzXML	11548.A15.87.4	59.3	On shelf	A15	Regular chow	Air	ApoE KO	11.5	weeks	Mouse 87	29	g	87	feces
+A15_87_05	A15_87_05.mzXML	11548.A15.87.5	81	On shelf	A15	Regular chow	Air	ApoE KO	12	weeks	Mouse 87	29.2	g	87	feces
+A15_87_06	A15_87_06.mzXML	11548.A15.87.6	71.7	On shelf	A15	Regular chow	Air	ApoE KO	12.5	weeks	Mouse 87	29.6	g	87	feces
+A15_87_07	A15_87_07.mzXML	11548.A15.87.7	95.8	On shelf	A15	Regular chow	Air	ApoE KO	13	weeks	Mouse 87	29.2	g	87	feces
+A15_87_08	A15_87_08.mzXML	11548.A15.87.8	75.9	On shelf	A15	Regular chow	Air	ApoE KO	13.5	weeks	Mouse 87	30.1	g	87	feces
+A15_87_09	A15_87_09.mzXML	11548.A15.87.9	103.4	On shelf	A15	Regular chow	Air	ApoE KO	14	weeks	Mouse 87	30.1	g	87	feces
+A15_87_10	A15_87_10.mzXML	11548.A15.87.10	64	On shelf	A15	Regular chow	Air	ApoE KO	14.5	weeks	Mouse 87	30.5	g	87	feces
+A15_87_11	A15_87_11.mzXML	11548.A15.87.11	96.7	On shelf	A15	Regular chow	Air	ApoE KO	15	weeks	Mouse 87	30.8	g	87	feces
+A15_87_12	A15_87_12.mzXML	11548.A15.87.12	64.7	On shelf	A15	Regular chow	Air	ApoE KO	15.5	weeks	Mouse 87	31.2	g	87	feces
+A15_87_13	A15_87_13.mzXML	11548.A15.87.13	94.4	On shelf	A15	Regular chow	Air	ApoE KO	16	weeks	Mouse 87	31.1	g	87	feces
+A15_87_14	A15_87_14.mzXML	11548.A15.87.14	69	On shelf	A15	Regular chow	Air	ApoE KO	16.5	weeks	Mouse 87	32	g	87	feces
+A15_87_15	A15_87_15.mzXML	11548.A15.87.15	95.8	On shelf	A15	Regular chow	Air	ApoE KO	17	weeks	Mouse 87	32.2	g	87	feces
+A15_87_16	A15_87_16.mzXML	11548.A15.87.16	75.4	On shelf	A15	Regular chow	Air	ApoE KO	17.5	weeks	Mouse 87	32.5	g	87	feces
+A15_87_17	A15_87_17.mzXML	11548.A15.87.17	88.7	On shelf	A15	Regular chow	Air	ApoE KO	18	weeks	Mouse 87	32.6	g	87	feces
+A15_87_18	A15_87_18.mzXML	11548.A15.87.18	57.2	On shelf	A15	Regular chow	Air	ApoE KO	18.5	weeks	Mouse 87	32.8	g	87	feces
+A15_87_19	A15_87_19.mzXML	11548.A15.87.19	78.5	On shelf	A15	Regular chow	Air	ApoE KO	19	weeks	Mouse 87	33	g	87	feces
+A15_87_20	A15_87_20.mzXML	11548.A15.87.20	56.8	On shelf	A15	Regular chow	Air	ApoE KO	19.5	weeks	Mouse 87	33	g	87	feces
+A15_87_plasma	A15_87_plasma.mzXML	11548.A15.87.plasma	Not provided	On shelf	A15	Regular chow	Air	ApoE KO	20	weeks	Mouse 87	Not provided	g	87	blood
+A15_87_teeth	A15_87_teeth.mzXML	11548.A15.87.teeth	Not provided	On shelf	A15	Regular chow	Air	ApoE KO	20	weeks	Mouse 87	Not provided	g	87	tooth
+A15_88_01	A15_88_01.mzXML	11548.A15.88.1	not applicable	On shelf	A15	Regular chow	Air	ApoE KO	10	weeks	Mouse 88	27.7	g	88	feces
+A15_88_02	A15_88_02.mzXML	11548.A15.88.2	56.6	On shelf	A15	Regular chow	Air	ApoE KO	10.5	weeks	Mouse 88	28.7	g	88	feces
+A15_88_03	A15_88_03.mzXML	11548.A15.88.3	85.9	On shelf	A15	Regular chow	Air	ApoE KO	11	weeks	Mouse 88	28.5	g	88	feces
+A15_88_04	A15_88_04.mzXML	11548.A15.88.4	59.3	On shelf	A15	Regular chow	Air	ApoE KO	11.5	weeks	Mouse 88	28.5	g	88	feces
+A15_88_05	A15_88_05.mzXML	11548.A15.88.5	81	On shelf	A15	Regular chow	Air	ApoE KO	12	weeks	Mouse 88	29.1	g	88	feces
+A15_88_06	A15_88_06.mzXML	11548.A15.88.6	71.7	On shelf	A15	Regular chow	Air	ApoE KO	12.5	weeks	Mouse 88	29.2	g	88	feces
+A15_88_07	A15_88_07.mzXML	11548.A15.88.7	95.8	On shelf	A15	Regular chow	Air	ApoE KO	13	weeks	Mouse 88	29.4	g	88	feces
+A15_88_08	A15_88_08.mzXML	11548.A15.88.8	75.9	On shelf	A15	Regular chow	Air	ApoE KO	13.5	weeks	Mouse 88	30.4	g	88	feces
+A15_88_09	A15_88_09.mzXML	11548.A15.88.9	103.4	On shelf	A15	Regular chow	Air	ApoE KO	14	weeks	Mouse 88	30.4	g	88	feces
+A15_88_10	A15_88_10.mzXML	11548.A15.88.10	64	On shelf	A15	Regular chow	Air	ApoE KO	14.5	weeks	Mouse 88	30.7	g	88	feces
+A15_88_11	A15_88_11.mzXML	11548.A15.88.11	96.7	On shelf	A15	Regular chow	Air	ApoE KO	15	weeks	Mouse 88	31.1	g	88	feces
+A15_88_12	A15_88_12.mzXML	11548.A15.88.12	64.7	On shelf	A15	Regular chow	Air	ApoE KO	15.5	weeks	Mouse 88	31	g	88	feces
+A15_88_13	A15_88_13.mzXML	11548.A15.88.13	94.4	On shelf	A15	Regular chow	Air	ApoE KO	16	weeks	Mouse 88	30.7	g	88	feces
+A15_88_14	A15_88_14.mzXML	11548.A15.88.14	69	On shelf	A15	Regular chow	Air	ApoE KO	16.5	weeks	Mouse 88	30.9	g	88	feces
+A15_88_15	A15_88_15.mzXML	11548.A15.88.15	95.8	On shelf	A15	Regular chow	Air	ApoE KO	17	weeks	Mouse 88	31	g	88	feces
+A15_88_16	A15_88_16.mzXML	11548.A15.88.16	75.4	On shelf	A15	Regular chow	Air	ApoE KO	17.5	weeks	Mouse 88	31.4	g	88	feces
+A15_88_17	A15_88_17.mzXML	11548.A15.88.17	88.7	On shelf	A15	Regular chow	Air	ApoE KO	18	weeks	Mouse 88	31.7	g	88	feces
+A15_88_18	A15_88_18.mzXML	11548.A15.88.18	57.2	On shelf	A15	Regular chow	Air	ApoE KO	18.5	weeks	Mouse 88	32	g	88	feces
+A15_88_19	A15_88_19.mzXML	11548.A15.88.19	78.5	On shelf	A15	Regular chow	Air	ApoE KO	19	weeks	Mouse 88	32.2	g	88	feces
+A15_88_20	A15_88_20.mzXML	11548.A15.88.20	56.8	On shelf	A15	Regular chow	Air	ApoE KO	19.5	weeks	Mouse 88	32.1	g	88	feces
+A15_88_aorta	A15_88_aorta.mzXML	11548.A15.88.aorta	Not provided	On shelf	A15	Regular chow	Air	ApoE KO	20	weeks	Mouse 88	Not provided	g	88	aorta
+A15_88_plasma	A15_88_plasma.mzXML	11548.A15.88.plasma	Not provided	On shelf	A15	Regular chow	Air	ApoE KO	20	weeks	Mouse 88	Not provided	g	88	blood
+A15_88_teeth	A15_88_teeth.mzXML	11548.A15.88.teeth	Not provided	On shelf	A15	Regular chow	Air	ApoE KO	20	weeks	Mouse 88	Not provided	g	88	tooth
+A16_89_01	A16_89_01.mzXML	11548.A16.89.1	not applicable	On shelf	A16	Regular chow	Air	ApoE KO	10	weeks	Mouse 89	28	g	89	feces
+A16_89_02	A16_89_02.mzXML	11548.A16.89.2	55.8	On shelf	A16	Regular chow	Air	ApoE KO	10.5	weeks	Mouse 89	29.3	g	89	feces
+A16_89_03	A16_89_03.mzXML	11548.A16.89.3	85.4	On shelf	A16	Regular chow	Air	ApoE KO	11	weeks	Mouse 89	30	g	89	feces
+A16_89_04	A16_89_04.mzXML	11548.A16.89.4	61	On shelf	A16	Regular chow	Air	ApoE KO	11.5	weeks	Mouse 89	30.6	g	89	feces
+A16_89_05	A16_89_05.mzXML	11548.A16.89.5	81.2	On shelf	A16	Regular chow	Air	ApoE KO	12	weeks	Mouse 89	30.5	g	89	feces
+A16_89_06	A16_89_06.mzXML	11548.A16.89.6	65.3	On shelf	A16	Regular chow	Air	ApoE KO	12.5	weeks	Mouse 89	31.3	g	89	feces
+A16_89_07	A16_89_07.mzXML	11548.A16.89.7	89.4	On shelf	A16	Regular chow	Air	ApoE KO	13	weeks	Mouse 89	30.8	g	89	feces
+A16_89_08	A16_89_08.mzXML	11548.A16.89.8	67.6	On shelf	A16	Regular chow	Air	ApoE KO	13.5	weeks	Mouse 89	32	g	89	feces
+A16_89_09	A16_89_09.mzXML	11548.A16.89.9	81.7	On shelf	A16	Regular chow	Air	ApoE KO	14	weeks	Mouse 89	30.6	g	89	feces
+A16_89_10	A16_89_10.mzXML	11548.A16.89.10	72.3	On shelf	A16	Regular chow	Air	ApoE KO	14.5	weeks	Mouse 89	31.3	g	89	feces
+A16_89_11	A16_89_11.mzXML	11548.A16.89.11	87.2	On shelf	A16	Regular chow	Air	ApoE KO	15	weeks	Mouse 89	32.3	g	89	feces
+A16_89_12	A16_89_12.mzXML	11548.A16.89.12	61.8	On shelf	A16	Regular chow	Air	ApoE KO	15.5	weeks	Mouse 89	33	g	89	feces
+A16_89_13	A16_89_13.mzXML	11548.A16.89.13	84.9	On shelf	A16	Regular chow	Air	ApoE KO	16	weeks	Mouse 89	33.5	g	89	feces
+A16_89_14	A16_89_14.mzXML	11548.A16.89.14	64.7	On shelf	A16	Regular chow	Air	ApoE KO	16.5	weeks	Mouse 89	34.3	g	89	feces
+A16_89_15	A16_89_15.mzXML	11548.A16.89.15	87.8	On shelf	A16	Regular chow	Air	ApoE KO	17	weeks	Mouse 89	34	g	89	feces
+A16_89_16	A16_89_16.mzXML	11548.A16.89.16	65.4	On shelf	A16	Regular chow	Air	ApoE KO	17.5	weeks	Mouse 89	34.1	g	89	feces
+A16_89_17	A16_89_17.mzXML	11548.A16.89.17	85.9	On shelf	A16	Regular chow	Air	ApoE KO	18	weeks	Mouse 89	34.6	g	89	feces
+A16_89_18	A16_89_18.mzXML	11548.A16.89.18	65.6	On shelf	A16	Regular chow	Air	ApoE KO	18.5	weeks	Mouse 89	35	g	89	feces
+A16_89_19	A16_89_19.mzXML	11548.A16.89.19	86.8	On shelf	A16	Regular chow	Air	ApoE KO	19	weeks	Mouse 89	34.9	g	89	feces
+A16_89_20	A16_89_20.mzXML	11548.A16.89.20	62	On shelf	A16	Regular chow	Air	ApoE KO	19.5	weeks	Mouse 89	34.8	g	89	feces
+A16_89_plasma	A16_89_plasma.mzXML	11548.A16.89.plasma	Not provided	On shelf	A16	Regular chow	Air	ApoE KO	20	weeks	Mouse 89	Not provided	g	89	blood
+A16_89_teeth	A16_89_teeth.mzXML	11548.A16.89.teeth	Not provided	On shelf	A16	Regular chow	Air	ApoE KO	20	weeks	Mouse 89	Not provided	g	89	tooth
+A16_90_01	A16_90_01.mzXML	11548.A16.90.1	not applicable	On shelf	A16	Regular chow	Air	ApoE KO	10	weeks	Mouse 90	26.1	g	90	feces
+A16_90_02	A16_90_02.mzXML	11548.A16.90.2	55.8	On shelf	A16	Regular chow	Air	ApoE KO	10.5	weeks	Mouse 90	27	g	90	feces
+A16_90_03	A16_90_03.mzXML	11548.A16.90.3	85.4	On shelf	A16	Regular chow	Air	ApoE KO	11	weeks	Mouse 90	27.4	g	90	feces
+A16_90_04	A16_90_04.mzXML	11548.A16.90.4	61	On shelf	A16	Regular chow	Air	ApoE KO	11.5	weeks	Mouse 90	27.8	g	90	feces
+A16_90_05	A16_90_05.mzXML	11548.A16.90.5	81.2	On shelf	A16	Regular chow	Air	ApoE KO	12	weeks	Mouse 90	27	g	90	feces
+A16_90_06	A16_90_06.mzXML	11548.A16.90.6	65.3	On shelf	A16	Regular chow	Air	ApoE KO	12.5	weeks	Mouse 90	27.5	g	90	feces
+A16_90_07	A16_90_07.mzXML	11548.A16.90.7	89.4	On shelf	A16	Regular chow	Air	ApoE KO	13	weeks	Mouse 90	27.5	g	90	feces
+A16_90_08	A16_90_08.mzXML	11548.A16.90.8	67.6	On shelf	A16	Regular chow	Air	ApoE KO	13.5	weeks	Mouse 90	28.5	g	90	feces
+A16_90_09	A16_90_09.mzXML	11548.A16.90.9	81.7	On shelf	A16	Regular chow	Air	ApoE KO	14	weeks	Mouse 90	27.3	g	90	feces
+A16_90_10	A16_90_10.mzXML	11548.A16.90.10	72.3	On shelf	A16	Regular chow	Air	ApoE KO	14.5	weeks	Mouse 90	27	g	90	feces
+A16_90_11	A16_90_11.mzXML	11548.A16.90.11	87.2	On shelf	A16	Regular chow	Air	ApoE KO	15	weeks	Mouse 90	29.3	g	90	feces
+A16_90_12	A16_90_12.mzXML	11548.A16.90.12	61.8	On shelf	A16	Regular chow	Air	ApoE KO	15.5	weeks	Mouse 90	29.7	g	90	feces
+A16_90_13	A16_90_13.mzXML	11548.A16.90.13	84.9	On shelf	A16	Regular chow	Air	ApoE KO	16	weeks	Mouse 90	30	g	90	feces
+A16_90_14	A16_90_14.mzXML	11548.A16.90.14	64.7	On shelf	A16	Regular chow	Air	ApoE KO	16.5	weeks	Mouse 90	30.1	g	90	feces
+A16_90_15	A16_90_15.mzXML	11548.A16.90.15	87.8	On shelf	A16	Regular chow	Air	ApoE KO	17	weeks	Mouse 90	30.7	g	90	feces
+A16_90_16	A16_90_16.mzXML	11548.A16.90.16	65.4	On shelf	A16	Regular chow	Air	ApoE KO	17.5	weeks	Mouse 90	31.2	g	90	feces
+A16_90_17	A16_90_17.mzXML	11548.A16.90.17	85.9	On shelf	A16	Regular chow	Air	ApoE KO	18	weeks	Mouse 90	31.5	g	90	feces
+A16_90_18	A16_90_18.mzXML	11548.A16.90.18	65.6	On shelf	A16	Regular chow	Air	ApoE KO	18.5	weeks	Mouse 90	31.6	g	90	feces
+A16_90_19	A16_90_19.mzXML	11548.A16.90.19	86.8	On shelf	A16	Regular chow	Air	ApoE KO	19	weeks	Mouse 90	31.9	g	90	feces
+A16_90_20	A16_90_20.mzXML	11548.A16.90.20	62	On shelf	A16	Regular chow	Air	ApoE KO	19.5	weeks	Mouse 90	32	g	90	feces
+A16_90_plasma	A16_90_plasma.mzXML	11548.A16.90.plasma	Not provided	On shelf	A16	Regular chow	Air	ApoE KO	20	weeks	Mouse 90	Not provided	g	90	blood
+A16_90_teeth	A16_90_teeth.mzXML	11548.A16.90.teeth	Not provided	On shelf	A16	Regular chow	Air	ApoE KO	20	weeks	Mouse 90	Not provided	g	90	tooth
+A16_91_01	A16_91_01.mzXML	11548.A16.91.1	not applicable	On shelf	A16	Regular chow	Air	ApoE KO	10	weeks	Mouse 91	27.1	g	91	feces
+A16_91_02	A16_91_02.mzXML	11548.A16.91.2	55.8	On shelf	A16	Regular chow	Air	ApoE KO	10.5	weeks	Mouse 91	28.5	g	91	feces
+A16_91_03	A16_91_03.mzXML	11548.A16.91.3	85.4	On shelf	A16	Regular chow	Air	ApoE KO	11	weeks	Mouse 91	28.3	g	91	feces
+A16_91_04	A16_91_04.mzXML	11548.A16.91.4	61	On shelf	A16	Regular chow	Air	ApoE KO	11.5	weeks	Mouse 91	29.5	g	91	feces
+A16_91_05	A16_91_05.mzXML	11548.A16.91.5	81.2	On shelf	A16	Regular chow	Air	ApoE KO	12	weeks	Mouse 91	29.6	g	91	feces
+A16_91_06	A16_91_06.mzXML	11548.A16.91.6	65.3	On shelf	A16	Regular chow	Air	ApoE KO	12.5	weeks	Mouse 91	30	g	91	feces
+A16_91_07	A16_91_07.mzXML	11548.A16.91.7	89.4	On shelf	A16	Regular chow	Air	ApoE KO	13	weeks	Mouse 91	29.8	g	91	feces
+A16_91_08	A16_91_08.mzXML	11548.A16.91.8	67.6	On shelf	A16	Regular chow	Air	ApoE KO	13.5	weeks	Mouse 91	30.9	g	91	feces
+A16_91_09	A16_91_09.mzXML	11548.A16.91.9	81.7	On shelf	A16	Regular chow	Air	ApoE KO	14	weeks	Mouse 91	30	g	91	feces
+A16_91_10	A16_91_10.mzXML	11548.A16.91.10	72.3	On shelf	A16	Regular chow	Air	ApoE KO	14.5	weeks	Mouse 91	30.2	g	91	feces
+A16_91_11	A16_91_11.mzXML	11548.A16.91.11	87.2	On shelf	A16	Regular chow	Air	ApoE KO	15	weeks	Mouse 91	31.3	g	91	feces
+A16_91_12	A16_91_12.mzXML	11548.A16.91.12	61.8	On shelf	A16	Regular chow	Air	ApoE KO	15.5	weeks	Mouse 91	31.5	g	91	feces
+A16_91_13	A16_91_13.mzXML	11548.A16.91.13	84.9	On shelf	A16	Regular chow	Air	ApoE KO	16	weeks	Mouse 91	31	g	91	feces
+A16_91_14	A16_91_14.mzXML	11548.A16.91.14	64.7	On shelf	A16	Regular chow	Air	ApoE KO	16.5	weeks	Mouse 91	31.5	g	91	feces
+A16_91_15	A16_91_15.mzXML	11548.A16.91.15	87.8	On shelf	A16	Regular chow	Air	ApoE KO	17	weeks	Mouse 91	31.8	g	91	feces
+A16_91_16	A16_91_16.mzXML	11548.A16.91.16	65.4	On shelf	A16	Regular chow	Air	ApoE KO	17.5	weeks	Mouse 91	31.8	g	91	feces
+A16_91_17	A16_91_17.mzXML	11548.A16.91.17	85.9	On shelf	A16	Regular chow	Air	ApoE KO	18	weeks	Mouse 91	32.3	g	91	feces
+A16_91_18	A16_91_18.mzXML	11548.A16.91.18	65.6	On shelf	A16	Regular chow	Air	ApoE KO	18.5	weeks	Mouse 91	32.8	g	91	feces
+A16_91_19	A16_91_19.mzXML	11548.A16.91.19	86.8	On shelf	A16	Regular chow	Air	ApoE KO	19	weeks	Mouse 91	32.9	g	91	feces
+A16_91_20	A16_91_20.mzXML	11548.A16.91.20	62	On shelf	A16	Regular chow	Air	ApoE KO	19.5	weeks	Mouse 91	33.2	g	91	feces
+A16_91_plasma	A16_91_plasma.mzXML	11548.A16.91.plasma	Not provided	On shelf	A16	Regular chow	Air	ApoE KO	20	weeks	Mouse 91	Not provided	g	91	blood
+A16_91_teeth	A16_91_teeth.mzXML	11548.A16.91.teeth	Not provided	On shelf	A16	Regular chow	Air	ApoE KO	20	weeks	Mouse 91	Not provided	g	91	tooth
+A16_92_01	A16_92_01.mzXML	11548.A16.92.1	not applicable	On shelf	A16	Regular chow	Air	ApoE KO	10	weeks	Mouse 92	27.2	g	92	feces
+A16_92_02	A16_92_02.mzXML	11548.A16.92.2	55.8	On shelf	A16	Regular chow	Air	ApoE KO	10.5	weeks	Mouse 92	28.4	g	92	feces
+A16_92_03	A16_92_03.mzXML	11548.A16.92.3	85.4	On shelf	A16	Regular chow	Air	ApoE KO	11	weeks	Mouse 92	27.7	g	92	feces
+A16_92_04	A16_92_04.mzXML	11548.A16.92.4	61	On shelf	A16	Regular chow	Air	ApoE KO	11.5	weeks	Mouse 92	28.5	g	92	feces
+A16_92_05	A16_92_05.mzXML	11548.A16.92.5	81.2	On shelf	A16	Regular chow	Air	ApoE KO	12	weeks	Mouse 92	27.9	g	92	feces
+A16_92_06	A16_92_06.mzXML	11548.A16.92.6	65.3	On shelf	A16	Regular chow	Air	ApoE KO	12.5	weeks	Mouse 92	28.8	g	92	feces
+A16_92_07	A16_92_07.mzXML	11548.A16.92.7	89.4	On shelf	A16	Regular chow	Air	ApoE KO	13	weeks	Mouse 92	28	g	92	feces
+A16_92_08	A16_92_08.mzXML	11548.A16.92.8	67.6	On shelf	A16	Regular chow	Air	ApoE KO	13.5	weeks	Mouse 92	29	g	92	feces
+A16_92_09	A16_92_09.mzXML	11548.A16.92.9	81.7	On shelf	A16	Regular chow	Air	ApoE KO	14	weeks	Mouse 92	28	g	92	feces
+A16_92_10	A16_92_10.mzXML	11548.A16.92.10	72.3	On shelf	A16	Regular chow	Air	ApoE KO	14.5	weeks	Mouse 92	28	g	92	feces
+A16_92_11	A16_92_11.mzXML	11548.A16.92.11	87.2	On shelf	A16	Regular chow	Air	ApoE KO	15	weeks	Mouse 92	29.9	g	92	feces
+A16_92_12	A16_92_12.mzXML	11548.A16.92.12	61.8	On shelf	A16	Regular chow	Air	ApoE KO	15.5	weeks	Mouse 92	30.4	g	92	feces
+A16_92_13	A16_92_13.mzXML	11548.A16.92.13	84.9	On shelf	A16	Regular chow	Air	ApoE KO	16	weeks	Mouse 92	30.5	g	92	feces
+A16_92_14	A16_92_14.mzXML	11548.A16.92.14	64.7	On shelf	A16	Regular chow	Air	ApoE KO	16.5	weeks	Mouse 92	31.2	g	92	feces
+A16_92_15	A16_92_15.mzXML	11548.A16.92.15	87.8	On shelf	A16	Regular chow	Air	ApoE KO	17	weeks	Mouse 92	31.4	g	92	feces
+A16_92_16	A16_92_16.mzXML	11548.A16.92.16	65.4	On shelf	A16	Regular chow	Air	ApoE KO	17.5	weeks	Mouse 92	31.4	g	92	feces
+A16_92_17	A16_92_17.mzXML	11548.A16.92.17	85.9	On shelf	A16	Regular chow	Air	ApoE KO	18	weeks	Mouse 92	31.3	g	92	feces
+A16_92_18	A16_92_18.mzXML	11548.A16.92.18	65.6	On shelf	A16	Regular chow	Air	ApoE KO	18.5	weeks	Mouse 92	32.5	g	92	feces
+A16_92_19	A16_92_19.mzXML	11548.A16.92.19	86.8	On shelf	A16	Regular chow	Air	ApoE KO	19	weeks	Mouse 92	32.8	g	92	feces
+A16_92_20	A16_92_20.mzXML	11548.A16.92.20	62	On shelf	A16	Regular chow	Air	ApoE KO	19.5	weeks	Mouse 92	33	g	92	feces
+A16_92_PA	A16_92_PA.mzXML	11548.A16.92.PA	Not provided	On shelf	A16	Regular chow	Air	ApoE KO	20	weeks	Mouse 92	Not provided	g	92	pulmonary artery
+A16_92_aorta	A16_92_aorta.mzXML	11548.A16.92.aorta	Not provided	On shelf	A16	Regular chow	Air	ApoE KO	20	weeks	Mouse 92	Not provided	g	92	aorta
+A16_92_plasma	A16_92_plasma.mzXML	11548.A16.92.plasma	Not provided	On shelf	A16	Regular chow	Air	ApoE KO	20	weeks	Mouse 92	Not provided	g	92	blood
+A16_92_teeth	A16_92_teeth.mzXML	11548.A16.92.teeth	Not provided	On shelf	A16	Regular chow	Air	ApoE KO	20	weeks	Mouse 92	Not provided	g	92	tooth
+A17_93_01	A17_93_01.mzXML	11548.A17.93.1	not applicable	On shelf	A17	Regular chow	Air	ApoE KO	10	weeks	Mouse 93	28.2	g	93	feces
+A17_93_02	A17_93_02.mzXML	11548.A17.93.2	56.4	On shelf	A17	Regular chow	Air	ApoE KO	10.5	weeks	Mouse 93	28.2	g	93	feces
+A17_93_03	A17_93_03.mzXML	11548.A17.93.3	76.7	On shelf	A17	Regular chow	Air	ApoE KO	11	weeks	Mouse 93	28.2	g	93	feces
+A17_93_04	A17_93_04.mzXML	11548.A17.93.4	64.9	On shelf	A17	Regular chow	Air	ApoE KO	11.5	weeks	Mouse 93	30	g	93	feces
+A17_93_05	A17_93_05.mzXML	11548.A17.93.5	78.9	On shelf	A17	Regular chow	Air	ApoE KO	12	weeks	Mouse 93	28.9	g	93	feces
+A17_93_06	A17_93_06.mzXML	11548.A17.93.6	68	On shelf	A17	Regular chow	Air	ApoE KO	12.5	weeks	Mouse 93	31	g	93	feces
+A17_93_07	A17_93_07.mzXML	11548.A17.93.7	88.7	On shelf	A17	Regular chow	Air	ApoE KO	13	weeks	Mouse 93	29.9	g	93	feces
+A17_93_08	A17_93_08.mzXML	11548.A17.93.8	73.8	On shelf	A17	Regular chow	Air	ApoE KO	13.5	weeks	Mouse 93	31.3	g	93	feces
+A17_93_09	A17_93_09.mzXML	11548.A17.93.9	86.5	On shelf	A17	Regular chow	Air	ApoE KO	14	weeks	Mouse 93	29.3	g	93	feces
+A17_93_10	A17_93_10.mzXML	11548.A17.93.10	61.5	On shelf	A17	Regular chow	Air	ApoE KO	14.5	weeks	Mouse 93	31.2	g	93	feces
+A17_93_11	A17_93_11.mzXML	11548.A17.93.11	92.5	On shelf	A17	Regular chow	Air	ApoE KO	15	weeks	Mouse 93	31	g	93	feces
+A17_93_12	A17_93_12.mzXML	11548.A17.93.12	61.6	On shelf	A17	Regular chow	Air	ApoE KO	15.5	weeks	Mouse 93	31.3	g	93	feces
+A17_93_13	A17_93_13.mzXML	11548.A17.93.13	85.8	On shelf	A17	Regular chow	Air	ApoE KO	16	weeks	Mouse 93	31.1	g	93	feces
+A17_93_14	A17_93_14.mzXML	11548.A17.93.14	66.5	On shelf	A17	Regular chow	Air	ApoE KO	16.5	weeks	Mouse 93	32.1	g	93	feces
+A17_93_15	A17_93_15.mzXML	11548.A17.93.15	88.3	On shelf	A17	Regular chow	Air	ApoE KO	17	weeks	Mouse 93	32	g	93	feces
+A17_93_16	A17_93_16.mzXML	11548.A17.93.16	61.4	On shelf	A17	Regular chow	Air	ApoE KO	17.5	weeks	Mouse 93	32.5	g	93	feces
+A17_93_17	A17_93_17.mzXML	11548.A17.93.17	81.5	On shelf	A17	Regular chow	Air	ApoE KO	18	weeks	Mouse 93	32.6	g	93	feces
+A17_93_18	A17_93_18.mzXML	11548.A17.93.18	56.9	On shelf	A17	Regular chow	Air	ApoE KO	18.5	weeks	Mouse 93	32.5	g	93	feces
+A17_93_19	A17_93_19.mzXML	11548.A17.93.19	80.9	On shelf	A17	Regular chow	Air	ApoE KO	19	weeks	Mouse 93	32.9	g	93	feces
+A17_93_20	A17_93_20.mzXML	11548.A17.93.20	58.6	On shelf	A17	Regular chow	Air	ApoE KO	19.5	weeks	Mouse 93	32.7	g	93	feces
+A17_93_plasma	A17_93_plasma.mzXML	11548.A17.93.plasma	Not provided	On shelf	A17	Regular chow	Air	ApoE KO	20	weeks	Mouse 93	Not provided	g	93	blood
+A17_93_teeth	A17_93_teeth.mzXML	11548.A17.93.teeth	Not provided	On shelf	A17	Regular chow	Air	ApoE KO	20	weeks	Mouse 93	Not provided	g	93	tooth
+A17_94_01	A17_94_01.mzXML	11548.A17.94.1	not applicable	On shelf	A17	Regular chow	Air	ApoE KO	10	weeks	Mouse 94	29.5	g	94	feces
+A17_94_02	A17_94_02.mzXML	11548.A17.94.2	56.4	On shelf	A17	Regular chow	Air	ApoE KO	10.5	weeks	Mouse 94	29.7	g	94	feces
+A17_94_03	A17_94_03.mzXML	11548.A17.94.3	76.7	On shelf	A17	Regular chow	Air	ApoE KO	11	weeks	Mouse 94	30.1	g	94	feces
+A17_94_04	A17_94_04.mzXML	11548.A17.94.4	64.9	On shelf	A17	Regular chow	Air	ApoE KO	11.5	weeks	Mouse 94	31.4	g	94	feces
+A17_94_05	A17_94_05.mzXML	11548.A17.94.5	78.9	On shelf	A17	Regular chow	Air	ApoE KO	12	weeks	Mouse 94	30.5	g	94	feces
+A17_94_06	A17_94_06.mzXML	11548.A17.94.6	68	On shelf	A17	Regular chow	Air	ApoE KO	12.5	weeks	Mouse 94	31.9	g	94	feces
+A17_94_07	A17_94_07.mzXML	11548.A17.94.7	88.7	On shelf	A17	Regular chow	Air	ApoE KO	13	weeks	Mouse 94	30.1	g	94	feces
+A17_94_08	A17_94_08.mzXML	11548.A17.94.8	73.8	On shelf	A17	Regular chow	Air	ApoE KO	13.5	weeks	Mouse 94	32.2	g	94	feces
+A17_94_09	A17_94_09.mzXML	11548.A17.94.9	86.5	On shelf	A17	Regular chow	Air	ApoE KO	14	weeks	Mouse 94	30.1	g	94	feces
+A17_94_10	A17_94_10.mzXML	11548.A17.94.10	61.5	On shelf	A17	Regular chow	Air	ApoE KO	14.5	weeks	Mouse 94	32.4	g	94	feces
+A17_94_11	A17_94_11.mzXML	11548.A17.94.11	92.5	On shelf	A17	Regular chow	Air	ApoE KO	15	weeks	Mouse 94	32.2	g	94	feces
+A17_94_12	A17_94_12.mzXML	11548.A17.94.12	61.6	On shelf	A17	Regular chow	Air	ApoE KO	15.5	weeks	Mouse 94	31.7	g	94	feces
+A17_94_13	A17_94_13.mzXML	11548.A17.94.13	85.8	On shelf	A17	Regular chow	Air	ApoE KO	16	weeks	Mouse 94	32.9	g	94	feces
+A17_94_14	A17_94_14.mzXML	11548.A17.94.14	66.5	On shelf	A17	Regular chow	Air	ApoE KO	16.5	weeks	Mouse 94	33.4	g	94	feces
+A17_94_15	A17_94_15.mzXML	11548.A17.94.15	88.3	On shelf	A17	Regular chow	Air	ApoE KO	17	weeks	Mouse 94	33.7	g	94	feces
+A17_94_16	A17_94_16.mzXML	11548.A17.94.16	61.4	On shelf	A17	Regular chow	Air	ApoE KO	17.5	weeks	Mouse 94	33.8	g	94	feces
+A17_94_17	A17_94_17.mzXML	11548.A17.94.17	81.5	On shelf	A17	Regular chow	Air	ApoE KO	18	weeks	Mouse 94	34.2	g	94	feces
+A17_94_18	A17_94_18.mzXML	11548.A17.94.18	56.9	On shelf	A17	Regular chow	Air	ApoE KO	18.5	weeks	Mouse 94	33.9	g	94	feces
+A17_94_19	A17_94_19.mzXML	11548.A17.94.19	80.9	On shelf	A17	Regular chow	Air	ApoE KO	19	weeks	Mouse 94	34.2	g	94	feces
+A17_94_20	A17_94_20.mzXML	11548.A17.94.20	58.6	On shelf	A17	Regular chow	Air	ApoE KO	19.5	weeks	Mouse 94	34.3	g	94	feces
+A17_94_plasma	A17_94_plasma.mzXML	11548.A17.94.plasma	Not provided	On shelf	A17	Regular chow	Air	ApoE KO	20	weeks	Mouse 94	Not provided	g	94	blood
+A17_94_teeth	A17_94_teeth.mzXML	11548.A17.94.teeth	Not provided	On shelf	A17	Regular chow	Air	ApoE KO	20	weeks	Mouse 94	Not provided	g	94	tooth
+A17_95_01	A17_95_01.mzXML	11548.A17.95.1	not applicable	On shelf	A17	Regular chow	Air	ApoE KO	10	weeks	Mouse 95	29.4	g	95	feces
+A17_95_02	A17_95_02.mzXML	11548.A17.95.2	56.4	On shelf	A17	Regular chow	Air	ApoE KO	10.5	weeks	Mouse 95	29.6	g	95	feces
+A17_95_03	A17_95_03.mzXML	11548.A17.95.3	76.7	On shelf	A17	Regular chow	Air	ApoE KO	11	weeks	Mouse 95	29.6	g	95	feces
+A17_95_04	A17_95_04.mzXML	11548.A17.95.4	64.9	On shelf	A17	Regular chow	Air	ApoE KO	11.5	weeks	Mouse 95	30.8	g	95	feces
+A17_95_05	A17_95_05.mzXML	11548.A17.95.5	78.9	On shelf	A17	Regular chow	Air	ApoE KO	12	weeks	Mouse 95	30.3	g	95	feces
+A17_95_06	A17_95_06.mzXML	11548.A17.95.6	68	On shelf	A17	Regular chow	Air	ApoE KO	12.5	weeks	Mouse 95	30.8	g	95	feces
+A17_95_07	A17_95_07.mzXML	11548.A17.95.7	88.7	On shelf	A17	Regular chow	Air	ApoE KO	13	weeks	Mouse 95	30.3	g	95	feces
+A17_95_08	A17_95_08.mzXML	11548.A17.95.8	73.8	On shelf	A17	Regular chow	Air	ApoE KO	13.5	weeks	Mouse 95	31.7	g	95	feces
+A17_95_09	A17_95_09.mzXML	11548.A17.95.9	86.5	On shelf	A17	Regular chow	Air	ApoE KO	14	weeks	Mouse 95	30.3	g	95	feces
+A17_95_10	A17_95_10.mzXML	11548.A17.95.10	61.5	On shelf	A17	Regular chow	Air	ApoE KO	14.5	weeks	Mouse 95	32.2	g	95	feces
+A17_95_11	A17_95_11.mzXML	11548.A17.95.11	92.5	On shelf	A17	Regular chow	Air	ApoE KO	15	weeks	Mouse 95	32.3	g	95	feces
+A17_95_12	A17_95_12.mzXML	11548.A17.95.12	61.6	On shelf	A17	Regular chow	Air	ApoE KO	15.5	weeks	Mouse 95	31.6	g	95	feces
+A17_95_13	A17_95_13.mzXML	11548.A17.95.13	85.8	On shelf	A17	Regular chow	Air	ApoE KO	16	weeks	Mouse 95	32	g	95	feces
+A17_95_14	A17_95_14.mzXML	11548.A17.95.14	66.5	On shelf	A17	Regular chow	Air	ApoE KO	16.5	weeks	Mouse 95	32.7	g	95	feces
+A17_95_15	A17_95_15.mzXML	11548.A17.95.15	88.3	On shelf	A17	Regular chow	Air	ApoE KO	17	weeks	Mouse 95	32.6	g	95	feces
+A17_95_16	A17_95_16.mzXML	11548.A17.95.16	61.4	On shelf	A17	Regular chow	Air	ApoE KO	17.5	weeks	Mouse 95	32.9	g	95	feces
+A17_95_17	A17_95_17.mzXML	11548.A17.95.17	81.5	On shelf	A17	Regular chow	Air	ApoE KO	18	weeks	Mouse 95	33.1	g	95	feces
+A17_95_18	A17_95_18.mzXML	11548.A17.95.18	56.9	On shelf	A17	Regular chow	Air	ApoE KO	18.5	weeks	Mouse 95	33.4	g	95	feces
+A17_95_19	A17_95_19.mzXML	11548.A17.95.19	80.9	On shelf	A17	Regular chow	Air	ApoE KO	19	weeks	Mouse 95	33.5	g	95	feces
+A17_95_20	A17_95_20.mzXML	11548.A17.95.20	58.6	On shelf	A17	Regular chow	Air	ApoE KO	19.5	weeks	Mouse 95	33.6	g	95	feces
+A17_95_plasma	A17_95_plasma.mzXML	11548.A17.95.plasma	Not provided	On shelf	A17	Regular chow	Air	ApoE KO	20	weeks	Mouse 95	Not provided	g	95	blood
+A17_95_teeth	A17_95_teeth.mzXML	11548.A17.95.teeth	Not provided	On shelf	A17	Regular chow	Air	ApoE KO	20	weeks	Mouse 95	Not provided	g	95	tooth
+A17_96_01	A17_96_01.mzXML	11548.A17.96.1	not applicable	On shelf	A17	Regular chow	Air	ApoE KO	10	weeks	Mouse 96	26.1	g	96	feces
+A17_96_02	A17_96_02.mzXML	11548.A17.96.2	56.4	On shelf	A17	Regular chow	Air	ApoE KO	10.5	weeks	Mouse 96	26.2	g	96	feces
+A17_96_03	A17_96_03.mzXML	11548.A17.96.3	76.7	On shelf	A17	Regular chow	Air	ApoE KO	11	weeks	Mouse 96	26.2	g	96	feces
+A17_96_04	A17_96_04.mzXML	11548.A17.96.4	64.9	On shelf	A17	Regular chow	Air	ApoE KO	11.5	weeks	Mouse 96	27.3	g	96	feces
+A17_96_05	A17_96_05.mzXML	11548.A17.96.5	78.9	On shelf	A17	Regular chow	Air	ApoE KO	12	weeks	Mouse 96	26.6	g	96	feces
+A17_96_06	A17_96_06.mzXML	11548.A17.96.6	68	On shelf	A17	Regular chow	Air	ApoE KO	12.5	weeks	Mouse 96	27.5	g	96	feces
+A17_96_07	A17_96_07.mzXML	11548.A17.96.7	88.7	On shelf	A17	Regular chow	Air	ApoE KO	13	weeks	Mouse 96	26.8	g	96	feces
+A17_96_08	A17_96_08.mzXML	11548.A17.96.8	73.8	On shelf	A17	Regular chow	Air	ApoE KO	13.5	weeks	Mouse 96	28	g	96	feces
+A17_96_09	A17_96_09.mzXML	11548.A17.96.9	86.5	On shelf	A17	Regular chow	Air	ApoE KO	14	weeks	Mouse 96	27.6	g	96	feces
+A17_96_10	A17_96_10.mzXML	11548.A17.96.10	61.5	On shelf	A17	Regular chow	Air	ApoE KO	14.5	weeks	Mouse 96	28.4	g	96	feces
+A17_96_11	A17_96_11.mzXML	11548.A17.96.11	92.5	On shelf	A17	Regular chow	Air	ApoE KO	15	weeks	Mouse 96	29.4	g	96	feces
+A17_96_12	A17_96_12.mzXML	11548.A17.96.12	61.6	On shelf	A17	Regular chow	Air	ApoE KO	15.5	weeks	Mouse 96	28.8	g	96	feces
+A17_96_13	A17_96_13.mzXML	11548.A17.96.13	85.8	On shelf	A17	Regular chow	Air	ApoE KO	16	weeks	Mouse 96	29.4	g	96	feces
+A17_96_14	A17_96_14.mzXML	11548.A17.96.14	66.5	On shelf	A17	Regular chow	Air	ApoE KO	16.5	weeks	Mouse 96	29.6	g	96	feces
+A17_96_15	A17_96_15.mzXML	11548.A17.96.15	88.3	On shelf	A17	Regular chow	Air	ApoE KO	17	weeks	Mouse 96	30.3	g	96	feces
+A17_96_16	A17_96_16.mzXML	11548.A17.96.16	61.4	On shelf	A17	Regular chow	Air	ApoE KO	17.5	weeks	Mouse 96	31	g	96	feces
+A17_96_17	A17_96_17.mzXML	11548.A17.96.17	81.5	On shelf	A17	Regular chow	Air	ApoE KO	18	weeks	Mouse 96	31.4	g	96	feces
+A17_96_18	A17_96_18.mzXML	11548.A17.96.18	56.9	On shelf	A17	Regular chow	Air	ApoE KO	18.5	weeks	Mouse 96	31.3	g	96	feces
+A17_96_19	A17_96_19.mzXML	11548.A17.96.19	80.9	On shelf	A17	Regular chow	Air	ApoE KO	19	weeks	Mouse 96	31.8	g	96	feces
+A17_96_20	A17_96_20.mzXML	11548.A17.96.20	58.6	On shelf	A17	Regular chow	Air	ApoE KO	19.5	weeks	Mouse 96	31.7	g	96	feces
+A17_96_PA	A17_96_PA.mzXML	11548.A17.96.PA	Not provided	On shelf	A17	Regular chow	Air	ApoE KO	20	weeks	Mouse 96	Not provided	g	96	pulmonary artery
+A17_96_aorta	A17_96_aorta.mzXML	11548.A17.96.aorta	Not provided	On shelf	A17	Regular chow	Air	ApoE KO	20	weeks	Mouse 96	Not provided	g	96	aorta
+A17_96_plasma	A17_96_plasma.mzXML	11548.A17.96.plasma	Not provided	On shelf	A17	Regular chow	Air	ApoE KO	20	weeks	Mouse 96	Not provided	g	96	blood
+A17_96_teeth	A17_96_teeth.mzXML	11548.A17.96.teeth	Not provided	On shelf	A17	Regular chow	Air	ApoE KO	20	weeks	Mouse 96	Not provided	g	96	tooth
+A18_100_01	A18_100_01.mzXML	11548.A18.100.1	not applicable	In Chamber	A18	HFD	IHC	ApoE KO	10	weeks	Mouse 100	26.1	g	100	feces
+A18_100_02	A18_100_02.mzXML	11548.A18.100.2	46.6	In Chamber	A18	HFD	IHC	ApoE KO	10.5	weeks	Mouse 100	25.4	g	100	feces
+A18_100_03	A18_100_03.mzXML	11548.A18.100.3	51.7	In Chamber	A18	HFD	IHC	ApoE KO	11	weeks	Mouse 100	26.2	g	100	feces
+A18_100_04	A18_100_04.mzXML	11548.A18.100.4	30.5	In Chamber	A18	HFD	IHC	ApoE KO	11.5	weeks	Mouse 100	26	g	100	feces
+A18_100_05	A18_100_05.mzXML	11548.A18.100.5	37.6	In Chamber	A18	HFD	IHC	ApoE KO	12	weeks	Mouse 100	26.1	g	100	feces
+A18_100_06	A18_100_06.mzXML	11548.A18.100.6	27.6	In Chamber	A18	HFD	IHC	ApoE KO	12.5	weeks	Mouse 100	25.8	g	100	feces
+A18_100_07	A18_100_07.mzXML	11548.A18.100.7	40	In Chamber	A18	HFD	IHC	ApoE KO	13	weeks	Mouse 100	26.1	g	100	feces
+A18_100_08	A18_100_08.mzXML	11548.A18.100.8	27.2	In Chamber	A18	HFD	IHC	ApoE KO	13.5	weeks	Mouse 100	26.2	g	100	feces
+A18_100_09	A18_100_09.mzXML	11548.A18.100.9	38.8	In Chamber	A18	HFD	IHC	ApoE KO	14	weeks	Mouse 100	26.6	g	100	feces
+A18_100_10	A18_100_10.mzXML	11548.A18.100.10	30.5	In Chamber	A18	HFD	IHC	ApoE KO	14.5	weeks	Mouse 100	26.6	g	100	feces
+A18_100_11	A18_100_11.mzXML	11548.A18.100.11	36.5	In Chamber	A18	HFD	IHC	ApoE KO	15	weeks	Mouse 100	26.4	g	100	feces
+A18_100_12	A18_100_12.mzXML	11548.A18.100.12	26.1	In Chamber	A18	HFD	IHC	ApoE KO	15.5	weeks	Mouse 100	25.9	g	100	feces
+A18_100_13	A18_100_13.mzXML	11548.A18.100.13	37.9	In Chamber	A18	HFD	IHC	ApoE KO	16	weeks	Mouse 100	26.3	g	100	feces
+A18_100_14	A18_100_14.mzXML	11548.A18.100.14	26.9	In Chamber	A18	HFD	IHC	ApoE KO	16.5	weeks	Mouse 100	25.1	g	100	feces
+A18_100_15	A18_100_15.mzXML	11548.A18.100.15	40.2	In Chamber	A18	HFD	IHC	ApoE KO	17	weeks	Mouse 100	26	g	100	feces
+A18_100_16	A18_100_16.mzXML	11548.A18.100.16	28.7	In Chamber	A18	HFD	IHC	ApoE KO	17.5	weeks	Mouse 100	25.8	g	100	feces
+A18_100_17	A18_100_17.mzXML	11548.A18.100.17	40.5	In Chamber	A18	HFD	IHC	ApoE KO	18	weeks	Mouse 100	26.5	g	100	feces
+A18_100_18	A18_100_18.mzXML	11548.A18.100.18	27.9	In Chamber	A18	HFD	IHC	ApoE KO	18.5	weeks	Mouse 100	26.3	g	100	feces
+A18_100_19	A18_100_19.mzXML	11548.A18.100.19	39.7	In Chamber	A18	HFD	IHC	ApoE KO	19	weeks	Mouse 100	26.3	g	100	feces
+A18_100_20	A18_100_20.mzXML	11548.A18.100.20	28.5	In Chamber	A18	HFD	IHC	ApoE KO	19.5	weeks	Mouse 100	26.3	g	100	feces
+A18_100_PA	A18_100_PA.mzXML	11548.A18.100.PA	Not provided	In Chamber	A18	HFD	IHC	ApoE KO	20	weeks	Mouse 100	Not provided	g	100	pulmonary artery
+A18_100_aorta	A18_100_aorta.mzXML	11548.A18.100.aorta	Not provided	In Chamber	A18	HFD	IHC	ApoE KO	20	weeks	Mouse 100	Not provided	g	100	aorta
+A18_100_plasma	A18_100_plasma.mzXML	11548.A18.100.plasma	Not provided	In Chamber	A18	HFD	IHC	ApoE KO	20	weeks	Mouse 100	Not provided	g	100	blood
+A18_100_teeth	A18_100_teeth.mzXML	11548.A18.100.teeth	Not provided	In Chamber	A18	HFD	IHC	ApoE KO	20	weeks	Mouse 100	Not provided	g	100	tooth
+A18_97_01	A18_97_01.mzXML	11548.A18.97.1	not applicable	In Chamber	A18	HFD	IHC	ApoE KO	10	weeks	Mouse 97	27.1	g	97	feces
+A18_97_02	A18_97_02.mzXML	11548.A18.97.2	46.6	In Chamber	A18	HFD	IHC	ApoE KO	10.5	weeks	Mouse 97	26.9	g	97	feces
+A18_97_03	A18_97_03.mzXML	11548.A18.97.3	51.7	In Chamber	A18	HFD	IHC	ApoE KO	11	weeks	Mouse 97	27.9	g	97	feces
+A18_97_04	A18_97_04.mzXML	11548.A18.97.4	30.5	In Chamber	A18	HFD	IHC	ApoE KO	11.5	weeks	Mouse 97	27.7	g	97	feces
+A18_97_05	A18_97_05.mzXML	11548.A18.97.5	37.6	In Chamber	A18	HFD	IHC	ApoE KO	12	weeks	Mouse 97	28	g	97	feces
+A18_97_06	A18_97_06.mzXML	11548.A18.97.6	27.6	In Chamber	A18	HFD	IHC	ApoE KO	12.5	weeks	Mouse 97	27.6	g	97	feces
+A18_97_07	A18_97_07.mzXML	11548.A18.97.7	40	In Chamber	A18	HFD	IHC	ApoE KO	13	weeks	Mouse 97	28.7	g	97	feces
+A18_97_08	A18_97_08.mzXML	11548.A18.97.8	27.2	In Chamber	A18	HFD	IHC	ApoE KO	13.5	weeks	Mouse 97	28.5	g	97	feces
+A18_97_09	A18_97_09.mzXML	11548.A18.97.9	38.8	In Chamber	A18	HFD	IHC	ApoE KO	14	weeks	Mouse 97	28.1	g	97	feces
+A18_97_10	A18_97_10.mzXML	11548.A18.97.10	30.5	In Chamber	A18	HFD	IHC	ApoE KO	14.5	weeks	Mouse 97	28.1	g	97	feces
+A18_97_11	A18_97_11.mzXML	11548.A18.97.11	36.5	In Chamber	A18	HFD	IHC	ApoE KO	15	weeks	Mouse 97	28.2	g	97	feces
+A18_97_12	A18_97_12.mzXML	11548.A18.97.12	26.1	In Chamber	A18	HFD	IHC	ApoE KO	15.5	weeks	Mouse 97	28.1	g	97	feces
+A18_97_13	A18_97_13.mzXML	11548.A18.97.13	37.9	In Chamber	A18	HFD	IHC	ApoE KO	16	weeks	Mouse 97	28.4	g	97	feces
+A18_97_14	A18_97_14.mzXML	11548.A18.97.14	26.9	In Chamber	A18	HFD	IHC	ApoE KO	16.5	weeks	Mouse 97	27.2	g	97	feces
+A18_97_15	A18_97_15.mzXML	11548.A18.97.15	40.2	In Chamber	A18	HFD	IHC	ApoE KO	17	weeks	Mouse 97	27.8	g	97	feces
+A18_97_16	A18_97_16.mzXML	11548.A18.97.16	28.7	In Chamber	A18	HFD	IHC	ApoE KO	17.5	weeks	Mouse 97	27.6	g	97	feces
+A18_97_17	A18_97_17.mzXML	11548.A18.97.17	40.5	In Chamber	A18	HFD	IHC	ApoE KO	18	weeks	Mouse 97	28.3	g	97	feces
+A18_97_18	A18_97_18.mzXML	11548.A18.97.18	27.9	In Chamber	A18	HFD	IHC	ApoE KO	18.5	weeks	Mouse 97	28.2	g	97	feces
+A18_97_19	A18_97_19.mzXML	11548.A18.97.19	39.7	In Chamber	A18	HFD	IHC	ApoE KO	19	weeks	Mouse 97	28.4	g	97	feces
+A18_97_20	A18_97_20.mzXML	11548.A18.97.20	28.5	In Chamber	A18	HFD	IHC	ApoE KO	19.5	weeks	Mouse 97	28.4	g	97	feces
+A18_97_plasma	A18_97_plasma.mzXML	11548.A18.97.plasma	Not provided	In Chamber	A18	HFD	IHC	ApoE KO	20	weeks	Mouse 97	Not provided	g	97	blood
+A18_97_teeth	A18_97_teeth.mzXML	11548.A18.97.teeth	Not provided	In Chamber	A18	HFD	IHC	ApoE KO	20	weeks	Mouse 97	Not provided	g	97	tooth
+A18_98_01	A18_98_01.mzXML	11548.A18.98.1	not applicable	In Chamber	A18	HFD	IHC	ApoE KO	10	weeks	Mouse 98	25.8	g	98	feces
+A18_98_02	A18_98_02.mzXML	11548.A18.98.2	46.6	In Chamber	A18	HFD	IHC	ApoE KO	10.5	weeks	Mouse 98	25.8	g	98	feces
+A18_98_03	A18_98_03.mzXML	11548.A18.98.3	51.7	In Chamber	A18	HFD	IHC	ApoE KO	11	weeks	Mouse 98	26.3	g	98	feces
+A18_98_04	A18_98_04.mzXML	11548.A18.98.4	30.5	In Chamber	A18	HFD	IHC	ApoE KO	11.5	weeks	Mouse 98	25.7	g	98	feces
+A18_98_05	A18_98_05.mzXML	11548.A18.98.5	37.6	In Chamber	A18	HFD	IHC	ApoE KO	12	weeks	Mouse 98	26.1	g	98	feces
+A18_98_06	A18_98_06.mzXML	11548.A18.98.6	27.6	In Chamber	A18	HFD	IHC	ApoE KO	12.5	weeks	Mouse 98	25.3	g	98	feces
+A18_98_07	A18_98_07.mzXML	11548.A18.98.7	40	In Chamber	A18	HFD	IHC	ApoE KO	13	weeks	Mouse 98	25.7	g	98	feces
+A18_98_08	A18_98_08.mzXML	11548.A18.98.8	27.2	In Chamber	A18	HFD	IHC	ApoE KO	13.5	weeks	Mouse 98	25.7	g	98	feces
+A18_98_09	A18_98_09.mzXML	11548.A18.98.9	38.8	In Chamber	A18	HFD	IHC	ApoE KO	14	weeks	Mouse 98	26.1	g	98	feces
+A18_98_10	A18_98_10.mzXML	11548.A18.98.10	30.5	In Chamber	A18	HFD	IHC	ApoE KO	14.5	weeks	Mouse 98	25.9	g	98	feces
+A18_98_11	A18_98_11.mzXML	11548.A18.98.11	36.5	In Chamber	A18	HFD	IHC	ApoE KO	15	weeks	Mouse 98	25.8	g	98	feces
+A18_98_12	A18_98_12.mzXML	11548.A18.98.12	26.1	In Chamber	A18	HFD	IHC	ApoE KO	15.5	weeks	Mouse 98	25.7	g	98	feces
+A18_98_13	A18_98_13.mzXML	11548.A18.98.13	37.9	In Chamber	A18	HFD	IHC	ApoE KO	16	weeks	Mouse 98	26.2	g	98	feces
+A18_98_14	A18_98_14.mzXML	11548.A18.98.14	26.9	In Chamber	A18	HFD	IHC	ApoE KO	16.5	weeks	Mouse 98	25.2	g	98	feces
+A18_98_15	A18_98_15.mzXML	11548.A18.98.15	40.2	In Chamber	A18	HFD	IHC	ApoE KO	17	weeks	Mouse 98	25.8	g	98	feces
+A18_98_16	A18_98_16.mzXML	11548.A18.98.16	28.7	In Chamber	A18	HFD	IHC	ApoE KO	17.5	weeks	Mouse 98	25.6	g	98	feces
+A18_98_17	A18_98_17.mzXML	11548.A18.98.17	40.5	In Chamber	A18	HFD	IHC	ApoE KO	18	weeks	Mouse 98	26.2	g	98	feces
+A18_98_18	A18_98_18.mzXML	11548.A18.98.18	27.9	In Chamber	A18	HFD	IHC	ApoE KO	18.5	weeks	Mouse 98	25.7	g	98	feces
+A18_98_19	A18_98_19.mzXML	11548.A18.98.19	39.7	In Chamber	A18	HFD	IHC	ApoE KO	19	weeks	Mouse 98	25.6	g	98	feces
+A18_98_20	A18_98_20.mzXML	11548.A18.98.20	28.5	In Chamber	A18	HFD	IHC	ApoE KO	19.5	weeks	Mouse 98	26	g	98	feces
+A18_98_plasma	A18_98_plasma.mzXML	11548.A18.98.plasma	Not provided	In Chamber	A18	HFD	IHC	ApoE KO	20	weeks	Mouse 98	Not provided	g	98	blood
+A18_98_teeth	A18_98_teeth.mzXML	11548.A18.98.teeth	Not provided	In Chamber	A18	HFD	IHC	ApoE KO	20	weeks	Mouse 98	Not provided	g	98	tooth
+A18_99_01	A18_99_01.mzXML	11548.A18.99.1	not applicable	In Chamber	A18	HFD	IHC	ApoE KO	10	weeks	Mouse 99	26.8	g	99	feces
+A18_99_02	A18_99_02.mzXML	11548.A18.99.2	46.6	In Chamber	A18	HFD	IHC	ApoE KO	10.5	weeks	Mouse 99	26	g	99	feces
+A18_99_03	A18_99_03.mzXML	11548.A18.99.3	51.7	In Chamber	A18	HFD	IHC	ApoE KO	11	weeks	Mouse 99	26.5	g	99	feces
+A18_99_04	A18_99_04.mzXML	11548.A18.99.4	30.5	In Chamber	A18	HFD	IHC	ApoE KO	11.5	weeks	Mouse 99	25.8	g	99	feces
+A18_99_05	A18_99_05.mzXML	11548.A18.99.5	37.6	In Chamber	A18	HFD	IHC	ApoE KO	12	weeks	Mouse 99	23.2	g	99	feces
+A18_99_06	A18_99_06.mzXML	11548.A18.99.6	27.6	In Chamber	A18	HFD	IHC	ApoE KO	12.5	weeks	Mouse 99	24.8	g	99	feces
+A18_99_07	A18_99_07.mzXML	11548.A18.99.7	40	In Chamber	A18	HFD	IHC	ApoE KO	13	weeks	Mouse 99	25.3	g	99	feces
+A18_99_08	A18_99_08.mzXML	11548.A18.99.8	27.2	In Chamber	A18	HFD	IHC	ApoE KO	13.5	weeks	Mouse 99	25.2	g	99	feces
+A18_99_09	A18_99_09.mzXML	11548.A18.99.9	38.8	In Chamber	A18	HFD	IHC	ApoE KO	14	weeks	Mouse 99	25.5	g	99	feces
+A18_99_10	A18_99_10.mzXML	11548.A18.99.10	30.5	In Chamber	A18	HFD	IHC	ApoE KO	14.5	weeks	Mouse 99	25.9	g	99	feces
+A18_99_11	A18_99_11.mzXML	11548.A18.99.11	36.5	In Chamber	A18	HFD	IHC	ApoE KO	15	weeks	Mouse 99	25.9	g	99	feces
+A18_99_12	A18_99_12.mzXML	11548.A18.99.12	26.1	In Chamber	A18	HFD	IHC	ApoE KO	15.5	weeks	Mouse 99	25.8	g	99	feces
+A18_99_13	A18_99_13.mzXML	11548.A18.99.13	37.9	In Chamber	A18	HFD	IHC	ApoE KO	16	weeks	Mouse 99	25.6	g	99	feces
+A18_99_14	A18_99_14.mzXML	11548.A18.99.14	26.9	In Chamber	A18	HFD	IHC	ApoE KO	16.5	weeks	Mouse 99	25.1	g	99	feces
+A18_99_15	A18_99_15.mzXML	11548.A18.99.15	40.2	In Chamber	A18	HFD	IHC	ApoE KO	17	weeks	Mouse 99	25.7	g	99	feces
+A18_99_16	A18_99_16.mzXML	11548.A18.99.16	28.7	In Chamber	A18	HFD	IHC	ApoE KO	17.5	weeks	Mouse 99	25.4	g	99	feces
+A18_99_17	A18_99_17.mzXML	11548.A18.99.17	40.5	In Chamber	A18	HFD	IHC	ApoE KO	18	weeks	Mouse 99	25.9	g	99	feces
+A18_99_18	A18_99_18.mzXML	11548.A18.99.18	27.9	In Chamber	A18	HFD	IHC	ApoE KO	18.5	weeks	Mouse 99	26.2	g	99	feces
+A18_99_19	A18_99_19.mzXML	11548.A18.99.19	39.7	In Chamber	A18	HFD	IHC	ApoE KO	19	weeks	Mouse 99	26.1	g	99	feces
+A18_99_20	A18_99_20.mzXML	11548.A18.99.20	28.5	In Chamber	A18	HFD	IHC	ApoE KO	19.5	weeks	Mouse 99	25.7	g	99	feces
+A18_99_plasma	A18_99_plasma.mzXML	11548.A18.99.plasma	Not provided	In Chamber	A18	HFD	IHC	ApoE KO	20	weeks	Mouse 99	Not provided	g	99	blood
+A18_99_teeth	A18_99_teeth.mzXML	11548.A18.99.teeth	Not provided	In Chamber	A18	HFD	IHC	ApoE KO	20	weeks	Mouse 99	Not provided	g	99	tooth
+A19_101_01	A19_101_01.mzXML	11548.A19.101.1	not applicable	In Chamber	A19	HFD	IHC	ApoE KO	10	weeks	Mouse 101	29.5	g	101	feces
+A19_101_02	A19_101_02.mzXML	11548.A19.101.2	41.1	In Chamber	A19	HFD	IHC	ApoE KO	10.5	weeks	Mouse 101	28	g	101	feces
+A19_101_03	A19_101_03.mzXML	11548.A19.101.3	52	In Chamber	A19	HFD	IHC	ApoE KO	11	weeks	Mouse 101	28	g	101	feces
+A19_101_04	A19_101_04.mzXML	11548.A19.101.4	30.7	In Chamber	A19	HFD	IHC	ApoE KO	11.5	weeks	Mouse 101	27.7	g	101	feces
+A19_101_05	A19_101_05.mzXML	11548.A19.101.5	43.7	In Chamber	A19	HFD	IHC	ApoE KO	12	weeks	Mouse 101	28.1	g	101	feces
+A19_101_06	A19_101_06.mzXML	11548.A19.101.6	29.8	In Chamber	A19	HFD	IHC	ApoE KO	12.5	weeks	Mouse 101	28	g	101	feces
+A19_101_07	A19_101_07.mzXML	11548.A19.101.7	39.9	In Chamber	A19	HFD	IHC	ApoE KO	13	weeks	Mouse 101	28.1	g	101	feces
+A19_101_08	A19_101_08.mzXML	11548.A19.101.8	28.5	In Chamber	A19	HFD	IHC	ApoE KO	13.5	weeks	Mouse 101	27.6	g	101	feces
+A19_101_09	A19_101_09.mzXML	11548.A19.101.9	38.8	In Chamber	A19	HFD	IHC	ApoE KO	14	weeks	Mouse 101	28.3	g	101	feces
+A19_101_10	A19_101_10.mzXML	11548.A19.101.10	25.8	In Chamber	A19	HFD	IHC	ApoE KO	14.5	weeks	Mouse 101	27.7	g	101	feces
+A19_101_11	A19_101_11.mzXML	11548.A19.101.11	31	In Chamber	A19	HFD	IHC	ApoE KO	15	weeks	Mouse 101	27.8	g	101	feces
+A19_101_12	A19_101_12.mzXML	11548.A19.101.12	22.5	In Chamber	A19	HFD	IHC	ApoE KO	15.5	weeks	Mouse 101	27.4	g	101	feces
+A19_101_13	A19_101_13.mzXML	11548.A19.101.13	27.2	In Chamber	A19	HFD	IHC	ApoE KO	16	weeks	Mouse 101	27.1	g	101	feces
+A19_101_14	A19_101_14.mzXML	11548.A19.101.14	20.5	In Chamber	A19	HFD	IHC	ApoE KO	16.5	weeks	Mouse 101	26.6	g	101	feces
+A19_101_15	A19_101_15.mzXML	11548.A19.101.15	29	In Chamber	A19	HFD	IHC	ApoE KO	17	weeks	Mouse 101	26.4	g	101	feces
+A19_101_16	A19_101_16.mzXML	11548.A19.101.16	23.6	In Chamber	A19	HFD	IHC	ApoE KO	17.5	weeks	Mouse 101	26.5	g	101	feces
+A19_101_17	A19_101_17.mzXML	11548.A19.101.17	29.2	In Chamber	A19	HFD	IHC	ApoE KO	18	weeks	Mouse 101	26.6	g	101	feces
+A19_101_18	A19_101_18.mzXML	11548.A19.101.18	24	In Chamber	A19	HFD	IHC	ApoE KO	18.5	weeks	Mouse 101	25.5	g	101	feces
+A19_101_19	A19_101_19.mzXML	11548.A19.101.19	29.3	In Chamber	A19	HFD	IHC	ApoE KO	19	weeks	Mouse 101	26.1	g	101	feces
+A19_101_20	A19_101_20.mzXML	11548.A19.101.20	21.8	In Chamber	A19	HFD	IHC	ApoE KO	19.5	weeks	Mouse 101	26.2	g	101	feces
+A19_101_plasma	A19_101_plasma.mzXML	11548.A19.101.plasma	Not provided	In Chamber	A19	HFD	IHC	ApoE KO	20	weeks	Mouse 101	Not provided	g	101	blood
+A19_101_teeth	A19_101_teeth.mzXML	11548.A18.101.teeth	Not provided	In Chamber	A19	HFD	IHC	ApoE KO	20	weeks	Mouse 101	Not provided	g	101	tooth
+A19_102_01	A19_102_01.mzXML	11548.A19.102.1	not applicable	In Chamber	A19	HFD	IHC	ApoE KO	10	weeks	Mouse 102	24.4	g	102	feces
+A19_102_02	A19_102_02.mzXML	11548.A19.102.2	41.1	In Chamber	A19	HFD	IHC	ApoE KO	10.5	weeks	Mouse 102	23.4	g	102	feces
+A19_102_03	A19_102_03.mzXML	11548.A19.102.3	52	In Chamber	A19	HFD	IHC	ApoE KO	11	weeks	Mouse 102	23.6	g	102	feces
+A19_102_04	A19_102_04.mzXML	11548.A19.102.4	30.7	In Chamber	A19	HFD	IHC	ApoE KO	11.5	weeks	Mouse 102	22.6	g	102	feces
+A19_102_05	A19_102_05.mzXML	11548.A19.102.5	43.7	In Chamber	A19	HFD	IHC	ApoE KO	12	weeks	Mouse 102	22.7	g	102	feces
+A19_102_06	A19_102_06.mzXML	11548.A19.102.6	29.8	In Chamber	A19	HFD	IHC	ApoE KO	12.5	weeks	Mouse 102	22.5	g	102	feces
+A19_102_07	A19_102_07.mzXML	11548.A19.102.7	39.9	In Chamber	A19	HFD	IHC	ApoE KO	13	weeks	Mouse 102	22.4	g	102	feces
+A19_102_08	A19_102_08.mzXML	11548.A19.102.8	28.5	In Chamber	A19	HFD	IHC	ApoE KO	13.5	weeks	Mouse 102	22.7	g	102	feces
+A19_102_09	A19_102_09.mzXML	11548.A19.102.9	38.8	In Chamber	A19	HFD	IHC	ApoE KO	14	weeks	Mouse 102	22.8	g	102	feces
+A19_102_10	A19_102_10.mzXML	11548.A19.102.10	25.8	In Chamber	A19	HFD	IHC	ApoE KO	14.5	weeks	Mouse 102	22.8	g	102	feces
+A19_102_11	A19_102_11.mzXML	11548.A19.102.11	31	In Chamber	A19	HFD	IHC	ApoE KO	15	weeks	Mouse 102	22.3	g	102	feces
+A19_102_12	A19_102_12.mzXML	11548.A19.102.12	22.5	In Chamber	A19	HFD	IHC	ApoE KO	15.5	weeks	Mouse 102	22.5	g	102	feces
+A19_102_13	A19_102_13.mzXML	11548.A19.102.13	27.2	In Chamber	A19	HFD	IHC	ApoE KO	16	weeks	Mouse 102	22.3	g	102	feces
+A19_102_14	A19_102_14.mzXML	11548.A19.102.14	20.5	In Chamber	A19	HFD	IHC	ApoE KO	16.5	weeks	Mouse 102	21.9	g	102	feces
+A19_102_15	A19_102_15.mzXML	11548.A19.102.15	29	In Chamber	A19	HFD	IHC	ApoE KO	17	weeks	Mouse 102	22	g	102	feces
+A19_102_16	A19_102_16.mzXML	11548.A19.102.16	23.6	In Chamber	A19	HFD	IHC	ApoE KO	17.5	weeks	Mouse 102	22.3	g	102	feces
+A19_102_17	A19_102_17.mzXML	11548.A19.102.17	29.2	In Chamber	A19	HFD	IHC	ApoE KO	18	weeks	Mouse 102	22.5	g	102	feces
+A19_102_18	A19_102_18.mzXML	11548.A19.102.18	24	In Chamber	A19	HFD	IHC	ApoE KO	18.5	weeks	Mouse 102	23	g	102	feces
+A19_102_19	A19_102_19.mzXML	11548.A19.102.19	29.3	In Chamber	A19	HFD	IHC	ApoE KO	19	weeks	Mouse 102	23	g	102	feces
+A19_102_20	A19_102_20.mzXML	11548.A19.102.20	21.8	In Chamber	A19	HFD	IHC	ApoE KO	19.5	weeks	Mouse 102	22.9	g	102	feces
+A19_102_plasma	A19_102_plasma.mzXML	11548.A19.102.plasma	Not provided	In Chamber	A19	HFD	IHC	ApoE KO	20	weeks	Mouse 102	Not provided	g	102	blood
+A19_102_teeth	A19_102_teeth.mzXML	11548.A19.102.teeth	Not provided	In Chamber	A19	HFD	IHC	ApoE KO	20	weeks	Mouse 102	Not provided	g	102	tooth
+A19_103_01	A19_103_01.mzXML	11548.A19.103.1	Not provided	In Chamber	A19	HFD	IHC	ApoE KO	10	weeks	Mouse 103	25.7	g	103	feces
+A19_103_02	A19_103_02.mzXML	11548.A19.103.2	41.1	In Chamber	A19	HFD	IHC	ApoE KO	10.5	weeks	Mouse 103	25.1	g	103	feces
+A19_103_03	A19_103_03.mzXML	11548.A19.103.3	52	In Chamber	A19	HFD	IHC	ApoE KO	11	weeks	Mouse 103	26.1	g	103	feces
+A19_103_04	A19_103_04.mzXML	11548.A19.103.4	30.7	In Chamber	A19	HFD	IHC	ApoE KO	11.5	weeks	Mouse 103	25.8	g	103	feces
+A19_103_05	A19_103_05.mzXML	11548.A19.103.5	43.7	In Chamber	A19	HFD	IHC	ApoE KO	12	weeks	Mouse 103	26.5	g	103	feces
+A19_103_06	A19_103_06.mzXML	11548.A19.103.6	29.8	In Chamber	A19	HFD	IHC	ApoE KO	12.5	weeks	Mouse 103	26.7	g	103	feces
+A19_103_07	A19_103_07.mzXML	11548.A19.103.7	39.9	In Chamber	A19	HFD	IHC	ApoE KO	13	weeks	Mouse 103	27	g	103	feces
+A19_103_08	A19_103_08.mzXML	11548.A19.103.8	28.5	In Chamber	A19	HFD	IHC	ApoE KO	13.5	weeks	Mouse 103	26.9	g	103	feces
+A19_103_09	A19_103_09.mzXML	11548.A19.103.9	38.8	In Chamber	A19	HFD	IHC	ApoE KO	14	weeks	Mouse 103	27.5	g	103	feces
+A19_103_10	A19_103_10.mzXML	11548.A19.103.10	25.8	In Chamber	A19	HFD	IHC	ApoE KO	14.5	weeks	Mouse 103	25.3	g	103	feces
+A19_103_11	A19_103_11.mzXML	11548.A19.103.11	31	In Chamber	A19	HFD	IHC	ApoE KO	15	weeks	Mouse 103	23	g	103	feces
+A19_103_15_Animal_Died	A19_103_15_Animal_Died.mzXML		Not provided	not applicable	A19	HFD	IHC	ApoE KO	17	weeks	Mouse 103	Not provided	g	103	not applicable
+A19_103_20_Animal_Died	A19_103_20_Animal_Died.mzXML		Not provided	not applicable	A19	HFD	IHC	ApoE KO	19.5	weeks	Mouse 103	Not provided	g	103	not applicable
+A19_104_01	A19_104_01.mzXML	11548.A19.104.1	Not provided	In Chamber	A19	HFD	IHC	ApoE KO	10	weeks	Mouse 104	25.6	g	104	feces
+A19_104_02	A19_104_02.mzXML	11548.A19.104.2	41.1	In Chamber	A19	HFD	IHC	ApoE KO	10.5	weeks	Mouse 104	24.3	g	104	feces
+A19_104_03	A19_104_03.mzXML	11548.A19.104.3	52	In Chamber	A19	HFD	IHC	ApoE KO	11	weeks	Mouse 104	25	g	104	feces
+A19_104_04	A19_104_04.mzXML	11548.A19.104.4	30.7	In Chamber	A19	HFD	IHC	ApoE KO	11.5	weeks	Mouse 104	24.3	g	104	feces
+A19_104_05	A19_104_05.mzXML	11548.A19.104.5	43.7	In Chamber	A19	HFD	IHC	ApoE KO	12	weeks	Mouse 104	24.9	g	104	feces
+A19_104_06	A19_104_06.mzXML	11548.A19.104.6	29.8	In Chamber	A19	HFD	IHC	ApoE KO	12.5	weeks	Mouse 104	24.4	g	104	feces
+A19_104_07	A19_104_07.mzXML	11548.A19.104.7	39.9	In Chamber	A19	HFD	IHC	ApoE KO	13	weeks	Mouse 104	24.5	g	104	feces
+A19_104_08	A19_104_08.mzXML	11548.A19.104.8	28.5	In Chamber	A19	HFD	IHC	ApoE KO	13.5	weeks	Mouse 104	24.6	g	104	feces
+A19_104_09	A19_104_09.mzXML	11548.A19.104.9	38.8	In Chamber	A19	HFD	IHC	ApoE KO	14	weeks	Mouse 104	24.7	g	104	feces
+A19_104_10	A19_104_10.mzXML	11548.A19.104.10	25.8	In Chamber	A19	HFD	IHC	ApoE KO	14.5	weeks	Mouse 104	24.3	g	104	feces
+A19_104_11	A19_104_11.mzXML	11548.A19.104.11	31	In Chamber	A19	HFD	IHC	ApoE KO	15	weeks	Mouse 104	24.2	g	104	feces
+A19_104_12	A19_104_12.mzXML	11548.A19.104.12	22.5	In Chamber	A19	HFD	IHC	ApoE KO	15.5	weeks	Mouse 104	23.5	g	104	feces
+A19_104_13	A19_104_13.mzXML	11548.A19.104.13	27.2	In Chamber	A19	HFD	IHC	ApoE KO	16	weeks	Mouse 104	23.3	g	104	feces
+A19_104_14	A19_104_14.mzXML	11548.A19.104.14	20.5	In Chamber	A19	HFD	IHC	ApoE KO	16.5	weeks	Mouse 104	22.4	g	104	feces
+A19_104_15	A19_104_15.mzXML	11548.A19.104.15	29	In Chamber	A19	HFD	IHC	ApoE KO	17	weeks	Mouse 104	22	g	104	feces
+A19_104_16	A19_104_16.mzXML	11548.A19.104.16	23.6	In Chamber	A19	HFD	IHC	ApoE KO	17.5	weeks	Mouse 104	22.1	g	104	feces
+A19_104_17	A19_104_17.mzXML	11548.A19.104.17	29.2	In Chamber	A19	HFD	IHC	ApoE KO	18	weeks	Mouse 104	20.5	g	104	feces
+A19_104_18	A19_104_18.mzXML	11548.A19.104.18	24	In Chamber	A19	HFD	IHC	ApoE KO	18.5	weeks	Mouse 104	23.3	g	104	feces
+A19_104_19	A19_104_19.mzXML	11548.A19.104.19	29.3	In Chamber	A19	HFD	IHC	ApoE KO	19	weeks	Mouse 104	22.2	g	104	feces
+A19_104_20	A19_104_20.mzXML	11548.A19.104.20	21.8	In Chamber	A19	HFD	IHC	ApoE KO	19.5	weeks	Mouse 104	21.4	g	104	feces
+A19_104_PA	A19_104_PA.mzXML	11548.A19.104.PA	Not provided	In Chamber	A19	HFD	IHC	ApoE KO	20	weeks	Mouse 104	Not provided	g	104	pulmonary artery
+A19_104_aorta	A19_104_aorta.mzXML	11548.A19.104.aorta	Not provided	In Chamber	A19	HFD	IHC	ApoE KO	20	weeks	Mouse 104	Not provided	g	104	aorta
+A19_104_plasma	A19_104_plasma.mzXML	11548.A19.104.plasma	Not provided	In Chamber	A19	HFD	IHC	ApoE KO	20	weeks	Mouse 104	Not provided	g	104	blood
+A19_104_teeth	A19_104_teeth.mzXML	11548.A19.104.teeth	Not provided	In Chamber	A19	HFD	IHC	ApoE KO	20	weeks	Mouse 104	Not provided	g	104	tooth
+A20_105_01	A20_105_01.mzXML	11548.A20.105.1	not applicable	In Chamber	A20	HFD	IHC	ApoE KO	10	weeks	Mouse 105	26.2	g	105	feces
+A20_105_02	A20_105_02.mzXML	11548.A20.105.2	41.7	In Chamber	A20	HFD	IHC	ApoE KO	10.5	weeks	Mouse 105	25.5	g	105	feces
+A20_105_03	A20_105_03.mzXML	11548.A20.105.3	54.7	In Chamber	A20	HFD	IHC	ApoE KO	11	weeks	Mouse 105	26.4	g	105	feces
+A20_105_04	A20_105_04.mzXML	11548.A20.105.4	35.8	In Chamber	A20	HFD	IHC	ApoE KO	11.5	weeks	Mouse 105	26.3	g	105	feces
+A20_105_05	A20_105_05.mzXML	11548.A20.105.5	42.8	In Chamber	A20	HFD	IHC	ApoE KO	12	weeks	Mouse 105	28.1	g	105	feces
+A20_105_06	A20_105_06.mzXML	11548.A20.105.6	31.8	In Chamber	A20	HFD	IHC	ApoE KO	12.5	weeks	Mouse 105	25.7	g	105	feces
+A20_105_07	A20_105_07.mzXML	11548.A20.105.7	42.3	In Chamber	A20	HFD	IHC	ApoE KO	13	weeks	Mouse 105	25.7	g	105	feces
+A20_105_08	A20_105_08.mzXML	11548.A20.105.8	32.8	In Chamber	A20	HFD	IHC	ApoE KO	13.5	weeks	Mouse 105	26	g	105	feces
+A20_105_09	A20_105_09.mzXML	11548.A20.105.9	40.1	In Chamber	A20	HFD	IHC	ApoE KO	14	weeks	Mouse 105	25.8	g	105	feces
+A20_105_10	A20_105_10.mzXML	11548.A20.105.10	32.2	In Chamber	A20	HFD	IHC	ApoE KO	14.5	weeks	Mouse 105	25.9	g	105	feces
+A20_105_11	A20_105_11.mzXML	11548.A20.105.11	39.3	In Chamber	A20	HFD	IHC	ApoE KO	15	weeks	Mouse 105	26.1	g	105	feces
+A20_105_12	A20_105_12.mzXML	11548.A20.105.12	29.1	In Chamber	A20	HFD	IHC	ApoE KO	15.5	weeks	Mouse 105	25.5	g	105	feces
+A20_105_13	A20_105_13.mzXML	11548.A20.105.13	39.1	In Chamber	A20	HFD	IHC	ApoE KO	16	weeks	Mouse 105	25.5	g	105	feces
+A20_105_14	A20_105_14.mzXML	11548.A20.105.14	28.2	In Chamber	A20	HFD	IHC	ApoE KO	16.5	weeks	Mouse 105	24.3	g	105	feces
+A20_105_15	A20_105_15.mzXML	11548.A20.105.15	40.3	In Chamber	A20	HFD	IHC	ApoE KO	17	weeks	Mouse 105	24.4	g	105	feces
+A20_105_16	A20_105_16.mzXML	11548.A20.105.16	30.5	In Chamber	A20	HFD	IHC	ApoE KO	17.5	weeks	Mouse 105	24.5	g	105	feces
+A20_105_17	A20_105_17.mzXML	11548.A20.105.17	40	In Chamber	A20	HFD	IHC	ApoE KO	18	weeks	Mouse 105	24.4	g	105	feces
+A20_105_18	A20_105_18.mzXML	11548.A20.105.18	30.9	In Chamber	A20	HFD	IHC	ApoE KO	18.5	weeks	Mouse 105	24.4	g	105	feces
+A20_105_19	A20_105_19.mzXML	11548.A20.105.19	37.9	In Chamber	A20	HFD	IHC	ApoE KO	19	weeks	Mouse 105	24.1	g	105	feces
+A20_105_20	A20_105_20.mzXML	11548.A20.105.20	32	In Chamber	A20	HFD	IHC	ApoE KO	19.5	weeks	Mouse 105	24.1	g	105	feces
+A20_105_plasma	A20_105_plasma.mzXML	11548.A20.105.plasma	Not provided	In Chamber	A20	HFD	IHC	ApoE KO	20	weeks	Mouse 105	Not provided	g	105	blood
+A20_105_teeth	A20_105_teeth.mzXML	11548.A20.105.teeth	Not provided	In Chamber	A20	HFD	IHC	ApoE KO	20	weeks	Mouse 105	Not provided	g	105	tooth
+A20_106_01	A20_106_01.mzXML	11548.A20.106.1	not applicable	In Chamber	A20	HFD	IHC	ApoE KO	10	weeks	Mouse 106	26.6	g	106	feces
+A20_106_02	A20_106_02.mzXML	11548.A20.106.2	41.7	In Chamber	A20	HFD	IHC	ApoE KO	10.5	weeks	Mouse 106	26.6	g	106	feces
+A20_106_03	A20_106_03.mzXML	11548.A20.106.3	54.7	In Chamber	A20	HFD	IHC	ApoE KO	11	weeks	Mouse 106	26.8	g	106	feces
+A20_106_04	A20_106_04.mzXML	11548.A20.106.4	35.8	In Chamber	A20	HFD	IHC	ApoE KO	11.5	weeks	Mouse 106	26.8	g	106	feces
+A20_106_05	A20_106_05.mzXML	11548.A20.106.5	42.8	In Chamber	A20	HFD	IHC	ApoE KO	12	weeks	Mouse 106	22.7	g	106	feces
+A20_106_06	A20_106_06.mzXML	11548.A20.106.6	31.8	In Chamber	A20	HFD	IHC	ApoE KO	12.5	weeks	Mouse 106	26.7	g	106	feces
+A20_106_07	A20_106_07.mzXML	11548.A20.106.7	42.3	In Chamber	A20	HFD	IHC	ApoE KO	13	weeks	Mouse 106	27.2	g	106	feces
+A20_106_08	A20_106_08.mzXML	11548.A20.106.8	32.8	In Chamber	A20	HFD	IHC	ApoE KO	13.5	weeks	Mouse 106	27.7	g	106	feces
+A20_106_09	A20_106_09.mzXML	11548.A20.106.9	40.1	In Chamber	A20	HFD	IHC	ApoE KO	14	weeks	Mouse 106	27.4	g	106	feces
+A20_106_10	A20_106_10.mzXML	11548.A20.106.10	32.2	In Chamber	A20	HFD	IHC	ApoE KO	14.5	weeks	Mouse 106	27.9	g	106	feces
+A20_106_11	A20_106_11.mzXML	11548.A20.106.11	39.3	In Chamber	A20	HFD	IHC	ApoE KO	15	weeks	Mouse 106	27.4	g	106	feces
+A20_106_12	A20_106_12.mzXML	11548.A20.106.12	29.1	In Chamber	A20	HFD	IHC	ApoE KO	15.5	weeks	Mouse 106	27	g	106	feces
+A20_106_13	A20_106_13.mzXML	11548.A20.106.13	39.1	In Chamber	A20	HFD	IHC	ApoE KO	16	weeks	Mouse 106	27.2	g	106	feces
+A20_106_14	A20_106_14.mzXML	11548.A20.106.14	28.2	In Chamber	A20	HFD	IHC	ApoE KO	16.5	weeks	Mouse 106	26	g	106	feces
+A20_106_15	A20_106_15.mzXML	11548.A20.106.15	40.3	In Chamber	A20	HFD	IHC	ApoE KO	17	weeks	Mouse 106	26.3	g	106	feces
+A20_106_16	A20_106_16.mzXML	11548.A20.106.16	30.5	In Chamber	A20	HFD	IHC	ApoE KO	17.5	weeks	Mouse 106	26.2	g	106	feces
+A20_106_17	A20_106_17.mzXML	11548.A20.106.17	40	In Chamber	A20	HFD	IHC	ApoE KO	18	weeks	Mouse 106	26.4	g	106	feces
+A20_106_18	A20_106_18.mzXML	11548.A20.106.18	30.9	In Chamber	A20	HFD	IHC	ApoE KO	18.5	weeks	Mouse 106	26.4	g	106	feces
+A20_106_19	A20_106_19.mzXML	11548.A20.106.19	37.9	In Chamber	A20	HFD	IHC	ApoE KO	19	weeks	Mouse 106	25.8	g	106	feces
+A20_106_20	A20_106_20.mzXML	11548.A20.106.20	32	In Chamber	A20	HFD	IHC	ApoE KO	19.5	weeks	Mouse 106	26.1	g	106	feces
+A20_106_plasma	A20_106_plasma.mzXML	11548.A20.106.plasma	Not provided	In Chamber	A20	HFD	IHC	ApoE KO	20	weeks	Mouse 106	Not provided	g	106	blood
+A20_106_teeth	A20_106_teeth.mzXML	11548.A20.106.teeth	Not provided	In Chamber	A20	HFD	IHC	ApoE KO	20	weeks	Mouse 106	Not provided	g	106	tooth
+A20_107_01	A20_107_01.mzXML	11548.A20.107.1	not applicable	In Chamber	A20	HFD	IHC	ApoE KO	10	weeks	Mouse 107	27	g	107	feces
+A20_107_02	A20_107_02.mzXML	11548.A20.107.2	41.7	In Chamber	A20	HFD	IHC	ApoE KO	10.5	weeks	Mouse 107	25.5	g	107	feces
+A20_107_03	A20_107_03.mzXML	11548.A20.107.3	54.7	In Chamber	A20	HFD	IHC	ApoE KO	11	weeks	Mouse 107	25.7	g	107	feces
+A20_107_04	A20_107_04.mzXML	11548.A20.107.4	35.8	In Chamber	A20	HFD	IHC	ApoE KO	11.5	weeks	Mouse 107	25.2	g	107	feces
+A20_107_05	A20_107_05.mzXML	11548.A20.107.5	42.8	In Chamber	A20	HFD	IHC	ApoE KO	12	weeks	Mouse 107	26.5	g	107	feces
+A20_107_06	A20_107_06.mzXML	11548.A20.107.6	31.8	In Chamber	A20	HFD	IHC	ApoE KO	12.5	weeks	Mouse 107	24.7	g	107	feces
+A20_107_07	A20_107_07.mzXML	11548.A20.107.7	42.3	In Chamber	A20	HFD	IHC	ApoE KO	13	weeks	Mouse 107	24.7	g	107	feces
+A20_107_08	A20_107_08.mzXML	11548.A20.107.8	32.8	In Chamber	A20	HFD	IHC	ApoE KO	13.5	weeks	Mouse 107	25	g	107	feces
+A20_107_09	A20_107_09.mzXML	11548.A20.107.9	40.1	In Chamber	A20	HFD	IHC	ApoE KO	14	weeks	Mouse 107	24.7	g	107	feces
+A20_107_10	A20_107_10.mzXML	11548.A20.107.10	32.2	In Chamber	A20	HFD	IHC	ApoE KO	14.5	weeks	Mouse 107	25.3	g	107	feces
+A20_107_11	A20_107_11.mzXML	11548.A20.107.11	39.3	In Chamber	A20	HFD	IHC	ApoE KO	15	weeks	Mouse 107	24.9	g	107	feces
+A20_107_12	A20_107_12.mzXML	11548.A20.107.12	29.1	In Chamber	A20	HFD	IHC	ApoE KO	15.5	weeks	Mouse 107	24.6	g	107	feces
+A20_107_13	A20_107_13.mzXML	11548.A20.107.13	39.1	In Chamber	A20	HFD	IHC	ApoE KO	16	weeks	Mouse 107	24.5	g	107	feces
+A20_107_14	A20_107_14.mzXML	11548.A20.107.14	28.2	In Chamber	A20	HFD	IHC	ApoE KO	16.5	weeks	Mouse 107	24.5	g	107	feces
+A20_107_15	A20_107_15.mzXML	11548.A20.107.15	40.3	In Chamber	A20	HFD	IHC	ApoE KO	17	weeks	Mouse 107	24.5	g	107	feces
+A20_107_16	A20_107_16.mzXML	11548.A20.107.16	30.5	In Chamber	A20	HFD	IHC	ApoE KO	17.5	weeks	Mouse 107	24.3	g	107	feces
+A20_107_17	A20_107_17.mzXML	11548.A20.107.17	40	In Chamber	A20	HFD	IHC	ApoE KO	18	weeks	Mouse 107	24.3	g	107	feces
+A20_107_18	A20_107_18.mzXML	11548.A20.107.18	30.9	In Chamber	A20	HFD	IHC	ApoE KO	18.5	weeks	Mouse 107	24.5	g	107	feces
+A20_107_19	A20_107_19.mzXML	11548.A20.107.19	37.9	In Chamber	A20	HFD	IHC	ApoE KO	19	weeks	Mouse 107	24.1	g	107	feces
+A20_107_20	A20_107_20.mzXML	11548.A20.107.20	32	In Chamber	A20	HFD	IHC	ApoE KO	19.5	weeks	Mouse 107	24.1	g	107	feces
+A20_107_plasma	A20_107_plasma.mzXML	11548.A20.107.plasma	Not provided	In Chamber	A20	HFD	IHC	ApoE KO	20	weeks	Mouse 107	Not provided	g	107	blood
+A20_107_teeth	A20_107_teeth.mzXML	11548.A20.107.teeth	Not provided	In Chamber	A20	HFD	IHC	ApoE KO	20	weeks	Mouse 107	Not provided	g	107	tooth
+A20_108_01	A20_108_01.mzXML	11548.A20.108.1	not applicable	In Chamber	A20	HFD	IHC	ApoE KO	10	weeks	Mouse 108	27.3	g	108	feces
+A20_108_02	A20_108_02.mzXML	11548.A20.108.2	41.7	In Chamber	A20	HFD	IHC	ApoE KO	10.5	weeks	Mouse 108	26.3	g	108	feces
+A20_108_03	A20_108_03.mzXML	11548.A20.108.3	54.7	In Chamber	A20	HFD	IHC	ApoE KO	11	weeks	Mouse 108	27	g	108	feces
+A20_108_04	A20_108_04.mzXML	11548.A20.108.4	35.8	In Chamber	A20	HFD	IHC	ApoE KO	11.5	weeks	Mouse 108	27	g	108	feces
+A20_108_05	A20_108_05.mzXML	11548.A20.108.5	42.8	In Chamber	A20	HFD	IHC	ApoE KO	12	weeks	Mouse 108	24.9	g	108	feces
+A20_108_06	A20_108_06.mzXML	11548.A20.108.6	31.8	In Chamber	A20	HFD	IHC	ApoE KO	12.5	weeks	Mouse 108	25.9	g	108	feces
+A20_108_07	A20_108_07.mzXML	11548.A20.108.7	42.3	In Chamber	A20	HFD	IHC	ApoE KO	13	weeks	Mouse 108	26	g	108	feces
+A20_108_08	A20_108_08.mzXML	11548.A20.108.8	32.8	In Chamber	A20	HFD	IHC	ApoE KO	13.5	weeks	Mouse 108	26.4	g	108	feces
+A20_108_09	A20_108_09.mzXML	11548.A20.108.9	40.1	In Chamber	A20	HFD	IHC	ApoE KO	14	weeks	Mouse 108	26	g	108	feces
+A20_108_10	A20_108_10.mzXML	11548.A20.108.10	32.2	In Chamber	A20	HFD	IHC	ApoE KO	14.5	weeks	Mouse 108	26.4	g	108	feces
+A20_108_11	A20_108_11.mzXML	11548.A20.108.11	39.3	In Chamber	A20	HFD	IHC	ApoE KO	15	weeks	Mouse 108	25.9	g	108	feces
+A20_108_12	A20_108_12.mzXML	11548.A20.108.12	29.1	In Chamber	A20	HFD	IHC	ApoE KO	15.5	weeks	Mouse 108	25.6	g	108	feces
+A20_108_13	A20_108_13.mzXML	11548.A20.108.13	39.1	In Chamber	A20	HFD	IHC	ApoE KO	16	weeks	Mouse 108	25.4	g	108	feces
+A20_108_14	A20_108_14.mzXML	11548.A20.108.14	28.2	In Chamber	A20	HFD	IHC	ApoE KO	16.5	weeks	Mouse 108	24.4	g	108	feces
+A20_108_15	A20_108_15.mzXML	11548.A20.108.15	40.3	In Chamber	A20	HFD	IHC	ApoE KO	17	weeks	Mouse 108	24.4	g	108	feces
+A20_108_16	A20_108_16.mzXML	11548.A20.108.16	30.5	In Chamber	A20	HFD	IHC	ApoE KO	17.5	weeks	Mouse 108	24.2	g	108	feces
+A20_108_17	A20_108_17.mzXML	11548.A20.108.17	40	In Chamber	A20	HFD	IHC	ApoE KO	18	weeks	Mouse 108	24.5	g	108	feces
+A20_108_18	A20_108_18.mzXML	11548.A20.108.18	30.9	In Chamber	A20	HFD	IHC	ApoE KO	18.5	weeks	Mouse 108	24.9	g	108	feces
+A20_108_19	A20_108_19.mzXML	11548.A20.108.19	37.9	In Chamber	A20	HFD	IHC	ApoE KO	19	weeks	Mouse 108	24.8	g	108	feces
+A20_108_20	A20_108_20.mzXML	11548.A20.108.20	32	In Chamber	A20	HFD	IHC	ApoE KO	19.5	weeks	Mouse 108	24.8	g	108	feces
+A20_108_PA	A20_108_PA.mzXML	11548.A20.108.PA	Not provided	In Chamber	A20	HFD	IHC	ApoE KO	20	weeks	Mouse 108	Not provided	g	108	pulmonary artery
+A20_108_aorta	A20_108_aorta.mzXML	11548.A20.108.aorta	Not provided	In Chamber	A20	HFD	IHC	ApoE KO	20	weeks	Mouse 108	Not provided	g	108	aorta
+A20_108_plasma	A20_108_plasma.mzXML	11548.A20.108.plasma	Not provided	On shelf	A23	HFD	Air	ApoE KO	20	weeks	Mouse 108	Not provided	g	108	blood
+A20_108_teeth	A20_108_teeth.mzXML	11548.A20.108.teeth	Not provided	In Chamber	A20	HFD	IHC	ApoE KO	20	weeks	Mouse 108	Not provided	g	108	tooth
+A21_109_01	A21_109_01.mzXML	11548.A21.109.1	not applicable	On shelf	A21	HFD	Air	ApoE KO	10	weeks	Mouse 109	25.3	g	109	feces
+A21_109_02	A21_109_02.mzXML	11548.A21.109.2	44.7	On shelf	A21	HFD	Air	ApoE KO	10.5	weeks	Mouse 109	26.2	g	109	feces
+A21_109_03	A21_109_03.mzXML	11548.A21.109.3	50.2	On shelf	A21	HFD	Air	ApoE KO	11	weeks	Mouse 109	27	g	109	feces
+A21_109_04	A21_109_04.mzXML	11548.A21.109.4	35.2	On shelf	A21	HFD	Air	ApoE KO	11.5	weeks	Mouse 109	27.1	g	109	feces
+A21_109_05	A21_109_05.mzXML	11548.A21.109.5	47.4	On shelf	A21	HFD	Air	ApoE KO	12	weeks	Mouse 109	27.6	g	109	feces
+A21_109_06	A21_109_06.mzXML	11548.A21.109.6	39	On shelf	A21	HFD	Air	ApoE KO	12.5	weeks	Mouse 109	28.2	g	109	feces
+A21_109_07	A21_109_07.mzXML	11548.A21.109.7	47	On shelf	A21	HFD	Air	ApoE KO	13	weeks	Mouse 109	27.4	g	109	feces
+A21_109_08	A21_109_08.mzXML	11548.A21.109.8	39.5	On shelf	A21	HFD	Air	ApoE KO	13.5	weeks	Mouse 109	28.5	g	109	feces
+A21_109_09	A21_109_09.mzXML	11548.A21.109.9	50.3	On shelf	A21	HFD	Air	ApoE KO	14	weeks	Mouse 109	28.4	g	109	feces
+A21_109_10	A21_109_10.mzXML	11548.A21.109.10	39.2	On shelf	A21	HFD	Air	ApoE KO	14.5	weeks	Mouse 109	29	g	109	feces
+A21_109_11	A21_109_11.mzXML	11548.A21.109.11	52.5	On shelf	A21	HFD	Air	ApoE KO	15	weeks	Mouse 109	29	g	109	feces
+A21_109_12	A21_109_12.mzXML	11548.A21.109.12	41.8	On shelf	A21	HFD	Air	ApoE KO	15.5	weeks	Mouse 109	29.3	g	109	feces
+A21_109_13	A21_109_13.mzXML	11548.A21.109.13	54.4	On shelf	A21	HFD	Air	ApoE KO	16	weeks	Mouse 109	29.7	g	109	feces
+A21_109_14	A21_109_14.mzXML	11548.A21.109.14	39	On shelf	A21	HFD	Air	ApoE KO	16.5	weeks	Mouse 109	30	g	109	feces
+A21_109_15	A21_109_15.mzXML	11548.A21.109.15	51.4	On shelf	A21	HFD	Air	ApoE KO	17	weeks	Mouse 109	30.6	g	109	feces
+A21_109_16	A21_109_16.mzXML	11548.A21.109.16	40.4	On shelf	A21	HFD	Air	ApoE KO	17.5	weeks	Mouse 109	30.5	g	109	feces
+A21_109_17	A21_109_17.mzXML	11548.A21.109.17	49.5	On shelf	A21	HFD	Air	ApoE KO	18	weeks	Mouse 109	30.4	g	109	feces
+A21_109_18	A21_109_18.mzXML	11548.A21.109.18	41.8	On shelf	A21	HFD	Air	ApoE KO	18.5	weeks	Mouse 109	30.9	g	109	feces
+A21_109_19	A21_109_19.mzXML	11548.A21.109.19	51.6	On shelf	A21	HFD	Air	ApoE KO	19	weeks	Mouse 109	31	g	109	feces
+A21_109_20	A21_109_20.mzXML	11548.A21.109.20	41.3	On shelf	A21	HFD	Air	ApoE KO	19.5	weeks	Mouse 109	31.5	g	109	feces
+A21_109_plasma	A21_109_plasma.mzXML	11548.A21.109.plasma	Not provided	On shelf	A21	HFD	Air	ApoE KO	20	weeks	Mouse 109	Not provided	g	109	blood
+A21_109_teeth	A21_109_teeth.mzXML	11548.A21.109.teeth	Not provided	On shelf	A21	HFD	Air	ApoE KO	20	weeks	Mouse 109	Not provided	g	109	tooth
+A21_110_01	A21_110_01.mzXML	11548.A21.110.1	not applicable	On shelf	A21	HFD	Air	ApoE KO	10	weeks	Mouse 110	24.4	g	110	feces
+A21_110_02	A21_110_02.mzXML	11548.A21.110.2	44.7	On shelf	A21	HFD	Air	ApoE KO	10.5	weeks	Mouse 110	26.6	g	110	feces
+A21_110_03	A21_110_03.mzXML	11548.A21.110.3	50.2	On shelf	A21	HFD	Air	ApoE KO	11	weeks	Mouse 110	28	g	110	feces
+A21_110_04	A21_110_04.mzXML	11548.A21.110.4	35.2	On shelf	A21	HFD	Air	ApoE KO	11.5	weeks	Mouse 110	28.2	g	110	feces
+A21_110_05	A21_110_05.mzXML	11548.A21.110.5	47.4	On shelf	A21	HFD	Air	ApoE KO	12	weeks	Mouse 110	28.5	g	110	feces
+A21_110_06	A21_110_06.mzXML	11548.A21.110.6	39	On shelf	A21	HFD	Air	ApoE KO	12.5	weeks	Mouse 110	29	g	110	feces
+A21_110_07	A21_110_07.mzXML	11548.A21.110.7	47	On shelf	A21	HFD	Air	ApoE KO	13	weeks	Mouse 110	29.1	g	110	feces
+A21_110_08	A21_110_08.mzXML	11548.A21.110.8	39.5	On shelf	A21	HFD	Air	ApoE KO	13.5	weeks	Mouse 110	30	g	110	feces
+A21_110_09	A21_110_09.mzXML	11548.A21.110.9	50.3	On shelf	A21	HFD	Air	ApoE KO	14	weeks	Mouse 110	30.8	g	110	feces
+A21_110_10	A21_110_10.mzXML	11548.A21.110.10	39.2	On shelf	A21	HFD	Air	ApoE KO	14.5	weeks	Mouse 110	31	g	110	feces
+A21_110_11	A21_110_11.mzXML	11548.A21.110.11	52.5	On shelf	A21	HFD	Air	ApoE KO	15	weeks	Mouse 110	30.3	g	110	feces
+A21_110_12	A21_110_12.mzXML	11548.A21.110.12	41.8	On shelf	A21	HFD	Air	ApoE KO	15.5	weeks	Mouse 110	31.6	g	110	feces
+A21_110_13	A21_110_13.mzXML	11548.A21.110.13	54.4	On shelf	A21	HFD	Air	ApoE KO	16	weeks	Mouse 110	32.3	g	110	feces
+A21_110_14	A21_110_14.mzXML	11548.A21.110.14	39	On shelf	A21	HFD	Air	ApoE KO	16.5	weeks	Mouse 110	32.2	g	110	feces
+A21_110_15	A21_110_15.mzXML	11548.A21.110.15	51.4	On shelf	A21	HFD	Air	ApoE KO	17	weeks	Mouse 110	32.3	g	110	feces
+A21_110_16	A21_110_16.mzXML	11548.A21.110.16	40.4	On shelf	A21	HFD	Air	ApoE KO	17.5	weeks	Mouse 110	33.5	g	110	feces
+A21_110_17	A21_110_17.mzXML	11548.A21.110.17	49.5	On shelf	A21	HFD	Air	ApoE KO	18	weeks	Mouse 110	32.6	g	110	feces
+A21_110_18	A21_110_18.mzXML	11548.A21.110.18	41.8	On shelf	A21	HFD	Air	ApoE KO	18.5	weeks	Mouse 110	33	g	110	feces
+A21_110_19	A21_110_19.mzXML	11548.A21.110.19	51.6	On shelf	A21	HFD	Air	ApoE KO	19	weeks	Mouse 110	32.6	g	110	feces
+A21_110_20	A21_110_20.mzXML	11548.A21.110.20	41.3	On shelf	A21	HFD	Air	ApoE KO	19.5	weeks	Mouse 110	33.1	g	110	feces
+A21_110_plasma	A21_110_plasma.mzXML	11548.A21.110.plasma	Not provided	On shelf	A21	HFD	Air	ApoE KO	20	weeks	Mouse 110	Not provided	g	110	blood
+A21_110_teeth	A21_110_teeth.mzXML	11548.A21.110.teeth	Not provided	On shelf	A21	HFD	Air	ApoE KO	20	weeks	Mouse 110	Not provided	g	110	tooth
+A21_111_01	A21_111_01.mzXML	11548.A21.111.1	not applicable	On shelf	A21	HFD	Air	ApoE KO	10	weeks	Mouse 111	24.9	g	111	feces
+A21_111_02	A21_111_02.mzXML	11548.A21.111.2	44.7	On shelf	A21	HFD	Air	ApoE KO	10.5	weeks	Mouse 111	25.7	g	111	feces
+A21_111_03	A21_111_03.mzXML	11548.A21.111.3	50.2	On shelf	A21	HFD	Air	ApoE KO	11	weeks	Mouse 111	26	g	111	feces
+A21_111_04	A21_111_04.mzXML	11548.A21.111.4	35.2	On shelf	A21	HFD	Air	ApoE KO	11.5	weeks	Mouse 111	26.4	g	111	feces
+A21_111_05	A21_111_05.mzXML	11548.A21.111.5	47.4	On shelf	A21	HFD	Air	ApoE KO	12	weeks	Mouse 111	26.6	g	111	feces
+A21_111_06	A21_111_06.mzXML	11548.A21.111.6	39	On shelf	A21	HFD	Air	ApoE KO	12.5	weeks	Mouse 111	27.2	g	111	feces
+A21_111_07	A21_111_07.mzXML	11548.A21.111.7	47	On shelf	A21	HFD	Air	ApoE KO	13	weeks	Mouse 111	26.7	g	111	feces
+A21_111_08	A21_111_08.mzXML	11548.A21.111.8	39.5	On shelf	A21	HFD	Air	ApoE KO	13.5	weeks	Mouse 111	27.8	g	111	feces
+A21_111_09	A21_111_09.mzXML	11548.A21.111.9	50.3	On shelf	A21	HFD	Air	ApoE KO	14	weeks	Mouse 111	28.7	g	111	feces
+A21_111_10	A21_111_10.mzXML	11548.A21.111.10	39.2	On shelf	A21	HFD	Air	ApoE KO	14.5	weeks	Mouse 111	28.3	g	111	feces
+A21_111_11	A21_111_11.mzXML	11548.A21.111.11	52.5	On shelf	A21	HFD	Air	ApoE KO	15	weeks	Mouse 111	29.1	g	111	feces
+A21_111_12	A21_111_12.mzXML	11548.A21.111.12	41.8	On shelf	A21	HFD	Air	ApoE KO	15.5	weeks	Mouse 111	29.5	g	111	feces
+A21_111_13	A21_111_13.mzXML	11548.A21.111.13	54.4	On shelf	A21	HFD	Air	ApoE KO	16	weeks	Mouse 111	29.8	g	111	feces
+A21_111_14	A21_111_14.mzXML	11548.A21.111.14	39	On shelf	A21	HFD	Air	ApoE KO	16.5	weeks	Mouse 111	29.7	g	111	feces
+A21_111_15	A21_111_15.mzXML	11548.A21.111.15	51.4	On shelf	A21	HFD	Air	ApoE KO	17	weeks	Mouse 111	30.3	g	111	feces
+A21_111_16	A21_111_16.mzXML	11548.A21.111.16	40.4	On shelf	A21	HFD	Air	ApoE KO	17.5	weeks	Mouse 111	30.6	g	111	feces
+A21_111_17	A21_111_17.mzXML	11548.A21.111.17	49.5	On shelf	A21	HFD	Air	ApoE KO	18	weeks	Mouse 111	30.6	g	111	feces
+A21_111_18	A21_111_18.mzXML	11548.A21.111.18	41.8	On shelf	A21	HFD	Air	ApoE KO	18.5	weeks	Mouse 111	30.8	g	111	feces
+A21_111_19	A21_111_19.mzXML	11548.A21.111.19	51.6	On shelf	A21	HFD	Air	ApoE KO	19	weeks	Mouse 111	30.8	g	111	feces
+A21_111_20	A21_111_20.mzXML	11548.A21.111.20	41.3	On shelf	A21	HFD	Air	ApoE KO	19.5	weeks	Mouse 111	31	g	111	feces
+A21_111_plasma	A21_111_plasma.mzXML	11548.A21.111.plasma	Not provided	On shelf	A21	HFD	Air	ApoE KO	20	weeks	Mouse 111	Not provided	g	111	blood
+A21_111_teeth	A21_111_teeth.mzXML	11548.A21.111.teeth	Not provided	On shelf	A21	HFD	Air	ApoE KO	20	weeks	Mouse 111	Not provided	g	111	tooth
+A21_112_01	A21_112_01.mzXML	11548.A21.112.1	not applicable	On shelf	A21	HFD	Air	ApoE KO	10	weeks	Mouse 112	25	g	112	feces
+A21_112_02	A21_112_02.mzXML	11548.A21.112.2	44.7	On shelf	A21	HFD	Air	ApoE KO	10.5	weeks	Mouse 112	25	g	112	feces
+A21_112_03	A21_112_03.mzXML	11548.A21.112.3	50.2	On shelf	A21	HFD	Air	ApoE KO	11	weeks	Mouse 112	26	g	112	feces
+A21_112_04	A21_112_04.mzXML	11548.A21.112.4	35.2	On shelf	A21	HFD	Air	ApoE KO	11.5	weeks	Mouse 112	26.4	g	112	feces
+A21_112_05	A21_112_05.mzXML	11548.A21.112.5	47.4	On shelf	A21	HFD	Air	ApoE KO	12	weeks	Mouse 112	26.4	g	112	feces
+A21_112_06	A21_112_06.mzXML	11548.A21.112.6	39	On shelf	A21	HFD	Air	ApoE KO	12.5	weeks	Mouse 112	27	g	112	feces
+A21_112_07	A21_112_07.mzXML	11548.A21.112.7	47	On shelf	A21	HFD	Air	ApoE KO	13	weeks	Mouse 112	26.7	g	112	feces
+A21_112_08	A21_112_08.mzXML	11548.A21.112.8	39.5	On shelf	A21	HFD	Air	ApoE KO	13.5	weeks	Mouse 112	28.1	g	112	feces
+A21_112_09	A21_112_09.mzXML	11548.A21.112.9	50.3	On shelf	A21	HFD	Air	ApoE KO	14	weeks	Mouse 112	27.9	g	112	feces
+A21_112_10	A21_112_10.mzXML	11548.A21.112.10	39.2	On shelf	A21	HFD	Air	ApoE KO	14.5	weeks	Mouse 112	28.4	g	112	feces
+A21_112_11	A21_112_11.mzXML	11548.A21.112.11	52.5	On shelf	A21	HFD	Air	ApoE KO	15	weeks	Mouse 112	28.5	g	112	feces
+A21_112_12	A21_112_12.mzXML	11548.A21.112.12	41.8	On shelf	A21	HFD	Air	ApoE KO	15.5	weeks	Mouse 112	28.8	g	112	feces
+A21_112_13	A21_112_13.mzXML	11548.A21.112.13	54.4	On shelf	A21	HFD	Air	ApoE KO	16	weeks	Mouse 112	29.7	g	112	feces
+A21_112_14	A21_112_14.mzXML	11548.A21.112.14	39	On shelf	A21	HFD	Air	ApoE KO	16.5	weeks	Mouse 112	29.5	g	112	feces
+A21_112_15	A21_112_15.mzXML	11548.A21.112.15	51.4	On shelf	A21	HFD	Air	ApoE KO	17	weeks	Mouse 112	29.7	g	112	feces
+A21_112_16	A21_112_16.mzXML	11548.A21.112.16	40.4	On shelf	A21	HFD	Air	ApoE KO	17.5	weeks	Mouse 112	30.3	g	112	feces
+A21_112_17	A21_112_17.mzXML	11548.A21.112.17	49.5	On shelf	A21	HFD	Air	ApoE KO	18	weeks	Mouse 112	29.6	g	112	feces
+A21_112_18	A21_112_18.mzXML	11548.A21.112.18	41.8	On shelf	A21	HFD	Air	ApoE KO	18.5	weeks	Mouse 112	29.9	g	112	feces
+A21_112_19	A21_112_19.mzXML	11548.A21.112.19	51.6	On shelf	A21	HFD	Air	ApoE KO	19	weeks	Mouse 112	30.4	g	112	feces
+A21_112_20	A21_112_20.mzXML	11548.A21.112.20	41.3	On shelf	A21	HFD	Air	ApoE KO	19.5	weeks	Mouse 112	30.6	g	112	feces
+A21_112_PA	A21_112_PA.mzXML	11548.A21.112.PA	Not provided	On shelf	A21	HFD	Air	ApoE KO	20	weeks	Mouse 112	Not provided	g	112	pulmonary artery
+A21_112_aorta	A21_112_aorta.mzXML	11548.A21.112.aorta	Not provided	On shelf	A21	HFD	Air	ApoE KO	20	weeks	Mouse 112	Not provided	g	112	aorta
+A21_112_plasma	A21_112_plasma.mzXML	11548.A21.112.plasma	Not provided	On shelf	A21	HFD	Air	ApoE KO	20	weeks	Mouse 112	Not provided	g	112	blood
+A21_112_teeth	A21_112_teeth.mzXML	11548.A21.112.teeth	Not provided	On shelf	A21	HFD	Air	ApoE KO	20	weeks	Mouse 112	Not provided	g	112	tooth
+A22_113_01	A22_113_01.mzXML	11548.A22.113.1	not applicable	On shelf	A22	HFD	Air	ApoE KO	10	weeks	Mouse 113	27.4	g	113	feces
+A22_113_02	A22_113_02.mzXML	11548.A22.113.2	44.4	On shelf	A22	HFD	Air	ApoE KO	10.5	weeks	Mouse 113	27.8	g	113	feces
+A22_113_03	A22_113_03.mzXML	11548.A22.113.3	49.9	On shelf	A22	HFD	Air	ApoE KO	11	weeks	Mouse 113	28.6	g	113	feces
+A22_113_04	A22_113_04.mzXML	11548.A22.113.4	37.5	On shelf	A22	HFD	Air	ApoE KO	11.5	weeks	Mouse 113	29.8	g	113	feces
+A22_113_05	A22_113_05.mzXML	11548.A22.113.5	46.3	On shelf	A22	HFD	Air	ApoE KO	12	weeks	Mouse 113	29.6	g	113	feces
+A22_113_06	A22_113_06.mzXML	11548.A22.113.6	35.9	On shelf	A22	HFD	Air	ApoE KO	12.5	weeks	Mouse 113	30.3	g	113	feces
+A22_113_07	A22_113_07.mzXML	11548.A22.113.7	47.6	On shelf	A22	HFD	Air	ApoE KO	13	weeks	Mouse 113	31.2	g	113	feces
+A22_113_08	A22_113_08.mzXML	11548.A22.113.8	38.7	On shelf	A22	HFD	Air	ApoE KO	13.5	weeks	Mouse 113	32.2	g	113	feces
+A22_113_09	A22_113_09.mzXML	11548.A22.113.9	48.5	On shelf	A22	HFD	Air	ApoE KO	14	weeks	Mouse 113	32.3	g	113	feces
+A22_113_10	A22_113_10.mzXML	11548.A22.113.10	38.4	On shelf	A22	HFD	Air	ApoE KO	14.5	weeks	Mouse 113	33.1	g	113	feces
+A22_113_11	A22_113_11.mzXML	11548.A22.113.11	51.1	On shelf	A22	HFD	Air	ApoE KO	15	weeks	Mouse 113	33.5	g	113	feces
+A22_113_12	A22_113_12.mzXML	11548.A22.113.12	39.1	On shelf	A22	HFD	Air	ApoE KO	15.5	weeks	Mouse 113	34	g	113	feces
+A22_113_13	A22_113_13.mzXML	11548.A22.113.13	50.3	On shelf	A22	HFD	Air	ApoE KO	16	weeks	Mouse 113	34.1	g	113	feces
+A22_113_14	A22_113_14.mzXML	11548.A22.113.14	42.8	On shelf	A22	HFD	Air	ApoE KO	16.5	weeks	Mouse 113	34.8	g	113	feces
+A22_113_15	A22_113_15.mzXML	11548.A22.113.15	47.7	On shelf	A22	HFD	Air	ApoE KO	17	weeks	Mouse 113	35.2	g	113	feces
+A22_113_16	A22_113_16.mzXML	11548.A22.113.16	39.7	On shelf	A22	HFD	Air	ApoE KO	17.5	weeks	Mouse 113	35.7	g	113	feces
+A22_113_17	A22_113_17.mzXML	11548.A22.113.17	47.4	On shelf	A22	HFD	Air	ApoE KO	18	weeks	Mouse 113	35.7	g	113	feces
+A22_113_18	A22_113_18.mzXML	11548.A22.113.18	39.6	On shelf	A22	HFD	Air	ApoE KO	18.5	weeks	Mouse 113	36.1	g	113	feces
+A22_113_19	A22_113_19.mzXML	11548.A22.113.19	50	On shelf	A22	HFD	Air	ApoE KO	19	weeks	Mouse 113	36.1	g	113	feces
+A22_113_20	A22_113_20.mzXML	11548.A22.113.20	35.6	On shelf	A22	HFD	Air	ApoE KO	19.5	weeks	Mouse 113	36.2	g	113	feces
+A22_113_plasma	A22_113_plasma.mzXML	11548.A22.113.plasma	Not provided	On shelf	A22	HFD	Air	ApoE KO	20	weeks	Mouse 113	Not provided	g	113	blood
+A22_113_teeth	A22_113_teeth.mzXML	11548.A22.113.teeth	Not provided	On shelf	A22	HFD	Air	ApoE KO	20	weeks	Mouse 113	Not provided	g	113	tooth
+A22_114_01	A22_114_01.mzXML	11548.A22.114.1	not applicable	On shelf	A22	HFD	Air	ApoE KO	10	weeks	Mouse 114	29.5	g	114	feces
+A22_114_02	A22_114_02.mzXML	11548.A22.114.2	44.4	On shelf	A22	HFD	Air	ApoE KO	10.5	weeks	Mouse 114	31.1	g	114	feces
+A22_114_03	A22_114_03.mzXML	11548.A22.114.3	49.9	On shelf	A22	HFD	Air	ApoE KO	11	weeks	Mouse 114	31.3	g	114	feces
+A22_114_04	A22_114_04.mzXML	11548.A22.114.4	37.5	On shelf	A22	HFD	Air	ApoE KO	11.5	weeks	Mouse 114	31.8	g	114	feces
+A22_114_05	A22_114_05.mzXML	11548.A22.114.5	46.3	On shelf	A22	HFD	Air	ApoE KO	12	weeks	Mouse 114	32.7	g	114	feces
+A22_114_06	A22_114_06.mzXML	11548.A22.114.6	35.9	On shelf	A22	HFD	Air	ApoE KO	12.5	weeks	Mouse 114	33.1	g	114	feces
+A22_114_07	A22_114_07.mzXML	11548.A22.114.7	47.6	On shelf	A22	HFD	Air	ApoE KO	13	weeks	Mouse 114	33.5	g	114	feces
+A22_114_08	A22_114_08.mzXML	11548.A22.114.8	38.7	On shelf	A22	HFD	Air	ApoE KO	13.5	weeks	Mouse 114	33.7	g	114	feces
+A22_114_09	A22_114_09.mzXML	11548.A22.114.9	48.5	On shelf	A22	HFD	Air	ApoE KO	14	weeks	Mouse 114	34.3	g	114	feces
+A22_114_10	A22_114_10.mzXML	11548.A22.114.10	38.4	On shelf	A22	HFD	Air	ApoE KO	14.5	weeks	Mouse 114	34.4	g	114	feces
+A22_114_11	A22_114_11.mzXML	11548.A22.114.11	51.1	On shelf	A22	HFD	Air	ApoE KO	15	weeks	Mouse 114	34.4	g	114	feces
+A22_114_12	A22_114_12.mzXML	11548.A22.114.12	39.1	On shelf	A22	HFD	Air	ApoE KO	15.5	weeks	Mouse 114	34.5	g	114	feces
+A22_114_13	A22_114_13.mzXML	11548.A22.114.13	50.3	On shelf	A22	HFD	Air	ApoE KO	16	weeks	Mouse 114	35.7	g	114	feces
+A22_114_14	A22_114_14.mzXML	11548.A22.114.14	42.8	On shelf	A22	HFD	Air	ApoE KO	16.5	weeks	Mouse 114	37	g	114	feces
+A22_114_15	A22_114_15.mzXML	11548.A22.114.15	47.7	On shelf	A22	HFD	Air	ApoE KO	17	weeks	Mouse 114	37.9	g	114	feces
+A22_114_16	A22_114_16.mzXML	11548.A22.114.16	39.7	On shelf	A22	HFD	Air	ApoE KO	17.5	weeks	Mouse 114	38	g	114	feces
+A22_114_17	A22_114_17.mzXML	11548.A22.114.17	47.4	On shelf	A22	HFD	Air	ApoE KO	18	weeks	Mouse 114	38.4	g	114	feces
+A22_114_18	A22_114_18.mzXML	11548.A22.114.18	39.6	On shelf	A22	HFD	Air	ApoE KO	18.5	weeks	Mouse 114	38.4	g	114	feces
+A22_114_19	A22_114_19.mzXML	11548.A22.114.19	50	On shelf	A22	HFD	Air	ApoE KO	19	weeks	Mouse 114	38.8	g	114	feces
+A22_114_20	A22_114_20.mzXML	11548.A22.114.20	35.6	On shelf	A22	HFD	Air	ApoE KO	19.5	weeks	Mouse 114	40	g	114	feces
+A22_114_plasma	A22_114_plasma.mzXML	11548.A22.114.plasma	Not provided	On shelf	A22	HFD	Air	ApoE KO	20	weeks	Mouse 114	Not provided	g	114	blood
+A22_114_teeth	A22_114_teeth.mzXML	11548.A22.114.teeth	Not provided	On shelf	A22	HFD	Air	ApoE KO	20	weeks	Mouse 114	Not provided	g	114	tooth
+A22_115_01	A22_115_01.mzXML	11548.A22.115.1	not applicable	On shelf	A22	HFD	Air	ApoE KO	10	weeks	Mouse 115	26.7	g	115	feces
+A22_115_02	A22_115_02.mzXML	11548.A22.115.2	44.4	On shelf	A22	HFD	Air	ApoE KO	10.5	weeks	Mouse 115	27.8	g	115	feces
+A22_115_03	A22_115_03.mzXML	11548.A22.115.3	49.9	On shelf	A22	HFD	Air	ApoE KO	11	weeks	Mouse 115	28.3	g	115	feces
+A22_115_04	A22_115_04.mzXML	11548.A22.115.4	37.5	On shelf	A22	HFD	Air	ApoE KO	11.5	weeks	Mouse 115	28.4	g	115	feces
+A22_115_05	A22_115_05.mzXML	11548.A22.115.5	46.3	On shelf	A22	HFD	Air	ApoE KO	12	weeks	Mouse 115	28.6	g	115	feces
+A22_115_06	A22_115_06.mzXML	11548.A22.115.6	35.9	On shelf	A22	HFD	Air	ApoE KO	12.5	weeks	Mouse 115	28.5	g	115	feces
+A22_115_07	A22_115_07.mzXML	11548.A22.115.7	47.6	On shelf	A22	HFD	Air	ApoE KO	13	weeks	Mouse 115	28.9	g	115	feces
+A22_115_08	A22_115_08.mzXML	11548.A22.115.8	38.7	On shelf	A22	HFD	Air	ApoE KO	13.5	weeks	Mouse 115	29.5	g	115	feces
+A22_115_09	A22_115_09.mzXML	11548.A22.115.9	48.5	On shelf	A22	HFD	Air	ApoE KO	14	weeks	Mouse 115	30.1	g	115	feces
+A22_115_10	A22_115_10.mzXML	11548.A22.115.10	38.4	On shelf	A22	HFD	Air	ApoE KO	14.5	weeks	Mouse 115	30.2	g	115	feces
+A22_115_11	A22_115_11.mzXML	11548.A22.115.11	51.1	On shelf	A22	HFD	Air	ApoE KO	15	weeks	Mouse 115	30.2	g	115	feces
+A22_115_12	A22_115_12.mzXML	11548.A22.115.12	39.1	On shelf	A22	HFD	Air	ApoE KO	15.5	weeks	Mouse 115	31.1	g	115	feces
+A22_115_13	A22_115_13.mzXML	11548.A22.115.13	50.3	On shelf	A22	HFD	Air	ApoE KO	16	weeks	Mouse 115	31.1	g	115	feces
+A22_115_14	A22_115_14.mzXML	11548.A22.115.14	42.8	On shelf	A22	HFD	Air	ApoE KO	16.5	weeks	Mouse 115	32	g	115	feces
+A22_115_15	A22_115_15.mzXML	11548.A22.115.15	47.7	On shelf	A22	HFD	Air	ApoE KO	17	weeks	Mouse 115	31.4	g	115	feces
+A22_115_16	A22_115_16.mzXML	11548.A22.115.16	39.7	On shelf	A22	HFD	Air	ApoE KO	17.5	weeks	Mouse 115	32.4	g	115	feces
+A22_115_17	A22_115_17.mzXML	11548.A22.115.17	47.4	On shelf	A22	HFD	Air	ApoE KO	18	weeks	Mouse 115	33	g	115	feces
+A22_115_18	A22_115_18.mzXML	11548.A22.115.18	39.6	On shelf	A22	HFD	Air	ApoE KO	18.5	weeks	Mouse 115	33.3	g	115	feces
+A22_115_19	A22_115_19.mzXML	11548.A22.115.19	50	On shelf	A22	HFD	Air	ApoE KO	19	weeks	Mouse 115	33.5	g	115	feces
+A22_115_20	A22_115_20.mzXML	11548.A22.115.20	35.6	On shelf	A22	HFD	Air	ApoE KO	19.5	weeks	Mouse 115	33.5	g	115	feces
+A22_115_plasma	A22_115_plasma.mzXML	11548.A22.115.plasma	Not provided	On shelf	A22	HFD	Air	ApoE KO	20	weeks	Mouse 115	Not provided	g	115	blood
+A22_115_teeth	A22_115_teeth.mzXML	11548.A22.115.teeth	Not provided	On shelf	A22	HFD	Air	ApoE KO	20	weeks	Mouse 115	Not provided	g	115	tooth
+A22_116_01	A22_116_01.mzXML	11548.A22.116.1	not applicable	On shelf	A22	HFD	Air	ApoE KO	10	weeks	Mouse 116	26.7	g	116	feces
+A22_116_02	A22_116_02.mzXML	11548.A22.116.2	44.4	On shelf	A22	HFD	Air	ApoE KO	10.5	weeks	Mouse 116	26.6	g	116	feces
+A22_116_03	A22_116_03.mzXML	11548.A22.116.3	49.9	On shelf	A22	HFD	Air	ApoE KO	11	weeks	Mouse 116	27.7	g	116	feces
+A22_116_04	A22_116_04.mzXML	11548.A22.116.4	37.5	On shelf	A22	HFD	Air	ApoE KO	11.5	weeks	Mouse 116	27.6	g	116	feces
+A22_116_05	A22_116_05.mzXML	11548.A22.116.5	46.3	On shelf	A22	HFD	Air	ApoE KO	12	weeks	Mouse 116	28.4	g	116	feces
+A22_116_06	A22_116_06.mzXML	11548.A22.116.6	35.9	On shelf	A22	HFD	Air	ApoE KO	12.5	weeks	Mouse 116	28.8	g	116	feces
+A22_116_07	A22_116_07.mzXML	11548.A22.116.7	47.6	On shelf	A22	HFD	Air	ApoE KO	13	weeks	Mouse 116	28.3	g	116	feces
+A22_116_08	A22_116_08.mzXML	11548.A22.116.8	38.7	On shelf	A22	HFD	Air	ApoE KO	13.5	weeks	Mouse 116	29.5	g	116	feces
+A22_116_09	A22_116_09.mzXML	11548.A22.116.9	48.5	On shelf	A22	HFD	Air	ApoE KO	14	weeks	Mouse 116	29.9	g	116	feces
+A22_116_10	A22_116_10.mzXML	11548.A22.116.10	38.4	On shelf	A22	HFD	Air	ApoE KO	14.5	weeks	Mouse 116	30.5	g	116	feces
+A22_116_11	A22_116_11.mzXML	11548.A22.116.11	51.1	On shelf	A22	HFD	Air	ApoE KO	15	weeks	Mouse 116	31.6	g	116	feces
+A22_116_12	A22_116_12.mzXML	11548.A22.116.12	39.1	On shelf	A22	HFD	Air	ApoE KO	15.5	weeks	Mouse 116	31.7	g	116	feces
+A22_116_13	A22_116_13.mzXML	11548.A22.116.13	50.3	On shelf	A22	HFD	Air	ApoE KO	16	weeks	Mouse 116	32	g	116	feces
+A22_116_14	A22_116_14.mzXML	11548.A22.116.14	42.8	On shelf	A22	HFD	Air	ApoE KO	16.5	weeks	Mouse 116	33.3	g	116	feces
+A22_116_15	A22_116_15.mzXML	11548.A22.116.15	47.7	On shelf	A22	HFD	Air	ApoE KO	17	weeks	Mouse 116	33.4	g	116	feces
+A22_116_16	A22_116_16.mzXML	11548.A22.116.16	39.7	On shelf	A22	HFD	Air	ApoE KO	17.5	weeks	Mouse 116	34.4	g	116	feces
+A22_116_17	A22_116_17.mzXML	11548.A22.116.17	47.4	On shelf	A22	HFD	Air	ApoE KO	18	weeks	Mouse 116	35.2	g	116	feces
+A22_116_18	A22_116_18.mzXML	11548.A22.116.18	39.6	On shelf	A22	HFD	Air	ApoE KO	18.5	weeks	Mouse 116	35.8	g	116	feces
+A22_116_19	A22_116_19.mzXML	11548.A22.116.19	50	On shelf	A22	HFD	Air	ApoE KO	19	weeks	Mouse 116	35.6	g	116	feces
+A22_116_20	A22_116_20.mzXML	11548.A22.116.20	35.6	On shelf	A22	HFD	Air	ApoE KO	19.5	weeks	Mouse 116	35	g	116	feces
+A22_116_PA	A22_116_PA.mzXML	11548.A22.116.PA	Not provided	On shelf	A22	HFD	Air	ApoE KO	20	weeks	Mouse 116	Not provided	g	116	pulmonary artery
+A22_116_aorta	A22_116_aorta.mzXML	11548.A22.116.aorta	Not provided	On shelf	A22	HFD	Air	ApoE KO	20	weeks	Mouse 116	Not provided	g	116	aorta
+A22_116_plasma	A22_116_plasma.mzXML	11548.A22.116.plasma	Not provided	On shelf	A22	HFD	Air	ApoE KO	20	weeks	Mouse 116	Not provided	g	116	blood
+A22_116_teeth	A22_116_teeth.mzXML	11548.A22.116.teeth	Not provided	On shelf	A22	HFD	Air	ApoE KO	20	weeks	Mouse 116	Not provided	g	116	tooth
+A23_117_01	A23_117_01.mzXML	11548.A23.117.1	not applicable	On shelf	A23	HFD	Air	ApoE KO	10	weeks	Mouse 117	27.2	g	117	feces
+A23_117_02	A23_117_02.mzXML	11548.A23.117.2	46.6	On shelf	A23	HFD	Air	ApoE KO	10.5	weeks	Mouse 117	28.4	g	117	feces
+A23_117_03	A23_117_03.mzXML	11548.A23.117.3	50	On shelf	A23	HFD	Air	ApoE KO	11	weeks	Mouse 117	29.1	g	117	feces
+A23_117_04	A23_117_04.mzXML	11548.A23.117.4	38.1	On shelf	A23	HFD	Air	ApoE KO	11.5	weeks	Mouse 117	29.3	g	117	feces
+A23_117_05	A23_117_05.mzXML	11548.A23.117.5	51	On shelf	A23	HFD	Air	ApoE KO	12	weeks	Mouse 117	30.3	g	117	feces
+A23_117_06	A23_117_06.mzXML	11548.A23.117.6	36.4	On shelf	A23	HFD	Air	ApoE KO	12.5	weeks	Mouse 117	31	g	117	feces
+A23_117_07	A23_117_07.mzXML	11548.A23.117.7	52	On shelf	A23	HFD	Air	ApoE KO	13	weeks	Mouse 117	31.2	g	117	feces
+A23_117_08	A23_117_08.mzXML	11548.A23.117.8	38.7	On shelf	A23	HFD	Air	ApoE KO	13.5	weeks	Mouse 117	31.7	g	117	feces
+A23_117_09	A23_117_09.mzXML	11548.A23.117.9	48.3	On shelf	A23	HFD	Air	ApoE KO	14	weeks	Mouse 117	31.9	g	117	feces
+A23_117_10	A23_117_10.mzXML	11548.A23.117.10	43.4	On shelf	A23	HFD	Air	ApoE KO	14.5	weeks	Mouse 117	33.3	g	117	feces
+A23_117_11	A23_117_11.mzXML	11548.A23.117.11	52.4	On shelf	A23	HFD	Air	ApoE KO	15	weeks	Mouse 117	34.1	g	117	feces
+A23_117_12	A23_117_12.mzXML	11548.A23.117.12	41.5	On shelf	A23	HFD	Air	ApoE KO	15.5	weeks	Mouse 117	34.7	g	117	feces
+A23_117_13	A23_117_13.mzXML	11548.A23.117.13	49.2	On shelf	A23	HFD	Air	ApoE KO	16	weeks	Mouse 117	34.3	g	117	feces
+A23_117_14	A23_117_14.mzXML	11548.A23.117.14	37.6	On shelf	A23	HFD	Air	ApoE KO	16.5	weeks	Mouse 117	34.8	g	117	feces
+A23_117_15	A23_117_15.mzXML	11548.A23.117.15	47.6	On shelf	A23	HFD	Air	ApoE KO	17	weeks	Mouse 117	34.9	g	117	feces
+A23_117_16	A23_117_16.mzXML	11548.A23.117.16	36.5	On shelf	A23	HFD	Air	ApoE KO	17.5	weeks	Mouse 117	35.1	g	117	feces
+A23_117_17	A23_117_17.mzXML	11548.A23.117.17	45.3	On shelf	A23	HFD	Air	ApoE KO	18	weeks	Mouse 117	34.1	g	117	feces
+A23_117_18	A23_117_18.mzXML	11548.A23.117.18	38.8	On shelf	A23	HFD	Air	ApoE KO	18.5	weeks	Mouse 117	35.3	g	117	feces
+A23_117_19	A23_117_19.mzXML	11548.A23.117.19	51.2	On shelf	A23	HFD	Air	ApoE KO	19	weeks	Mouse 117	35.7	g	117	feces
+A23_117_20	A23_117_20.mzXML	11548.A23.117.20	36.9	On shelf	A23	HFD	Air	ApoE KO	19.5	weeks	Mouse 117	36.1	g	117	feces
+A23_117_plasma	A23_117_plasma.mzXML	11548.A23.117.plasma	Not provided	On shelf	A23	HFD	Air	ApoE KO	20	weeks	Mouse 117	Not provided	g	117	blood
+A23_117_teeth	A23_117_teeth.mzXML	11548.A23.117.teeth	Not provided	On shelf	A23	HFD	Air	ApoE KO	20	weeks	Mouse 117	Not provided	g	117	tooth
+A23_118_01	A23_118_01.mzXML	11548.A23.118.1	not applicable	On shelf	A23	HFD	Air	ApoE KO	10	weeks	Mouse 118	26.3	g	118	feces
+A23_118_02	A23_118_02.mzXML	11548.A23.118.2	46.6	On shelf	A23	HFD	Air	ApoE KO	10.5	weeks	Mouse 118	28.3	g	118	feces
+A23_118_03	A23_118_03.mzXML	11548.A23.118.3	50	On shelf	A23	HFD	Air	ApoE KO	11	weeks	Mouse 118	28.3	g	118	feces
+A23_118_04	A23_118_04.mzXML	11548.A23.118.4	38.1	On shelf	A23	HFD	Air	ApoE KO	11.5	weeks	Mouse 118	28.7	g	118	feces
+A23_118_05	A23_118_05.mzXML	11548.A23.118.5	51	On shelf	A23	HFD	Air	ApoE KO	12	weeks	Mouse 118	29.3	g	118	feces
+A23_118_06	A23_118_06.mzXML	11548.A23.118.6	36.4	On shelf	A23	HFD	Air	ApoE KO	12.5	weeks	Mouse 118	30	g	118	feces
+A23_118_07	A23_118_07.mzXML	11548.A23.118.7	52	On shelf	A23	HFD	Air	ApoE KO	13	weeks	Mouse 118	30.1	g	118	feces
+A23_118_08	A23_118_08.mzXML	11548.A23.118.8	38.7	On shelf	A23	HFD	Air	ApoE KO	13.5	weeks	Mouse 118	30.2	g	118	feces
+A23_118_09	A23_118_09.mzXML	11548.A23.118.9	48.3	On shelf	A23	HFD	Air	ApoE KO	14	weeks	Mouse 118	30.6	g	118	feces
+A23_118_10	A23_118_10.mzXML	11548.A23.118.10	43.4	On shelf	A23	HFD	Air	ApoE KO	14.5	weeks	Mouse 118	30.8	g	118	feces
+A23_118_11	A23_118_11.mzXML	11548.A23.118.11	52.4	On shelf	A23	HFD	Air	ApoE KO	15	weeks	Mouse 118	31.9	g	118	feces
+A23_118_12	A23_118_12.mzXML	11548.A23.118.12	41.5	On shelf	A23	HFD	Air	ApoE KO	15.5	weeks	Mouse 118	32.1	g	118	feces
+A23_118_13	A23_118_13.mzXML	11548.A23.118.13	49.2	On shelf	A23	HFD	Air	ApoE KO	16	weeks	Mouse 118	32.4	g	118	feces
+A23_118_14	A23_118_14.mzXML	11548.A23.118.14	37.6	On shelf	A23	HFD	Air	ApoE KO	16.5	weeks	Mouse 118	32.2	g	118	feces
+A23_118_15	A23_118_15.mzXML	11548.A23.118.15	47.6	On shelf	A23	HFD	Air	ApoE KO	17	weeks	Mouse 118	32.5	g	118	feces
+A23_118_16	A23_118_16.mzXML	11548.A23.118.16	36.5	On shelf	A23	HFD	Air	ApoE KO	17.5	weeks	Mouse 118	32.8	g	118	feces
+A23_118_17	A23_118_17.mzXML	11548.A23.118.17	45.3	On shelf	A23	HFD	Air	ApoE KO	18	weeks	Mouse 118	32.5	g	118	feces
+A23_118_18	A23_118_18.mzXML	11548.A23.118.18	38.8	On shelf	A23	HFD	Air	ApoE KO	18.5	weeks	Mouse 118	33.2	g	118	feces
+A23_118_19	A23_118_19.mzXML	11548.A23.118.19	51.2	On shelf	A23	HFD	Air	ApoE KO	19	weeks	Mouse 118	33.7	g	118	feces
+A23_118_20	A23_118_20.mzXML	11548.A23.118.20	36.9	On shelf	A23	HFD	Air	ApoE KO	19.5	weeks	Mouse 118	33.5	g	118	feces
+A23_118_plasma	A23_118_plasma.mzXML	11548.A23.118.plasma	Not provided	On shelf	A23	HFD	Air	ApoE KO	20	weeks	Mouse 118	Not provided	g	118	blood
+A23_118_teeth	A23_118_teeth.mzXML	11548.A23.118.teeth	Not provided	On shelf	A23	HFD	Air	ApoE KO	20	weeks	Mouse 118	Not provided	g	118	tooth
+A23_119_01	A23_119_01.mzXML	11548.A23.119.1	not applicable	On shelf	A23	HFD	Air	ApoE KO	10	weeks	Mouse 119	25	g	119	feces
+A23_119_02	A23_119_02.mzXML	11548.A23.119.2	46.6	On shelf	A23	HFD	Air	ApoE KO	10.5	weeks	Mouse 119	26	g	119	feces
+A23_119_03	A23_119_03.mzXML	11548.A23.119.3	50	On shelf	A23	HFD	Air	ApoE KO	11	weeks	Mouse 119	26.1	g	119	feces
+A23_119_04	A23_119_04.mzXML	11548.A23.119.4	38.1	On shelf	A23	HFD	Air	ApoE KO	11.5	weeks	Mouse 119	25.8	g	119	feces
+A23_119_05	A23_119_05.mzXML	11548.A23.119.5	51	On shelf	A23	HFD	Air	ApoE KO	12	weeks	Mouse 119	26.2	g	119	feces
+A23_119_06	A23_119_06.mzXML	11548.A23.119.6	36.4	On shelf	A23	HFD	Air	ApoE KO	12.5	weeks	Mouse 119	26.4	g	119	feces
+A23_119_07	A23_119_07.mzXML	11548.A23.119.7	52	On shelf	A23	HFD	Air	ApoE KO	13	weeks	Mouse 119	26.7	g	119	feces
+A23_119_08	A23_119_08.mzXML	11548.A23.119.8	38.7	On shelf	A23	HFD	Air	ApoE KO	13.5	weeks	Mouse 119	27.5	g	119	feces
+A23_119_09	A23_119_09.mzXML	11548.A23.119.9	48.3	On shelf	A23	HFD	Air	ApoE KO	14	weeks	Mouse 119	27.4	g	119	feces
+A23_119_10	A23_119_10.mzXML	11548.A23.119.10	43.4	On shelf	A23	HFD	Air	ApoE KO	14.5	weeks	Mouse 119	27.8	g	119	feces
+A23_119_11	A23_119_11.mzXML	11548.A23.119.11	52.4	On shelf	A23	HFD	Air	ApoE KO	15	weeks	Mouse 119	28.6	g	119	feces
+A23_119_12	A23_119_12.mzXML	11548.A23.119.12	41.5	On shelf	A23	HFD	Air	ApoE KO	15.5	weeks	Mouse 119	28.6	g	119	feces
+A23_119_13	A23_119_13.mzXML	11548.A23.119.13	49.2	On shelf	A23	HFD	Air	ApoE KO	16	weeks	Mouse 119	28.8	g	119	feces
+A23_119_14	A23_119_14.mzXML	11548.A23.119.14	37.6	On shelf	A23	HFD	Air	ApoE KO	16.5	weeks	Mouse 119	29.3	g	119	feces
+A23_119_15	A23_119_15.mzXML	11548.A23.119.15	47.6	On shelf	A23	HFD	Air	ApoE KO	17	weeks	Mouse 119	28.7	g	119	feces
+A23_119_16	A23_119_16.mzXML	11548.A23.119.16	36.5	On shelf	A23	HFD	Air	ApoE KO	17.5	weeks	Mouse 119	29.2	g	119	feces
+A23_119_17	A23_119_17.mzXML	11548.A23.119.17	45.3	On shelf	A23	HFD	Air	ApoE KO	18	weeks	Mouse 119	28.9	g	119	feces
+A23_119_18	A23_119_18.mzXML	11548.A23.119.18	38.8	On shelf	A23	HFD	Air	ApoE KO	18.5	weeks	Mouse 119	29.5	g	119	feces
+A23_119_19	A23_119_19.mzXML	11548.A23.119.19	51.2	On shelf	A23	HFD	Air	ApoE KO	19	weeks	Mouse 119	29.8	g	119	feces
+A23_119_20	A23_119_20.mzXML	11548.A23.119.20	36.9	On shelf	A23	HFD	Air	ApoE KO	19.5	weeks	Mouse 119	30	g	119	feces
+A23_119_plasma	A23_119_plasma.mzXML	11548.A23.119.plasma	Not provided	On shelf	A23	HFD	Air	ApoE KO	20	weeks	Mouse 119	Not provided	g	119	blood
+A23_119_teeth	A23_119_teeth.mzXML	11548.A23.119.teeth	Not provided	On shelf	A23	HFD	Air	ApoE KO	20	weeks	Mouse 119	Not provided	g	119	tooth
+A23_120_01	A23_120_01.mzXML	11548.A23.120.1	not applicable	On shelf	A23	HFD	Air	ApoE KO	10	weeks	Mouse 120	27	g	120	feces
+A23_120_02	A23_120_02.mzXML	11548.A23.120.2	46.6	On shelf	A23	HFD	Air	ApoE KO	10.5	weeks	Mouse 120	27.2	g	120	feces
+A23_120_03	A23_120_03.mzXML	11548.A23.120.3	50	On shelf	A23	HFD	Air	ApoE KO	11	weeks	Mouse 120	28.2	g	120	feces
+A23_120_04	A23_120_04.mzXML	11548.A23.120.4	38.1	On shelf	A23	HFD	Air	ApoE KO	11.5	weeks	Mouse 120	28.8	g	120	feces
+A23_120_05	A23_120_05.mzXML	11548.A23.120.5	51	On shelf	A23	HFD	Air	ApoE KO	12	weeks	Mouse 120	30	g	120	feces
+A23_120_06	A23_120_06.mzXML	11548.A23.120.6	36.4	On shelf	A23	HFD	Air	ApoE KO	12.5	weeks	Mouse 120	30.5	g	120	feces
+A23_120_07	A23_120_07.mzXML	11548.A23.120.7	52	On shelf	A23	HFD	Air	ApoE KO	13	weeks	Mouse 120	30.8	g	120	feces
+A23_120_08	A23_120_08.mzXML	11548.A23.120.8	38.7	On shelf	A23	HFD	Air	ApoE KO	13.5	weeks	Mouse 120	31.5	g	120	feces
+A23_120_09	A23_120_09.mzXML	11548.A23.120.9	48.3	On shelf	A23	HFD	Air	ApoE KO	14	weeks	Mouse 120	32	g	120	feces
+A23_120_10	A23_120_10.mzXML	11548.A23.120.10	43.4	On shelf	A23	HFD	Air	ApoE KO	14.5	weeks	Mouse 120	32.5	g	120	feces
+A23_120_11	A23_120_11.mzXML	11548.A23.120.11	52.4	On shelf	A23	HFD	Air	ApoE KO	15	weeks	Mouse 120	34	g	120	feces
+A23_120_12	A23_120_12.mzXML	11548.A23.120.12	41.5	On shelf	A23	HFD	Air	ApoE KO	15.5	weeks	Mouse 120	34.6	g	120	feces
+A23_120_13	A23_120_13.mzXML	11548.A23.120.13	49.2	On shelf	A23	HFD	Air	ApoE KO	16	weeks	Mouse 120	35.3	g	120	feces
+A23_120_14	A23_120_14.mzXML	11548.A23.120.14	37.6	On shelf	A23	HFD	Air	ApoE KO	16.5	weeks	Mouse 120	35.9	g	120	feces
+A23_120_15	A23_120_15.mzXML	11548.A23.120.15	47.6	On shelf	A23	HFD	Air	ApoE KO	17	weeks	Mouse 120	36	g	120	feces
+A23_120_16	A23_120_16.mzXML	11548.A23.120.16	36.5	On shelf	A23	HFD	Air	ApoE KO	17.5	weeks	Mouse 120	36	g	120	feces
+A23_120_17	A23_120_17.mzXML	11548.A23.120.17	45.3	On shelf	A23	HFD	Air	ApoE KO	18	weeks	Mouse 120	36	g	120	feces
+A23_120_18	A23_120_18.mzXML	11548.A23.120.18	38.8	On shelf	A23	HFD	Air	ApoE KO	18.5	weeks	Mouse 120	36.9	g	120	feces
+A23_120_19	A23_120_19.mzXML	11548.A23.120.19	51.2	On shelf	A23	HFD	Air	ApoE KO	19	weeks	Mouse 120	37.2	g	120	feces
+A23_120_20	A23_120_20.mzXML	11548.A23.120.20	36.9	On shelf	A23	HFD	Air	ApoE KO	19.5	weeks	Mouse 120	37.7	g	120	feces
+A23_120_PA	A23_120_PA.mzXML	11548.A23.120.PA	Not provided	On shelf	A23	HFD	Air	ApoE KO	20	weeks	Mouse 120	Not provided	g	120	pulmonary artery
+A23_120_aorta	A23_120_aorta.mzXML	11548.A23.120.aorta	Not provided	On shelf	A23	HFD	Air	ApoE KO	20	weeks	Mouse 120	Not provided	g	120	aorta
+A23_120_plasma	A23_120_plasma.mzXML	11548.A23.120.plasma	Not provided	On shelf	A23	HFD	Air	ApoE KO	20	weeks	Mouse 120	Not provided	g	120	blood
+A23_120_teeth	A23_120_teeth.mzXML	11548.A23.120.teeth	Not provided	On shelf	A23	HFD	Air	ApoE KO	20	weeks	Mouse 120	Not provided	g	120	tooth
+Blank_G1_5uL_PreTP01_01	Blank_G1_5uL_PreTP01_01.mzXML	not applicable	Not provided	not applicable	not applicable	not applicable	not applicable	not applicable	0	weeks	not applicable	Not provided	not applicable	not applicable	not applicable
+Blank_G1_5uL_PreTP01_02	Blank_G1_5uL_PreTP01_02.mzXML	not applicable	Not provided	not applicable	not applicable	not applicable	not applicable	not applicable	0	weeks	not applicable	Not provided	not applicable	not applicable	not applicable
+Blank_G1_5uL_PreTP05	Blank_G1_5uL_PreTP05_01.mzXML	not applicable	Not provided	not applicable	not applicable	not applicable	not applicable	not applicable	0	weeks	not applicable	Not provided	not applicable	not applicable	not applicable
+Blank_G1_5uL_PreTP05_02	Blank_G1_5uL_PreTP05_02.mzXML	not applicable	Not provided	not applicable	not applicable	not applicable	not applicable	not applicable	0	weeks	not applicable	Not provided	not applicable	not applicable	not applicable
+Blank_G1_5uL_PreTP10_01	Blank_G1_5uL_PreTP10_01.mzXML	not applicable	Not provided	not applicable	not applicable	not applicable	not applicable	not applicable	0	weeks	not applicable	Not provided	not applicable	not applicable	not applicable
+Blank_G1_5uL_PreTP10_02	Blank_G1_5uL_PreTP10_02.mzXML	not applicable	Not provided	not applicable	not applicable	not applicable	not applicable	not applicable	0	weeks	not applicable	Not provided	not applicable	not applicable	not applicable
+Blank_G1_5uL_PreTP15_01	Blank_G1_5uL_PreTP15_01.mzXML	not applicable	Not provided	not applicable	not applicable	not applicable	not applicable	not applicable	0	weeks	not applicable	Not provided	not applicable	not applicable	not applicable
+Blank_G1_5uL_PreTP15_02	Blank_G1_5uL_PreTP15_02.mzXML	not applicable	Not provided	not applicable	not applicable	not applicable	not applicable	not applicable	0	weeks	not applicable	Not provided	not applicable	not applicable	not applicable
+Blank_G1_5uL_PreTP20_01	Blank_G1_5uL_PreTP20_01.mzXML	not applicable	Not provided	not applicable	not applicable	not applicable	not applicable	not applicable	0	weeks	not applicable	Not provided	not applicable	not applicable	not applicable
+Blank_G1_5uL_PreTP20_02	Blank_G1_5uL_PreTP20_02.mzXML	not applicable	Not provided	not applicable	not applicable	not applicable	not applicable	not applicable	0	weeks	not applicable	Not provided	not applicable	not applicable	not applicable
+Blank_G1_5uL_PreTP05_01	Blank_G1_5uL_PreTP05_01.mzXML	not applicable	Not provided	not applicable	not applicable	not applicable	not applicable	not applicable	0	weeks	not applicable	Not provided	not applicable	not applicable	not applicable

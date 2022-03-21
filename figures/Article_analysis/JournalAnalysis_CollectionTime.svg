@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with matplotlib (https://matplotlib.org/) -->
+<svg height="252.155625pt" version="1.1" viewBox="0 0 288.50655 252.155625" width="288.50655pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2021-08-25T22:13:45.269329</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.3.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linecap:butt;stroke-linejoin:round;}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 252.155625 
+L 288.50655 252.155625 
+L 288.50655 0 
+L 0 0 
+z
+" style="fill:none;"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 242.905498 136.235625 
+C 242.905498 125.558954 240.939588 114.972973 237.106288 105.00818 
+C 233.272987 95.043386 227.637417 85.869066 220.481994 77.944975 
+C 213.326571 70.020884 204.772854 63.481639 195.249498 58.654943 
+C 185.726142 53.828248 175.394933 50.796098 164.773603 49.710447 
+C 154.152273 48.624796 143.421259 49.504086 133.118329 52.304253 
+C 122.815399 55.10442 113.115583 59.777895 104.504969 66.090472 
+C 95.894356 72.40305 88.519226 80.247491 82.749171 89.230685 
+C 76.979117 98.213878 72.912161 108.183215 70.752113 118.639098 
+C 68.592066 129.094981 68.375621 139.859783 70.113627 150.394043 
+C 71.851632 160.928303 75.514562 171.053062 80.918854 180.260935 
+C 86.323147 189.468808 93.376992 197.603368 101.726898 204.256966 
+C 110.076805 210.910563 119.580922 215.970165 129.762965 219.182217 
+C 139.945009 222.394269 150.632005 223.704205 161.288391 223.046378 
+C 171.944777 222.388551 182.389519 219.774138 192.099197 215.334155 
+C 201.808875 210.894172 210.618538 204.704047 218.086704 197.073988 
+C 225.554869 189.443929 231.554666 180.503557 235.785425 170.700905 
+L 155.929498 136.235625 
+L 242.905498 136.235625 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 235.785425 170.700905 
+C 237.819231 165.988583 239.431939 161.105472 240.604659 156.108766 
+C 241.777379 151.112059 242.505515 146.02134 242.780539 140.896234 
+L 155.929498 136.235625 
+L 235.785425 170.700905 
+z
+" style="fill:#ff7f0e;"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 242.780539 140.896234 
+C 242.822183 140.120197 242.853423 139.343637 242.874253 138.566762 
+C 242.895082 137.789887 242.905498 137.012769 242.905498 136.235615 
+L 155.929498 136.235625 
+L 242.780539 140.896234 
+z
+" style="fill:#2ca02c;"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2"/>
+   <g id="text_1">
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 62.234375, 119.464602)" x="62.234375" y="119.464602">not provided</text>
+   </g>
+   <g id="text_2">
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 104.823067, 128.262865)" x="104.823067" y="128.262865">93.52%</text>
+   </g>
+   <g id="text_3">
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 249.072175, 160.681236)" x="249.072175" y="160.681236">relative</text>
+   </g>
+   <g id="text_4">
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 206.734594, 150.744666)" x="206.734594" y="150.744666">5.63%</text>
+   </g>
+   <g id="text_5">
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 251.568728, 141.385032)" x="251.568728" y="141.385032">Yes</text>
+   </g>
+   <g id="text_6">
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 208.096351, 140.219463)" x="208.096351" y="140.219463">0.85%</text>
+   </g>
+   <g id="text_7">
+    <text style="font-family:Arial;font-size:20px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 155.929498, 21.515625)" x="155.929498" y="21.515625">Collection Time</text>
+   </g>
+  </g>
+ </g>
+</svg>

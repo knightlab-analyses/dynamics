@@ -1,0 +1,14 @@
+sample_name	organ	diet	schedule	genotype	condition	zt	replicate	condition_zt
+#q2:types	categorical	categorical	categorical	categorical	categorical	numeric	categorical	categorical
+iCA1a	ileum	NCD	ad_lib	CDKO	CA	1	a	CA_01
+iCA1b	ileum	NCD	ad_lib	CDKO	CA	1	b	CA_01
+iCA2a	ileum	NCD	ad_lib	CDKO	CA	5	a	CA_05
+iCA2b	ileum	NCD	ad_lib	CDKO	CA	5	b	CA_05
+iCA3a	ileum	NCD	ad_lib	CDKO	CA	9	a	CA_09
+iCA3b	ileum	NCD	ad_lib	CDKO	CA	9	b	CA_09
+iCA4a	ileum	NCD	ad_lib	CDKO	CA	13	a	CA_13
+iCA4b	ileum	NCD	ad_lib	CDKO	CA	13	b	CA_13
+iCA5a	ileum	NCD	ad_lib	CDKO	CA	17	a	CA_17
+iCA5b	ileum	NCD	ad_lib	CDKO	CA	17	b	CA_17
+iCA6a	ileum	NCD	ad_lib	CDKO	CA	21	a	CA_21
+iCA6b	ileum	NCD	ad_lib	CDKO	CA	21	b	CA_21

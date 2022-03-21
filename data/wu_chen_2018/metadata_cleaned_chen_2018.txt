@@ -1,0 +1,873 @@
+#SampleID	site	time	group	subgroup	numberID	number	organ	niche	feeding_pattern	combined	combined2	combined3	combined4
+caecumZT2.LD1	caecum	ZT2	LD	LDZT2	1	1	cecum		ad libitum	1_LD_ZT2	LD_ZT2	nan_LD_ZT2	nan_cecum_LD_ZT2
+caecumZT2.LD2	caecum	ZT2	LD	LDZT2	2	2	cecum		ad libitum	2_LD_ZT2	LD_ZT2	nan_LD_ZT2	nan_cecum_LD_ZT2
+caecumZT2.LD3	caecum	ZT2	LD	LDZT2	3	3	cecum		ad libitum	3_LD_ZT2	LD_ZT2	nan_LD_ZT2	nan_cecum_LD_ZT2
+caecumZT2.LD4	caecum	ZT2	LD	LDZT2	4	4	cecum		ad libitum	4_LD_ZT2	LD_ZT2	nan_LD_ZT2	nan_cecum_LD_ZT2
+caecumZT2.LD5	caecum	ZT2	LD	LDZT2	5	5	cecum		ad libitum	5_LD_ZT2	LD_ZT2	nan_LD_ZT2	nan_cecum_LD_ZT2
+caecumZT2.RF1	caecum	ZT2	RF	RFZT2	1	6	cecum		restricted feeding (time unknown)	1_RF_ZT2	RF_ZT2	nan_RF_ZT2	nan_cecum_RF_ZT2
+caecumZT2.RF2	caecum	ZT2	RF	RFZT2	2	7	cecum		restricted feeding (time unknown)	2_RF_ZT2	RF_ZT2	nan_RF_ZT2	nan_cecum_RF_ZT2
+caecumZT2.RF3	caecum	ZT2	RF	RFZT2	3	8	cecum		restricted feeding (time unknown)	3_RF_ZT2	RF_ZT2	nan_RF_ZT2	nan_cecum_RF_ZT2
+caecumZT2.RF4	caecum	ZT2	RF	RFZT2	4	9	cecum		restricted feeding (time unknown)	4_RF_ZT2	RF_ZT2	nan_RF_ZT2	nan_cecum_RF_ZT2
+caecumZT2.RF5	caecum	ZT2	RF	RFZT2	5	10	cecum		restricted feeding (time unknown)	5_RF_ZT2	RF_ZT2	nan_RF_ZT2	nan_cecum_RF_ZT2
+caecumZT2.DD1	caecum	ZT2	DD	DDZT2	1	11	cecum		ad libitum	1_DD_ZT2	DD_ZT2	nan_DD_ZT2	nan_cecum_DD_ZT2
+caecumZT2.DD2	caecum	ZT2	DD	DDZT2	2	12	cecum		ad libitum	2_DD_ZT2	DD_ZT2	nan_DD_ZT2	nan_cecum_DD_ZT2
+caecumZT2.DD3	caecum	ZT2	DD	DDZT2	3	13	cecum		ad libitum	3_DD_ZT2	DD_ZT2	nan_DD_ZT2	nan_cecum_DD_ZT2
+caecumZT2.DD4	caecum	ZT2	DD	DDZT2	4	14	cecum		ad libitum	4_DD_ZT2	DD_ZT2	nan_DD_ZT2	nan_cecum_DD_ZT2
+caecumZT2.DD5	caecum	ZT2	DD	DDZT2	5	15	cecum		ad libitum	5_DD_ZT2	DD_ZT2	nan_DD_ZT2	nan_cecum_DD_ZT2
+caecumZT6.LD1	caecum	ZT6	LD	LDZT6	1	16	cecum		ad libitum	1_LD_ZT6	LD_ZT6	nan_LD_ZT6	nan_cecum_LD_ZT6
+caecumZT6.LD2	caecum	ZT6	LD	LDZT6	2	17	cecum		ad libitum	2_LD_ZT6	LD_ZT6	nan_LD_ZT6	nan_cecum_LD_ZT6
+caecumZT6.LD3	caecum	ZT6	LD	LDZT6	3	18	cecum		ad libitum	3_LD_ZT6	LD_ZT6	nan_LD_ZT6	nan_cecum_LD_ZT6
+caecumZT6.LD4	caecum	ZT6	LD	LDZT6	4	19	cecum		ad libitum	4_LD_ZT6	LD_ZT6	nan_LD_ZT6	nan_cecum_LD_ZT6
+caecumZT6.LD5	caecum	ZT6	LD	LDZT6	5	20	cecum		ad libitum	5_LD_ZT6	LD_ZT6	nan_LD_ZT6	nan_cecum_LD_ZT6
+caecumZT6.RF1	caecum	ZT6	RF	RFZT6	1	21	cecum		restricted feeding (time unknown)	1_RF_ZT6	RF_ZT6	nan_RF_ZT6	nan_cecum_RF_ZT6
+caecumZT6.RF2	caecum	ZT6	RF	RFZT6	2	22	cecum		restricted feeding (time unknown)	2_RF_ZT6	RF_ZT6	nan_RF_ZT6	nan_cecum_RF_ZT6
+caecumZT6.RF3	caecum	ZT6	RF	RFZT6	3	23	cecum		restricted feeding (time unknown)	3_RF_ZT6	RF_ZT6	nan_RF_ZT6	nan_cecum_RF_ZT6
+caecumZT6.RF4	caecum	ZT6	RF	RFZT6	4	24	cecum		restricted feeding (time unknown)	4_RF_ZT6	RF_ZT6	nan_RF_ZT6	nan_cecum_RF_ZT6
+caecumZT6.RF5	caecum	ZT6	RF	RFZT6	5	25	cecum		restricted feeding (time unknown)	5_RF_ZT6	RF_ZT6	nan_RF_ZT6	nan_cecum_RF_ZT6
+caecumZT6.DD1	caecum	ZT6	DD	DDZT6	1	26	cecum		ad libitum	1_DD_ZT6	DD_ZT6	nan_DD_ZT6	nan_cecum_DD_ZT6
+caecumZT6.DD2	caecum	ZT6	DD	DDZT6	2	27	cecum		ad libitum	2_DD_ZT6	DD_ZT6	nan_DD_ZT6	nan_cecum_DD_ZT6
+caecumZT6.DD3	caecum	ZT6	DD	DDZT6	3	28	cecum		ad libitum	3_DD_ZT6	DD_ZT6	nan_DD_ZT6	nan_cecum_DD_ZT6
+caecumZT6.DD4	caecum	ZT6	DD	DDZT6	4	29	cecum		ad libitum	4_DD_ZT6	DD_ZT6	nan_DD_ZT6	nan_cecum_DD_ZT6
+caecumZT6.DD5	caecum	ZT6	DD	DDZT6	5	30	cecum		ad libitum	5_DD_ZT6	DD_ZT6	nan_DD_ZT6	nan_cecum_DD_ZT6
+caecumZT10.LD1	caecum	ZT10	LD	LDZT10	1	31	cecum		ad libitum	1_LD_ZT10	LD_ZT10	nan_LD_ZT10	nan_cecum_LD_ZT10
+caecumZT10.LD2	caecum	ZT10	LD	LDZT10	2	32	cecum		ad libitum	2_LD_ZT10	LD_ZT10	nan_LD_ZT10	nan_cecum_LD_ZT10
+caecumZT10.LD3	caecum	ZT10	LD	LDZT10	3	33	cecum		ad libitum	3_LD_ZT10	LD_ZT10	nan_LD_ZT10	nan_cecum_LD_ZT10
+caecumZT10.LD4	caecum	ZT10	LD	LDZT10	4	34	cecum		ad libitum	4_LD_ZT10	LD_ZT10	nan_LD_ZT10	nan_cecum_LD_ZT10
+caecumZT10.LD5	caecum	ZT10	LD	LDZT10	5	35	cecum		ad libitum	5_LD_ZT10	LD_ZT10	nan_LD_ZT10	nan_cecum_LD_ZT10
+caecumZT10.RF1	caecum	ZT10	RF	RFZT10	1	36	cecum		restricted feeding (time unknown)	1_RF_ZT10	RF_ZT10	nan_RF_ZT10	nan_cecum_RF_ZT10
+caecumZT10.RF2	caecum	ZT10	RF	RFZT10	2	37	cecum		restricted feeding (time unknown)	2_RF_ZT10	RF_ZT10	nan_RF_ZT10	nan_cecum_RF_ZT10
+caecumZT10.RF3	caecum	ZT10	RF	RFZT10	3	38	cecum		restricted feeding (time unknown)	3_RF_ZT10	RF_ZT10	nan_RF_ZT10	nan_cecum_RF_ZT10
+caecumZT10.RF4	caecum	ZT10	RF	RFZT10	4	39	cecum		restricted feeding (time unknown)	4_RF_ZT10	RF_ZT10	nan_RF_ZT10	nan_cecum_RF_ZT10
+caecumZT10.RF5	caecum	ZT10	RF	RFZT10	5	40	cecum		restricted feeding (time unknown)	5_RF_ZT10	RF_ZT10	nan_RF_ZT10	nan_cecum_RF_ZT10
+caecumZT10.DD1	caecum	ZT10	DD	DDZT10	1	41	cecum		ad libitum	1_DD_ZT10	DD_ZT10	nan_DD_ZT10	nan_cecum_DD_ZT10
+caecumZT10.DD2	caecum	ZT10	DD	DDZT10	2	42	cecum		ad libitum	2_DD_ZT10	DD_ZT10	nan_DD_ZT10	nan_cecum_DD_ZT10
+caecumZT10.DD3	caecum	ZT10	DD	DDZT10	3	43	cecum		ad libitum	3_DD_ZT10	DD_ZT10	nan_DD_ZT10	nan_cecum_DD_ZT10
+caecumZT10.DD4	caecum	ZT10	DD	DDZT10	4	44	cecum		ad libitum	4_DD_ZT10	DD_ZT10	nan_DD_ZT10	nan_cecum_DD_ZT10
+caecumZT10.DD5	caecum	ZT10	DD	DDZT10	5	45	cecum		ad libitum	5_DD_ZT10	DD_ZT10	nan_DD_ZT10	nan_cecum_DD_ZT10
+caecumZT14.LD1	caecum	ZT14	LD	LDZT14	1	46	cecum		ad libitum	1_LD_ZT14	LD_ZT14	nan_LD_ZT14	nan_cecum_LD_ZT14
+caecumZT14.LD2	caecum	ZT14	LD	LDZT14	2	47	cecum		ad libitum	2_LD_ZT14	LD_ZT14	nan_LD_ZT14	nan_cecum_LD_ZT14
+caecumZT14.LD3	caecum	ZT14	LD	LDZT14	3	48	cecum		ad libitum	3_LD_ZT14	LD_ZT14	nan_LD_ZT14	nan_cecum_LD_ZT14
+caecumZT14.LD4	caecum	ZT14	LD	LDZT14	4	49	cecum		ad libitum	4_LD_ZT14	LD_ZT14	nan_LD_ZT14	nan_cecum_LD_ZT14
+caecumZT14.LD5	caecum	ZT14	LD	LDZT14	5	50	cecum		ad libitum	5_LD_ZT14	LD_ZT14	nan_LD_ZT14	nan_cecum_LD_ZT14
+caecumZT14.RF1	caecum	ZT14	RF	RFZT14	1	51	cecum		restricted feeding (time unknown)	1_RF_ZT14	RF_ZT14	nan_RF_ZT14	nan_cecum_RF_ZT14
+caecumZT14.RF2	caecum	ZT14	RF	RFZT14	2	52	cecum		restricted feeding (time unknown)	2_RF_ZT14	RF_ZT14	nan_RF_ZT14	nan_cecum_RF_ZT14
+caecumZT14.RF3	caecum	ZT14	RF	RFZT14	3	53	cecum		restricted feeding (time unknown)	3_RF_ZT14	RF_ZT14	nan_RF_ZT14	nan_cecum_RF_ZT14
+caecumZT14.RF4	caecum	ZT14	RF	RFZT14	4	54	cecum		restricted feeding (time unknown)	4_RF_ZT14	RF_ZT14	nan_RF_ZT14	nan_cecum_RF_ZT14
+caecumZT14.RF5	caecum	ZT14	RF	RFZT14	5	55	cecum		restricted feeding (time unknown)	5_RF_ZT14	RF_ZT14	nan_RF_ZT14	nan_cecum_RF_ZT14
+caecumZT14.DD1	caecum	ZT14	DD	DDZT14	1	56	cecum		ad libitum	1_DD_ZT14	DD_ZT14	nan_DD_ZT14	nan_cecum_DD_ZT14
+caecumZT14.DD2	caecum	ZT14	DD	DDZT14	2	57	cecum		ad libitum	2_DD_ZT14	DD_ZT14	nan_DD_ZT14	nan_cecum_DD_ZT14
+caecumZT14.DD3	caecum	ZT14	DD	DDZT14	3	58	cecum		ad libitum	3_DD_ZT14	DD_ZT14	nan_DD_ZT14	nan_cecum_DD_ZT14
+caecumZT14.DD4	caecum	ZT14	DD	DDZT14	4	59	cecum		ad libitum	4_DD_ZT14	DD_ZT14	nan_DD_ZT14	nan_cecum_DD_ZT14
+caecumZT14.DD5	caecum	ZT14	DD	DDZT14	5	60	cecum		ad libitum	5_DD_ZT14	DD_ZT14	nan_DD_ZT14	nan_cecum_DD_ZT14
+caecumZT18.LD1	caecum	ZT18	LD	LDZT18	1	61	cecum		ad libitum	1_LD_ZT18	LD_ZT18	nan_LD_ZT18	nan_cecum_LD_ZT18
+caecumZT18.LD2	caecum	ZT18	LD	LDZT18	2	62	cecum		ad libitum	2_LD_ZT18	LD_ZT18	nan_LD_ZT18	nan_cecum_LD_ZT18
+caecumZT18.LD3	caecum	ZT18	LD	LDZT18	3	63	cecum		ad libitum	3_LD_ZT18	LD_ZT18	nan_LD_ZT18	nan_cecum_LD_ZT18
+caecumZT18.LD4	caecum	ZT18	LD	LDZT18	4	64	cecum		ad libitum	4_LD_ZT18	LD_ZT18	nan_LD_ZT18	nan_cecum_LD_ZT18
+caecumZT18.LD5	caecum	ZT18	LD	LDZT18	5	65	cecum		ad libitum	5_LD_ZT18	LD_ZT18	nan_LD_ZT18	nan_cecum_LD_ZT18
+caecumZT18.RF1	caecum	ZT18	RF	RFZT18	1	66	cecum		restricted feeding (time unknown)	1_RF_ZT18	RF_ZT18	nan_RF_ZT18	nan_cecum_RF_ZT18
+caecumZT18.RF2	caecum	ZT18	RF	RFZT18	2	67	cecum		restricted feeding (time unknown)	2_RF_ZT18	RF_ZT18	nan_RF_ZT18	nan_cecum_RF_ZT18
+caecumZT18.RF3	caecum	ZT18	RF	RFZT18	3	68	cecum		restricted feeding (time unknown)	3_RF_ZT18	RF_ZT18	nan_RF_ZT18	nan_cecum_RF_ZT18
+caecumZT18.RF4	caecum	ZT18	RF	RFZT18	4	69	cecum		restricted feeding (time unknown)	4_RF_ZT18	RF_ZT18	nan_RF_ZT18	nan_cecum_RF_ZT18
+caecumZT18.RF5	caecum	ZT18	RF	RFZT18	5	70	cecum		restricted feeding (time unknown)	5_RF_ZT18	RF_ZT18	nan_RF_ZT18	nan_cecum_RF_ZT18
+caecumZT18.DD1	caecum	ZT18	DD	DDZT18	1	71	cecum		ad libitum	1_DD_ZT18	DD_ZT18	nan_DD_ZT18	nan_cecum_DD_ZT18
+caecumZT18.DD2	caecum	ZT18	DD	DDZT18	2	72	cecum		ad libitum	2_DD_ZT18	DD_ZT18	nan_DD_ZT18	nan_cecum_DD_ZT18
+caecumZT18.DD3	caecum	ZT18	DD	DDZT18	3	73	cecum		ad libitum	3_DD_ZT18	DD_ZT18	nan_DD_ZT18	nan_cecum_DD_ZT18
+caecumZT18.DD4	caecum	ZT18	DD	DDZT18	4	74	cecum		ad libitum	4_DD_ZT18	DD_ZT18	nan_DD_ZT18	nan_cecum_DD_ZT18
+caecumZT18.DD5	caecum	ZT18	DD	DDZT18	5	75	cecum		ad libitum	5_DD_ZT18	DD_ZT18	nan_DD_ZT18	nan_cecum_DD_ZT18
+caecumZT22.LD1	caecum	ZT22	LD	LDZT22	1	76	cecum		ad libitum	1_LD_ZT22	LD_ZT22	nan_LD_ZT22	nan_cecum_LD_ZT22
+caecumZT22.LD2	caecum	ZT22	LD	LDZT22	2	77	cecum		ad libitum	2_LD_ZT22	LD_ZT22	nan_LD_ZT22	nan_cecum_LD_ZT22
+caecumZT22.LD3	caecum	ZT22	LD	LDZT22	3	78	cecum		ad libitum	3_LD_ZT22	LD_ZT22	nan_LD_ZT22	nan_cecum_LD_ZT22
+caecumZT22.LD4	caecum	ZT22	LD	LDZT22	4	79	cecum		ad libitum	4_LD_ZT22	LD_ZT22	nan_LD_ZT22	nan_cecum_LD_ZT22
+caecumZT22.LD5	caecum	ZT22	LD	LDZT22	5	80	cecum		ad libitum	5_LD_ZT22	LD_ZT22	nan_LD_ZT22	nan_cecum_LD_ZT22
+caecumZT22.RF1	caecum	ZT22	RF	RFZT22	1	81	cecum		restricted feeding (time unknown)	1_RF_ZT22	RF_ZT22	nan_RF_ZT22	nan_cecum_RF_ZT22
+caecumZT22.RF2	caecum	ZT22	RF	RFZT22	2	82	cecum		restricted feeding (time unknown)	2_RF_ZT22	RF_ZT22	nan_RF_ZT22	nan_cecum_RF_ZT22
+caecumZT22.RF3	caecum	ZT22	RF	RFZT22	3	83	cecum		restricted feeding (time unknown)	3_RF_ZT22	RF_ZT22	nan_RF_ZT22	nan_cecum_RF_ZT22
+caecumZT22.RF4	caecum	ZT22	RF	RFZT22	4	84	cecum		restricted feeding (time unknown)	4_RF_ZT22	RF_ZT22	nan_RF_ZT22	nan_cecum_RF_ZT22
+caecumZT22.RF5	caecum	ZT22	RF	RFZT22	5	85	cecum		restricted feeding (time unknown)	5_RF_ZT22	RF_ZT22	nan_RF_ZT22	nan_cecum_RF_ZT22
+caecumZT22.DD1	caecum	ZT22	DD	DDZT22	1	86	cecum		ad libitum	1_DD_ZT22	DD_ZT22	nan_DD_ZT22	nan_cecum_DD_ZT22
+caecumZT22.DD2	caecum	ZT22	DD	DDZT22	2	87	cecum		ad libitum	2_DD_ZT22	DD_ZT22	nan_DD_ZT22	nan_cecum_DD_ZT22
+caecumZT22.DD3	caecum	ZT22	DD	DDZT22	3	88	cecum		ad libitum	3_DD_ZT22	DD_ZT22	nan_DD_ZT22	nan_cecum_DD_ZT22
+caecumZT22.DD4	caecum	ZT22	DD	DDZT22	4	89	cecum		ad libitum	4_DD_ZT22	DD_ZT22	nan_DD_ZT22	nan_cecum_DD_ZT22
+caecumZT22.DD5	caecum	ZT22	DD	DDZT22	5	90	cecum		ad libitum	5_DD_ZT22	DD_ZT22	nan_DD_ZT22	nan_cecum_DD_ZT22
+dsiLZT2.LD1	dsiL	ZT2	LD	LDZT2	1	91	ileum	lumen	ad libitum	1_LD_ZT2	LD_ZT2	lumen_LD_ZT2	lumen_ileum_LD_ZT2
+dsiLZT2.LD2	dsiL	ZT2	LD	LDZT2	2	92	ileum	lumen	ad libitum	2_LD_ZT2	LD_ZT2	lumen_LD_ZT2	lumen_ileum_LD_ZT2
+dsiLZT2.LD3	dsiL	ZT2	LD	LDZT2	3	93	ileum	lumen	ad libitum	3_LD_ZT2	LD_ZT2	lumen_LD_ZT2	lumen_ileum_LD_ZT2
+dsiLZT2.LD4	dsiL	ZT2	LD	LDZT2	4	94	ileum	lumen	ad libitum	4_LD_ZT2	LD_ZT2	lumen_LD_ZT2	lumen_ileum_LD_ZT2
+dsiLZT2.LD5	dsiL	ZT2	LD	LDZT2	5	95	ileum	lumen	ad libitum	5_LD_ZT2	LD_ZT2	lumen_LD_ZT2	lumen_ileum_LD_ZT2
+dsiLZT2.RF1	dsiL	ZT2	RF	RFZT2	1	96	ileum	lumen	restricted feeding (time unknown)	1_RF_ZT2	RF_ZT2	lumen_RF_ZT2	lumen_ileum_RF_ZT2
+dsiLZT2.RF2	dsiL	ZT2	RF	RFZT2	2	97	ileum	lumen	restricted feeding (time unknown)	2_RF_ZT2	RF_ZT2	lumen_RF_ZT2	lumen_ileum_RF_ZT2
+dsiLZT2.RF3	dsiL	ZT2	RF	RFZT2	3	98	ileum	lumen	restricted feeding (time unknown)	3_RF_ZT2	RF_ZT2	lumen_RF_ZT2	lumen_ileum_RF_ZT2
+dsiLZT2.RF4	dsiL	ZT2	RF	RFZT2	4	99	ileum	lumen	restricted feeding (time unknown)	4_RF_ZT2	RF_ZT2	lumen_RF_ZT2	lumen_ileum_RF_ZT2
+dsiLZT2.RF5	dsiL	ZT2	RF	RFZT2	5	100	ileum	lumen	restricted feeding (time unknown)	5_RF_ZT2	RF_ZT2	lumen_RF_ZT2	lumen_ileum_RF_ZT2
+dsiLZT2.DD1	dsiL	ZT2	DD	DDZT2	1	101	ileum	lumen	ad libitum	1_DD_ZT2	DD_ZT2	lumen_DD_ZT2	lumen_ileum_DD_ZT2
+dsiLZT2.DD2	dsiL	ZT2	DD	DDZT2	2	102	ileum	lumen	ad libitum	2_DD_ZT2	DD_ZT2	lumen_DD_ZT2	lumen_ileum_DD_ZT2
+dsiLZT2.DD3	dsiL	ZT2	DD	DDZT2	3	103	ileum	lumen	ad libitum	3_DD_ZT2	DD_ZT2	lumen_DD_ZT2	lumen_ileum_DD_ZT2
+dsiLZT2.DD4	dsiL	ZT2	DD	DDZT2	4	104	ileum	lumen	ad libitum	4_DD_ZT2	DD_ZT2	lumen_DD_ZT2	lumen_ileum_DD_ZT2
+dsiLZT2.DD5	dsiL	ZT2	DD	DDZT2	5	105	ileum	lumen	ad libitum	5_DD_ZT2	DD_ZT2	lumen_DD_ZT2	lumen_ileum_DD_ZT2
+dsiLZT6.LD1	dsiL	ZT6	LD	LDZT6	1	106	ileum	lumen	ad libitum	1_LD_ZT6	LD_ZT6	lumen_LD_ZT6	lumen_ileum_LD_ZT6
+dsiLZT6.LD2	dsiL	ZT6	LD	LDZT6	2	107	ileum	lumen	ad libitum	2_LD_ZT6	LD_ZT6	lumen_LD_ZT6	lumen_ileum_LD_ZT6
+dsiLZT6.LD3	dsiL	ZT6	LD	LDZT6	3	108	ileum	lumen	ad libitum	3_LD_ZT6	LD_ZT6	lumen_LD_ZT6	lumen_ileum_LD_ZT6
+dsiLZT6.LD4	dsiL	ZT6	LD	LDZT6	4	109	ileum	lumen	ad libitum	4_LD_ZT6	LD_ZT6	lumen_LD_ZT6	lumen_ileum_LD_ZT6
+dsiLZT6.LD5	dsiL	ZT6	LD	LDZT6	5	110	ileum	lumen	ad libitum	5_LD_ZT6	LD_ZT6	lumen_LD_ZT6	lumen_ileum_LD_ZT6
+dsiLZT6.RF1	dsiL	ZT6	RF	RFZT6	1	111	ileum	lumen	restricted feeding (time unknown)	1_RF_ZT6	RF_ZT6	lumen_RF_ZT6	lumen_ileum_RF_ZT6
+dsiLZT6.RF2	dsiL	ZT6	RF	RFZT6	2	112	ileum	lumen	restricted feeding (time unknown)	2_RF_ZT6	RF_ZT6	lumen_RF_ZT6	lumen_ileum_RF_ZT6
+dsiLZT6.RF3	dsiL	ZT6	RF	RFZT6	3	113	ileum	lumen	restricted feeding (time unknown)	3_RF_ZT6	RF_ZT6	lumen_RF_ZT6	lumen_ileum_RF_ZT6
+dsiLZT6.RF4	dsiL	ZT6	RF	RFZT6	4	114	ileum	lumen	restricted feeding (time unknown)	4_RF_ZT6	RF_ZT6	lumen_RF_ZT6	lumen_ileum_RF_ZT6
+dsiLZT6.RF5	dsiL	ZT6	RF	RFZT6	5	115	ileum	lumen	restricted feeding (time unknown)	5_RF_ZT6	RF_ZT6	lumen_RF_ZT6	lumen_ileum_RF_ZT6
+dsiLZT6.DD1	dsiL	ZT6	DD	DDZT6	1	116	ileum	lumen	ad libitum	1_DD_ZT6	DD_ZT6	lumen_DD_ZT6	lumen_ileum_DD_ZT6
+dsiLZT6.DD2	dsiL	ZT6	DD	DDZT6	2	117	ileum	lumen	ad libitum	2_DD_ZT6	DD_ZT6	lumen_DD_ZT6	lumen_ileum_DD_ZT6
+dsiLZT6.DD3	dsiL	ZT6	DD	DDZT6	3	118	ileum	lumen	ad libitum	3_DD_ZT6	DD_ZT6	lumen_DD_ZT6	lumen_ileum_DD_ZT6
+dsiLZT6.DD4	dsiL	ZT6	DD	DDZT6	4	119	ileum	lumen	ad libitum	4_DD_ZT6	DD_ZT6	lumen_DD_ZT6	lumen_ileum_DD_ZT6
+dsiLZT6.DD5	dsiL	ZT6	DD	DDZT6	5	120	ileum	lumen	ad libitum	5_DD_ZT6	DD_ZT6	lumen_DD_ZT6	lumen_ileum_DD_ZT6
+dsiLZT10.LD1	dsiL	ZT10	LD	LDZT10	1	121	ileum	lumen	ad libitum	1_LD_ZT10	LD_ZT10	lumen_LD_ZT10	lumen_ileum_LD_ZT10
+dsiLZT10.LD2	dsiL	ZT10	LD	LDZT10	2	122	ileum	lumen	ad libitum	2_LD_ZT10	LD_ZT10	lumen_LD_ZT10	lumen_ileum_LD_ZT10
+dsiLZT10.LD3	dsiL	ZT10	LD	LDZT10	3	123	ileum	lumen	ad libitum	3_LD_ZT10	LD_ZT10	lumen_LD_ZT10	lumen_ileum_LD_ZT10
+dsiLZT10.LD4	dsiL	ZT10	LD	LDZT10	4	124	ileum	lumen	ad libitum	4_LD_ZT10	LD_ZT10	lumen_LD_ZT10	lumen_ileum_LD_ZT10
+dsiLZT10.LD5	dsiL	ZT10	LD	LDZT10	5	125	ileum	lumen	ad libitum	5_LD_ZT10	LD_ZT10	lumen_LD_ZT10	lumen_ileum_LD_ZT10
+dsiLZT10.RF1	dsiL	ZT10	RF	RFZT10	1	126	ileum	lumen	restricted feeding (time unknown)	1_RF_ZT10	RF_ZT10	lumen_RF_ZT10	lumen_ileum_RF_ZT10
+dsiLZT10.RF3	dsiL	ZT10	RF	RFZT10	3	128	ileum	lumen	restricted feeding (time unknown)	3_RF_ZT10	RF_ZT10	lumen_RF_ZT10	lumen_ileum_RF_ZT10
+dsiLZT10.RF4	dsiL	ZT10	RF	RFZT10	4	129	ileum	lumen	restricted feeding (time unknown)	4_RF_ZT10	RF_ZT10	lumen_RF_ZT10	lumen_ileum_RF_ZT10
+dsiLZT10.RF5	dsiL	ZT10	RF	RFZT10	5	130	ileum	lumen	restricted feeding (time unknown)	5_RF_ZT10	RF_ZT10	lumen_RF_ZT10	lumen_ileum_RF_ZT10
+dsiLZT10.DD1	dsiL	ZT10	DD	DDZT10	1	131	ileum	lumen	ad libitum	1_DD_ZT10	DD_ZT10	lumen_DD_ZT10	lumen_ileum_DD_ZT10
+dsiLZT10.DD2	dsiL	ZT10	DD	DDZT10	2	132	ileum	lumen	ad libitum	2_DD_ZT10	DD_ZT10	lumen_DD_ZT10	lumen_ileum_DD_ZT10
+dsiLZT10.DD3	dsiL	ZT10	DD	DDZT10	3	133	ileum	lumen	ad libitum	3_DD_ZT10	DD_ZT10	lumen_DD_ZT10	lumen_ileum_DD_ZT10
+dsiLZT10.DD4	dsiL	ZT10	DD	DDZT10	4	134	ileum	lumen	ad libitum	4_DD_ZT10	DD_ZT10	lumen_DD_ZT10	lumen_ileum_DD_ZT10
+dsiLZT10.DD5	dsiL	ZT10	DD	DDZT10	5	135	ileum	lumen	ad libitum	5_DD_ZT10	DD_ZT10	lumen_DD_ZT10	lumen_ileum_DD_ZT10
+dsiLZT14.LD1	dsiL	ZT14	LD	LDZT14	1	136	ileum	lumen	ad libitum	1_LD_ZT14	LD_ZT14	lumen_LD_ZT14	lumen_ileum_LD_ZT14
+dsiLZT14.LD2	dsiL	ZT14	LD	LDZT14	2	137	ileum	lumen	ad libitum	2_LD_ZT14	LD_ZT14	lumen_LD_ZT14	lumen_ileum_LD_ZT14
+dsiLZT14.LD3	dsiL	ZT14	LD	LDZT14	3	138	ileum	lumen	ad libitum	3_LD_ZT14	LD_ZT14	lumen_LD_ZT14	lumen_ileum_LD_ZT14
+dsiLZT14.LD4	dsiL	ZT14	LD	LDZT14	4	139	ileum	lumen	ad libitum	4_LD_ZT14	LD_ZT14	lumen_LD_ZT14	lumen_ileum_LD_ZT14
+dsiLZT14.LD5	dsiL	ZT14	LD	LDZT14	5	140	ileum	lumen	ad libitum	5_LD_ZT14	LD_ZT14	lumen_LD_ZT14	lumen_ileum_LD_ZT14
+dsiLZT14.RF1	dsiL	ZT14	RF	RFZT14	1	141	ileum	lumen	restricted feeding (time unknown)	1_RF_ZT14	RF_ZT14	lumen_RF_ZT14	lumen_ileum_RF_ZT14
+dsiLZT14.RF2	dsiL	ZT14	RF	RFZT14	2	142	ileum	lumen	restricted feeding (time unknown)	2_RF_ZT14	RF_ZT14	lumen_RF_ZT14	lumen_ileum_RF_ZT14
+dsiLZT14.RF3	dsiL	ZT14	RF	RFZT14	3	143	ileum	lumen	restricted feeding (time unknown)	3_RF_ZT14	RF_ZT14	lumen_RF_ZT14	lumen_ileum_RF_ZT14
+dsiLZT14.RF4	dsiL	ZT14	RF	RFZT14	4	144	ileum	lumen	restricted feeding (time unknown)	4_RF_ZT14	RF_ZT14	lumen_RF_ZT14	lumen_ileum_RF_ZT14
+dsiLZT14.RF5	dsiL	ZT14	RF	RFZT14	5	145	ileum	lumen	restricted feeding (time unknown)	5_RF_ZT14	RF_ZT14	lumen_RF_ZT14	lumen_ileum_RF_ZT14
+dsiLZT14.DD1	dsiL	ZT14	DD	DDZT14	1	146	ileum	lumen	ad libitum	1_DD_ZT14	DD_ZT14	lumen_DD_ZT14	lumen_ileum_DD_ZT14
+dsiLZT14.DD2	dsiL	ZT14	DD	DDZT14	2	147	ileum	lumen	ad libitum	2_DD_ZT14	DD_ZT14	lumen_DD_ZT14	lumen_ileum_DD_ZT14
+dsiLZT14.DD3	dsiL	ZT14	DD	DDZT14	3	148	ileum	lumen	ad libitum	3_DD_ZT14	DD_ZT14	lumen_DD_ZT14	lumen_ileum_DD_ZT14
+dsiLZT14.DD4	dsiL	ZT14	DD	DDZT14	4	149	ileum	lumen	ad libitum	4_DD_ZT14	DD_ZT14	lumen_DD_ZT14	lumen_ileum_DD_ZT14
+dsiLZT14.DD5	dsiL	ZT14	DD	DDZT14	5	150	ileum	lumen	ad libitum	5_DD_ZT14	DD_ZT14	lumen_DD_ZT14	lumen_ileum_DD_ZT14
+dsiLZT18.LD1	dsiL	ZT18	LD	LDZT18	1	151	ileum	lumen	ad libitum	1_LD_ZT18	LD_ZT18	lumen_LD_ZT18	lumen_ileum_LD_ZT18
+dsiLZT18.LD2	dsiL	ZT18	LD	LDZT18	2	152	ileum	lumen	ad libitum	2_LD_ZT18	LD_ZT18	lumen_LD_ZT18	lumen_ileum_LD_ZT18
+dsiLZT18.LD3	dsiL	ZT18	LD	LDZT18	3	153	ileum	lumen	ad libitum	3_LD_ZT18	LD_ZT18	lumen_LD_ZT18	lumen_ileum_LD_ZT18
+dsiLZT18.LD4	dsiL	ZT18	LD	LDZT18	4	154	ileum	lumen	ad libitum	4_LD_ZT18	LD_ZT18	lumen_LD_ZT18	lumen_ileum_LD_ZT18
+dsiLZT18.LD5	dsiL	ZT18	LD	LDZT18	5	155	ileum	lumen	ad libitum	5_LD_ZT18	LD_ZT18	lumen_LD_ZT18	lumen_ileum_LD_ZT18
+dsiLZT18.RF1	dsiL	ZT18	RF	RFZT18	1	156	ileum	lumen	restricted feeding (time unknown)	1_RF_ZT18	RF_ZT18	lumen_RF_ZT18	lumen_ileum_RF_ZT18
+dsiLZT18.RF2	dsiL	ZT18	RF	RFZT18	2	157	ileum	lumen	restricted feeding (time unknown)	2_RF_ZT18	RF_ZT18	lumen_RF_ZT18	lumen_ileum_RF_ZT18
+dsiLZT18.RF3	dsiL	ZT18	RF	RFZT18	3	158	ileum	lumen	restricted feeding (time unknown)	3_RF_ZT18	RF_ZT18	lumen_RF_ZT18	lumen_ileum_RF_ZT18
+dsiLZT18.RF4	dsiL	ZT18	RF	RFZT18	4	159	ileum	lumen	restricted feeding (time unknown)	4_RF_ZT18	RF_ZT18	lumen_RF_ZT18	lumen_ileum_RF_ZT18
+dsiLZT18.RF5	dsiL	ZT18	RF	RFZT18	5	160	ileum	lumen	restricted feeding (time unknown)	5_RF_ZT18	RF_ZT18	lumen_RF_ZT18	lumen_ileum_RF_ZT18
+dsiLZT18.DD1	dsiL	ZT18	DD	DDZT18	1	161	ileum	lumen	ad libitum	1_DD_ZT18	DD_ZT18	lumen_DD_ZT18	lumen_ileum_DD_ZT18
+dsiLZT18.DD2	dsiL	ZT18	DD	DDZT18	2	162	ileum	lumen	ad libitum	2_DD_ZT18	DD_ZT18	lumen_DD_ZT18	lumen_ileum_DD_ZT18
+dsiLZT18.DD3	dsiL	ZT18	DD	DDZT18	3	163	ileum	lumen	ad libitum	3_DD_ZT18	DD_ZT18	lumen_DD_ZT18	lumen_ileum_DD_ZT18
+dsiLZT18.DD4	dsiL	ZT18	DD	DDZT18	4	164	ileum	lumen	ad libitum	4_DD_ZT18	DD_ZT18	lumen_DD_ZT18	lumen_ileum_DD_ZT18
+dsiLZT18.DD5	dsiL	ZT18	DD	DDZT18	5	165	ileum	lumen	ad libitum	5_DD_ZT18	DD_ZT18	lumen_DD_ZT18	lumen_ileum_DD_ZT18
+dsiLZT22.LD1	dsiL	ZT22	LD	LDZT22	1	166	ileum	lumen	ad libitum	1_LD_ZT22	LD_ZT22	lumen_LD_ZT22	lumen_ileum_LD_ZT22
+dsiLZT22.LD2	dsiL	ZT22	LD	LDZT22	2	167	ileum	lumen	ad libitum	2_LD_ZT22	LD_ZT22	lumen_LD_ZT22	lumen_ileum_LD_ZT22
+dsiLZT22.LD3	dsiL	ZT22	LD	LDZT22	3	168	ileum	lumen	ad libitum	3_LD_ZT22	LD_ZT22	lumen_LD_ZT22	lumen_ileum_LD_ZT22
+dsiLZT22.LD4	dsiL	ZT22	LD	LDZT22	4	169	ileum	lumen	ad libitum	4_LD_ZT22	LD_ZT22	lumen_LD_ZT22	lumen_ileum_LD_ZT22
+dsiLZT22.RF1	dsiL	ZT22	RF	RFZT22	1	171	ileum	lumen	restricted feeding (time unknown)	1_RF_ZT22	RF_ZT22	lumen_RF_ZT22	lumen_ileum_RF_ZT22
+dsiLZT22.RF2	dsiL	ZT22	RF	RFZT22	2	172	ileum	lumen	restricted feeding (time unknown)	2_RF_ZT22	RF_ZT22	lumen_RF_ZT22	lumen_ileum_RF_ZT22
+dsiLZT22.RF3	dsiL	ZT22	RF	RFZT22	3	173	ileum	lumen	restricted feeding (time unknown)	3_RF_ZT22	RF_ZT22	lumen_RF_ZT22	lumen_ileum_RF_ZT22
+dsiLZT22.RF4	dsiL	ZT22	RF	RFZT22	4	174	ileum	lumen	restricted feeding (time unknown)	4_RF_ZT22	RF_ZT22	lumen_RF_ZT22	lumen_ileum_RF_ZT22
+dsiLZT22.RF5	dsiL	ZT22	RF	RFZT22	5	175	ileum	lumen	restricted feeding (time unknown)	5_RF_ZT22	RF_ZT22	lumen_RF_ZT22	lumen_ileum_RF_ZT22
+dsiLZT22.DD1	dsiL	ZT22	DD	DDZT22	1	176	ileum	lumen	ad libitum	1_DD_ZT22	DD_ZT22	lumen_DD_ZT22	lumen_ileum_DD_ZT22
+dsiLZT22.DD2	dsiL	ZT22	DD	DDZT22	2	177	ileum	lumen	ad libitum	2_DD_ZT22	DD_ZT22	lumen_DD_ZT22	lumen_ileum_DD_ZT22
+dsiLZT22.DD3	dsiL	ZT22	DD	DDZT22	3	178	ileum	lumen	ad libitum	3_DD_ZT22	DD_ZT22	lumen_DD_ZT22	lumen_ileum_DD_ZT22
+dsiLZT22.DD4	dsiL	ZT22	DD	DDZT22	4	179	ileum	lumen	ad libitum	4_DD_ZT22	DD_ZT22	lumen_DD_ZT22	lumen_ileum_DD_ZT22
+dsiLZT22.DD5	dsiL	ZT22	DD	DDZT22	5	180	ileum	lumen	ad libitum	5_DD_ZT22	DD_ZT22	lumen_DD_ZT22	lumen_ileum_DD_ZT22
+dsiMZT2.LD1	dsiM	ZT2	LD	LDZT2	1	181	ileum	mucosal	ad libitum	1_LD_ZT2	LD_ZT2	mucosal_LD_ZT2	mucosal_ileum_LD_ZT2
+dsiMZT2.LD2	dsiM	ZT2	LD	LDZT2	2	182	ileum	mucosal	ad libitum	2_LD_ZT2	LD_ZT2	mucosal_LD_ZT2	mucosal_ileum_LD_ZT2
+dsiMZT2.LD3	dsiM	ZT2	LD	LDZT2	3	183	ileum	mucosal	ad libitum	3_LD_ZT2	LD_ZT2	mucosal_LD_ZT2	mucosal_ileum_LD_ZT2
+dsiMZT2.LD4	dsiM	ZT2	LD	LDZT2	4	184	ileum	mucosal	ad libitum	4_LD_ZT2	LD_ZT2	mucosal_LD_ZT2	mucosal_ileum_LD_ZT2
+dsiMZT2.LD5	dsiM	ZT2	LD	LDZT2	5	185	ileum	mucosal	ad libitum	5_LD_ZT2	LD_ZT2	mucosal_LD_ZT2	mucosal_ileum_LD_ZT2
+dsiMZT2.RF1	dsiM	ZT2	RF	RFZT2	1	186	ileum	mucosal	restricted feeding (time unknown)	1_RF_ZT2	RF_ZT2	mucosal_RF_ZT2	mucosal_ileum_RF_ZT2
+dsiMZT2.RF2	dsiM	ZT2	RF	RFZT2	2	187	ileum	mucosal	restricted feeding (time unknown)	2_RF_ZT2	RF_ZT2	mucosal_RF_ZT2	mucosal_ileum_RF_ZT2
+dsiMZT2.RF3	dsiM	ZT2	RF	RFZT2	3	188	ileum	mucosal	restricted feeding (time unknown)	3_RF_ZT2	RF_ZT2	mucosal_RF_ZT2	mucosal_ileum_RF_ZT2
+dsiMZT2.RF4	dsiM	ZT2	RF	RFZT2	4	189	ileum	mucosal	restricted feeding (time unknown)	4_RF_ZT2	RF_ZT2	mucosal_RF_ZT2	mucosal_ileum_RF_ZT2
+dsiMZT2.RF5	dsiM	ZT2	RF	RFZT2	5	190	ileum	mucosal	restricted feeding (time unknown)	5_RF_ZT2	RF_ZT2	mucosal_RF_ZT2	mucosal_ileum_RF_ZT2
+dsiMZT2.DD1	dsiM	ZT2	DD	DDZT2	1	191	ileum	mucosal	ad libitum	1_DD_ZT2	DD_ZT2	mucosal_DD_ZT2	mucosal_ileum_DD_ZT2
+dsiMZT2.DD2	dsiM	ZT2	DD	DDZT2	2	192	ileum	mucosal	ad libitum	2_DD_ZT2	DD_ZT2	mucosal_DD_ZT2	mucosal_ileum_DD_ZT2
+dsiMZT2.DD3	dsiM	ZT2	DD	DDZT2	3	193	ileum	mucosal	ad libitum	3_DD_ZT2	DD_ZT2	mucosal_DD_ZT2	mucosal_ileum_DD_ZT2
+dsiMZT2.DD4	dsiM	ZT2	DD	DDZT2	4	194	ileum	mucosal	ad libitum	4_DD_ZT2	DD_ZT2	mucosal_DD_ZT2	mucosal_ileum_DD_ZT2
+dsiMZT2.DD5	dsiM	ZT2	DD	DDZT2	5	195	ileum	mucosal	ad libitum	5_DD_ZT2	DD_ZT2	mucosal_DD_ZT2	mucosal_ileum_DD_ZT2
+dsiMZT6.LD1	dsiM	ZT6	LD	LDZT6	1	196	ileum	mucosal	ad libitum	1_LD_ZT6	LD_ZT6	mucosal_LD_ZT6	mucosal_ileum_LD_ZT6
+dsiMZT6.LD2	dsiM	ZT6	LD	LDZT6	2	197	ileum	mucosal	ad libitum	2_LD_ZT6	LD_ZT6	mucosal_LD_ZT6	mucosal_ileum_LD_ZT6
+dsiMZT6.LD3	dsiM	ZT6	LD	LDZT6	3	198	ileum	mucosal	ad libitum	3_LD_ZT6	LD_ZT6	mucosal_LD_ZT6	mucosal_ileum_LD_ZT6
+dsiMZT6.LD4	dsiM	ZT6	LD	LDZT6	4	199	ileum	mucosal	ad libitum	4_LD_ZT6	LD_ZT6	mucosal_LD_ZT6	mucosal_ileum_LD_ZT6
+dsiMZT6.LD5	dsiM	ZT6	LD	LDZT6	5	200	ileum	mucosal	ad libitum	5_LD_ZT6	LD_ZT6	mucosal_LD_ZT6	mucosal_ileum_LD_ZT6
+dsiMZT6.RF1	dsiM	ZT6	RF	RFZT6	1	201	ileum	mucosal	restricted feeding (time unknown)	1_RF_ZT6	RF_ZT6	mucosal_RF_ZT6	mucosal_ileum_RF_ZT6
+dsiMZT6.RF2	dsiM	ZT6	RF	RFZT6	2	202	ileum	mucosal	restricted feeding (time unknown)	2_RF_ZT6	RF_ZT6	mucosal_RF_ZT6	mucosal_ileum_RF_ZT6
+dsiMZT6.RF3	dsiM	ZT6	RF	RFZT6	3	203	ileum	mucosal	restricted feeding (time unknown)	3_RF_ZT6	RF_ZT6	mucosal_RF_ZT6	mucosal_ileum_RF_ZT6
+dsiMZT6.RF4	dsiM	ZT6	RF	RFZT6	4	204	ileum	mucosal	restricted feeding (time unknown)	4_RF_ZT6	RF_ZT6	mucosal_RF_ZT6	mucosal_ileum_RF_ZT6
+dsiMZT6.RF5	dsiM	ZT6	RF	RFZT6	5	205	ileum	mucosal	restricted feeding (time unknown)	5_RF_ZT6	RF_ZT6	mucosal_RF_ZT6	mucosal_ileum_RF_ZT6
+dsiMZT6.DD1	dsiM	ZT6	DD	DDZT6	1	206	ileum	mucosal	ad libitum	1_DD_ZT6	DD_ZT6	mucosal_DD_ZT6	mucosal_ileum_DD_ZT6
+dsiMZT6.DD2	dsiM	ZT6	DD	DDZT6	2	207	ileum	mucosal	ad libitum	2_DD_ZT6	DD_ZT6	mucosal_DD_ZT6	mucosal_ileum_DD_ZT6
+dsiMZT6.DD3	dsiM	ZT6	DD	DDZT6	3	208	ileum	mucosal	ad libitum	3_DD_ZT6	DD_ZT6	mucosal_DD_ZT6	mucosal_ileum_DD_ZT6
+dsiMZT6.DD4	dsiM	ZT6	DD	DDZT6	4	209	ileum	mucosal	ad libitum	4_DD_ZT6	DD_ZT6	mucosal_DD_ZT6	mucosal_ileum_DD_ZT6
+dsiMZT6.DD5	dsiM	ZT6	DD	DDZT6	5	210	ileum	mucosal	ad libitum	5_DD_ZT6	DD_ZT6	mucosal_DD_ZT6	mucosal_ileum_DD_ZT6
+dsiMZT10.LD1	dsiM	ZT10	LD	LDZT10	1	211	ileum	mucosal	ad libitum	1_LD_ZT10	LD_ZT10	mucosal_LD_ZT10	mucosal_ileum_LD_ZT10
+dsiMZT10.LD2	dsiM	ZT10	LD	LDZT10	2	212	ileum	mucosal	ad libitum	2_LD_ZT10	LD_ZT10	mucosal_LD_ZT10	mucosal_ileum_LD_ZT10
+dsiMZT10.LD3	dsiM	ZT10	LD	LDZT10	3	213	ileum	mucosal	ad libitum	3_LD_ZT10	LD_ZT10	mucosal_LD_ZT10	mucosal_ileum_LD_ZT10
+dsiMZT10.LD4	dsiM	ZT10	LD	LDZT10	4	214	ileum	mucosal	ad libitum	4_LD_ZT10	LD_ZT10	mucosal_LD_ZT10	mucosal_ileum_LD_ZT10
+dsiMZT10.LD5	dsiM	ZT10	LD	LDZT10	5	215	ileum	mucosal	ad libitum	5_LD_ZT10	LD_ZT10	mucosal_LD_ZT10	mucosal_ileum_LD_ZT10
+dsiMZT10.RF1	dsiM	ZT10	RF	RFZT10	1	216	ileum	mucosal	restricted feeding (time unknown)	1_RF_ZT10	RF_ZT10	mucosal_RF_ZT10	mucosal_ileum_RF_ZT10
+dsiMZT10.RF2	dsiM	ZT10	RF	RFZT10	2	217	ileum	mucosal	restricted feeding (time unknown)	2_RF_ZT10	RF_ZT10	mucosal_RF_ZT10	mucosal_ileum_RF_ZT10
+dsiMZT10.RF3	dsiM	ZT10	RF	RFZT10	3	218	ileum	mucosal	restricted feeding (time unknown)	3_RF_ZT10	RF_ZT10	mucosal_RF_ZT10	mucosal_ileum_RF_ZT10
+dsiMZT10.RF4	dsiM	ZT10	RF	RFZT10	4	219	ileum	mucosal	restricted feeding (time unknown)	4_RF_ZT10	RF_ZT10	mucosal_RF_ZT10	mucosal_ileum_RF_ZT10
+dsiMZT10.RF5	dsiM	ZT10	RF	RFZT10	5	220	ileum	mucosal	restricted feeding (time unknown)	5_RF_ZT10	RF_ZT10	mucosal_RF_ZT10	mucosal_ileum_RF_ZT10
+dsiMZT10.DD1	dsiM	ZT10	DD	DDZT10	1	221	ileum	mucosal	ad libitum	1_DD_ZT10	DD_ZT10	mucosal_DD_ZT10	mucosal_ileum_DD_ZT10
+dsiMZT10.DD2	dsiM	ZT10	DD	DDZT10	2	222	ileum	mucosal	ad libitum	2_DD_ZT10	DD_ZT10	mucosal_DD_ZT10	mucosal_ileum_DD_ZT10
+dsiMZT10.DD3	dsiM	ZT10	DD	DDZT10	3	223	ileum	mucosal	ad libitum	3_DD_ZT10	DD_ZT10	mucosal_DD_ZT10	mucosal_ileum_DD_ZT10
+dsiMZT10.DD4	dsiM	ZT10	DD	DDZT10	4	224	ileum	mucosal	ad libitum	4_DD_ZT10	DD_ZT10	mucosal_DD_ZT10	mucosal_ileum_DD_ZT10
+dsiMZT10.DD5	dsiM	ZT10	DD	DDZT10	5	225	ileum	mucosal	ad libitum	5_DD_ZT10	DD_ZT10	mucosal_DD_ZT10	mucosal_ileum_DD_ZT10
+dsiMZT14.LD1	dsiM	ZT14	LD	LDZT14	1	226	ileum	mucosal	ad libitum	1_LD_ZT14	LD_ZT14	mucosal_LD_ZT14	mucosal_ileum_LD_ZT14
+dsiMZT14.LD2	dsiM	ZT14	LD	LDZT14	2	227	ileum	mucosal	ad libitum	2_LD_ZT14	LD_ZT14	mucosal_LD_ZT14	mucosal_ileum_LD_ZT14
+dsiMZT14.LD3	dsiM	ZT14	LD	LDZT14	3	228	ileum	mucosal	ad libitum	3_LD_ZT14	LD_ZT14	mucosal_LD_ZT14	mucosal_ileum_LD_ZT14
+dsiMZT14.LD4	dsiM	ZT14	LD	LDZT14	4	229	ileum	mucosal	ad libitum	4_LD_ZT14	LD_ZT14	mucosal_LD_ZT14	mucosal_ileum_LD_ZT14
+dsiMZT14.LD5	dsiM	ZT14	LD	LDZT14	5	230	ileum	mucosal	ad libitum	5_LD_ZT14	LD_ZT14	mucosal_LD_ZT14	mucosal_ileum_LD_ZT14
+dsiMZT14.RF1	dsiM	ZT14	RF	RFZT14	1	231	ileum	mucosal	restricted feeding (time unknown)	1_RF_ZT14	RF_ZT14	mucosal_RF_ZT14	mucosal_ileum_RF_ZT14
+dsiMZT14.RF2	dsiM	ZT14	RF	RFZT14	2	232	ileum	mucosal	restricted feeding (time unknown)	2_RF_ZT14	RF_ZT14	mucosal_RF_ZT14	mucosal_ileum_RF_ZT14
+dsiMZT14.RF3	dsiM	ZT14	RF	RFZT14	3	233	ileum	mucosal	restricted feeding (time unknown)	3_RF_ZT14	RF_ZT14	mucosal_RF_ZT14	mucosal_ileum_RF_ZT14
+dsiMZT14.RF4	dsiM	ZT14	RF	RFZT14	4	234	ileum	mucosal	restricted feeding (time unknown)	4_RF_ZT14	RF_ZT14	mucosal_RF_ZT14	mucosal_ileum_RF_ZT14
+dsiMZT14.DD1	dsiM	ZT14	DD	DDZT14	1	236	ileum	mucosal	ad libitum	1_DD_ZT14	DD_ZT14	mucosal_DD_ZT14	mucosal_ileum_DD_ZT14
+dsiMZT14.DD2	dsiM	ZT14	DD	DDZT14	2	237	ileum	mucosal	ad libitum	2_DD_ZT14	DD_ZT14	mucosal_DD_ZT14	mucosal_ileum_DD_ZT14
+dsiMZT14.DD3	dsiM	ZT14	DD	DDZT14	3	238	ileum	mucosal	ad libitum	3_DD_ZT14	DD_ZT14	mucosal_DD_ZT14	mucosal_ileum_DD_ZT14
+dsiMZT14.DD4	dsiM	ZT14	DD	DDZT14	4	239	ileum	mucosal	ad libitum	4_DD_ZT14	DD_ZT14	mucosal_DD_ZT14	mucosal_ileum_DD_ZT14
+dsiMZT14.DD5	dsiM	ZT14	DD	DDZT14	5	240	ileum	mucosal	ad libitum	5_DD_ZT14	DD_ZT14	mucosal_DD_ZT14	mucosal_ileum_DD_ZT14
+dsiMZT18.LD1	dsiM	ZT18	LD	LDZT18	1	241	ileum	mucosal	ad libitum	1_LD_ZT18	LD_ZT18	mucosal_LD_ZT18	mucosal_ileum_LD_ZT18
+dsiMZT18.LD2	dsiM	ZT18	LD	LDZT18	2	242	ileum	mucosal	ad libitum	2_LD_ZT18	LD_ZT18	mucosal_LD_ZT18	mucosal_ileum_LD_ZT18
+dsiMZT18.LD3	dsiM	ZT18	LD	LDZT18	3	243	ileum	mucosal	ad libitum	3_LD_ZT18	LD_ZT18	mucosal_LD_ZT18	mucosal_ileum_LD_ZT18
+dsiMZT18.LD4	dsiM	ZT18	LD	LDZT18	4	244	ileum	mucosal	ad libitum	4_LD_ZT18	LD_ZT18	mucosal_LD_ZT18	mucosal_ileum_LD_ZT18
+dsiMZT18.LD5	dsiM	ZT18	LD	LDZT18	5	245	ileum	mucosal	ad libitum	5_LD_ZT18	LD_ZT18	mucosal_LD_ZT18	mucosal_ileum_LD_ZT18
+dsiMZT18.RF1	dsiM	ZT18	RF	RFZT18	1	246	ileum	mucosal	restricted feeding (time unknown)	1_RF_ZT18	RF_ZT18	mucosal_RF_ZT18	mucosal_ileum_RF_ZT18
+dsiMZT18.RF2	dsiM	ZT18	RF	RFZT18	2	247	ileum	mucosal	restricted feeding (time unknown)	2_RF_ZT18	RF_ZT18	mucosal_RF_ZT18	mucosal_ileum_RF_ZT18
+dsiMZT18.RF3	dsiM	ZT18	RF	RFZT18	3	248	ileum	mucosal	restricted feeding (time unknown)	3_RF_ZT18	RF_ZT18	mucosal_RF_ZT18	mucosal_ileum_RF_ZT18
+dsiMZT18.RF4	dsiM	ZT18	RF	RFZT18	4	249	ileum	mucosal	restricted feeding (time unknown)	4_RF_ZT18	RF_ZT18	mucosal_RF_ZT18	mucosal_ileum_RF_ZT18
+dsiMZT18.RF5	dsiM	ZT18	RF	RFZT18	5	250	ileum	mucosal	restricted feeding (time unknown)	5_RF_ZT18	RF_ZT18	mucosal_RF_ZT18	mucosal_ileum_RF_ZT18
+dsiMZT18.DD1	dsiM	ZT18	DD	DDZT18	1	251	ileum	mucosal	ad libitum	1_DD_ZT18	DD_ZT18	mucosal_DD_ZT18	mucosal_ileum_DD_ZT18
+dsiMZT18.DD2	dsiM	ZT18	DD	DDZT18	2	252	ileum	mucosal	ad libitum	2_DD_ZT18	DD_ZT18	mucosal_DD_ZT18	mucosal_ileum_DD_ZT18
+dsiMZT18.DD3	dsiM	ZT18	DD	DDZT18	3	253	ileum	mucosal	ad libitum	3_DD_ZT18	DD_ZT18	mucosal_DD_ZT18	mucosal_ileum_DD_ZT18
+dsiMZT18.DD4	dsiM	ZT18	DD	DDZT18	4	254	ileum	mucosal	ad libitum	4_DD_ZT18	DD_ZT18	mucosal_DD_ZT18	mucosal_ileum_DD_ZT18
+dsiMZT18.DD5	dsiM	ZT18	DD	DDZT18	5	255	ileum	mucosal	ad libitum	5_DD_ZT18	DD_ZT18	mucosal_DD_ZT18	mucosal_ileum_DD_ZT18
+dsiMZT22.LD1	dsiM	ZT22	LD	LDZT22	1	256	ileum	mucosal	ad libitum	1_LD_ZT22	LD_ZT22	mucosal_LD_ZT22	mucosal_ileum_LD_ZT22
+dsiMZT22.LD2	dsiM	ZT22	LD	LDZT22	2	257	ileum	mucosal	ad libitum	2_LD_ZT22	LD_ZT22	mucosal_LD_ZT22	mucosal_ileum_LD_ZT22
+dsiMZT22.LD3	dsiM	ZT22	LD	LDZT22	3	258	ileum	mucosal	ad libitum	3_LD_ZT22	LD_ZT22	mucosal_LD_ZT22	mucosal_ileum_LD_ZT22
+dsiMZT22.LD4	dsiM	ZT22	LD	LDZT22	4	259	ileum	mucosal	ad libitum	4_LD_ZT22	LD_ZT22	mucosal_LD_ZT22	mucosal_ileum_LD_ZT22
+dsiMZT22.LD5	dsiM	ZT22	LD	LDZT22	5	260	ileum	mucosal	ad libitum	5_LD_ZT22	LD_ZT22	mucosal_LD_ZT22	mucosal_ileum_LD_ZT22
+dsiMZT22.RF1	dsiM	ZT22	RF	RFZT22	1	261	ileum	mucosal	restricted feeding (time unknown)	1_RF_ZT22	RF_ZT22	mucosal_RF_ZT22	mucosal_ileum_RF_ZT22
+dsiMZT22.RF2	dsiM	ZT22	RF	RFZT22	2	262	ileum	mucosal	restricted feeding (time unknown)	2_RF_ZT22	RF_ZT22	mucosal_RF_ZT22	mucosal_ileum_RF_ZT22
+dsiMZT22.RF3	dsiM	ZT22	RF	RFZT22	3	263	ileum	mucosal	restricted feeding (time unknown)	3_RF_ZT22	RF_ZT22	mucosal_RF_ZT22	mucosal_ileum_RF_ZT22
+dsiMZT22.RF4	dsiM	ZT22	RF	RFZT22	4	264	ileum	mucosal	restricted feeding (time unknown)	4_RF_ZT22	RF_ZT22	mucosal_RF_ZT22	mucosal_ileum_RF_ZT22
+dsiMZT22.RF5	dsiM	ZT22	RF	RFZT22	5	265	ileum	mucosal	restricted feeding (time unknown)	5_RF_ZT22	RF_ZT22	mucosal_RF_ZT22	mucosal_ileum_RF_ZT22
+dsiMZT22.DD2	dsiM	ZT22	DD	DDZT22	2	267	ileum	mucosal	ad libitum	2_DD_ZT22	DD_ZT22	mucosal_DD_ZT22	mucosal_ileum_DD_ZT22
+dsiMZT22.DD3	dsiM	ZT22	DD	DDZT22	3	268	ileum	mucosal	ad libitum	3_DD_ZT22	DD_ZT22	mucosal_DD_ZT22	mucosal_ileum_DD_ZT22
+dsiMZT22.DD4	dsiM	ZT22	DD	DDZT22	4	269	ileum	mucosal	ad libitum	4_DD_ZT22	DD_ZT22	mucosal_DD_ZT22	mucosal_ileum_DD_ZT22
+dsiMZT22.DD5	dsiM	ZT22	DD	DDZT22	5	270	ileum	mucosal	ad libitum	5_DD_ZT22	DD_ZT22	mucosal_DD_ZT22	mucosal_ileum_DD_ZT22
+dsiEZT2.LD1	dsiE	ZT2	LD	LDZT2	1	271	ileum	epithelium	ad libitum	1_LD_ZT2	LD_ZT2	epithelium_LD_ZT2	epithelium_ileum_LD_ZT2
+dsiEZT2.LD3	dsiE	ZT2	LD	LDZT2	3	273	ileum	epithelium	ad libitum	3_LD_ZT2	LD_ZT2	epithelium_LD_ZT2	epithelium_ileum_LD_ZT2
+dsiEZT2.LD4	dsiE	ZT2	LD	LDZT2	4	274	ileum	epithelium	ad libitum	4_LD_ZT2	LD_ZT2	epithelium_LD_ZT2	epithelium_ileum_LD_ZT2
+dsiEZT2.LD5	dsiE	ZT2	LD	LDZT2	5	275	ileum	epithelium	ad libitum	5_LD_ZT2	LD_ZT2	epithelium_LD_ZT2	epithelium_ileum_LD_ZT2
+dsiEZT2.RF1	dsiE	ZT2	RF	RFZT2	1	276	ileum	epithelium	restricted feeding (time unknown)	1_RF_ZT2	RF_ZT2	epithelium_RF_ZT2	epithelium_ileum_RF_ZT2
+dsiEZT2.RF2	dsiE	ZT2	RF	RFZT2	2	277	ileum	epithelium	restricted feeding (time unknown)	2_RF_ZT2	RF_ZT2	epithelium_RF_ZT2	epithelium_ileum_RF_ZT2
+dsiEZT2.RF3	dsiE	ZT2	RF	RFZT2	3	278	ileum	epithelium	restricted feeding (time unknown)	3_RF_ZT2	RF_ZT2	epithelium_RF_ZT2	epithelium_ileum_RF_ZT2
+dsiEZT2.RF4	dsiE	ZT2	RF	RFZT2	4	279	ileum	epithelium	restricted feeding (time unknown)	4_RF_ZT2	RF_ZT2	epithelium_RF_ZT2	epithelium_ileum_RF_ZT2
+dsiEZT2.RF5	dsiE	ZT2	RF	RFZT2	5	280	ileum	epithelium	restricted feeding (time unknown)	5_RF_ZT2	RF_ZT2	epithelium_RF_ZT2	epithelium_ileum_RF_ZT2
+dsiEZT2.DD1	dsiE	ZT2	DD	DDZT2	1	281	ileum	epithelium	ad libitum	1_DD_ZT2	DD_ZT2	epithelium_DD_ZT2	epithelium_ileum_DD_ZT2
+dsiEZT2.DD2	dsiE	ZT2	DD	DDZT2	2	282	ileum	epithelium	ad libitum	2_DD_ZT2	DD_ZT2	epithelium_DD_ZT2	epithelium_ileum_DD_ZT2
+dsiEZT2.DD3	dsiE	ZT2	DD	DDZT2	3	283	ileum	epithelium	ad libitum	3_DD_ZT2	DD_ZT2	epithelium_DD_ZT2	epithelium_ileum_DD_ZT2
+dsiEZT2.DD5	dsiE	ZT2	DD	DDZT2	5	285	ileum	epithelium	ad libitum	5_DD_ZT2	DD_ZT2	epithelium_DD_ZT2	epithelium_ileum_DD_ZT2
+dsiEZT6.LD1	dsiE	ZT6	LD	LDZT6	1	286	ileum	epithelium	ad libitum	1_LD_ZT6	LD_ZT6	epithelium_LD_ZT6	epithelium_ileum_LD_ZT6
+dsiEZT6.LD2	dsiE	ZT6	LD	LDZT6	2	287	ileum	epithelium	ad libitum	2_LD_ZT6	LD_ZT6	epithelium_LD_ZT6	epithelium_ileum_LD_ZT6
+dsiEZT6.LD3	dsiE	ZT6	LD	LDZT6	3	288	ileum	epithelium	ad libitum	3_LD_ZT6	LD_ZT6	epithelium_LD_ZT6	epithelium_ileum_LD_ZT6
+dsiEZT6.LD4	dsiE	ZT6	LD	LDZT6	4	289	ileum	epithelium	ad libitum	4_LD_ZT6	LD_ZT6	epithelium_LD_ZT6	epithelium_ileum_LD_ZT6
+dsiEZT6.LD5	dsiE	ZT6	LD	LDZT6	5	290	ileum	epithelium	ad libitum	5_LD_ZT6	LD_ZT6	epithelium_LD_ZT6	epithelium_ileum_LD_ZT6
+dsiEZT6.RF1	dsiE	ZT6	RF	RFZT6	1	291	ileum	epithelium	restricted feeding (time unknown)	1_RF_ZT6	RF_ZT6	epithelium_RF_ZT6	epithelium_ileum_RF_ZT6
+dsiEZT6.RF2	dsiE	ZT6	RF	RFZT6	2	292	ileum	epithelium	restricted feeding (time unknown)	2_RF_ZT6	RF_ZT6	epithelium_RF_ZT6	epithelium_ileum_RF_ZT6
+dsiEZT6.RF3	dsiE	ZT6	RF	RFZT6	3	293	ileum	epithelium	restricted feeding (time unknown)	3_RF_ZT6	RF_ZT6	epithelium_RF_ZT6	epithelium_ileum_RF_ZT6
+dsiEZT6.RF4	dsiE	ZT6	RF	RFZT6	4	294	ileum	epithelium	restricted feeding (time unknown)	4_RF_ZT6	RF_ZT6	epithelium_RF_ZT6	epithelium_ileum_RF_ZT6
+dsiEZT6.RF5	dsiE	ZT6	RF	RFZT6	5	295	ileum	epithelium	restricted feeding (time unknown)	5_RF_ZT6	RF_ZT6	epithelium_RF_ZT6	epithelium_ileum_RF_ZT6
+dsiEZT6.DD2	dsiE	ZT6	DD	DDZT6	2	297	ileum	epithelium	ad libitum	2_DD_ZT6	DD_ZT6	epithelium_DD_ZT6	epithelium_ileum_DD_ZT6
+dsiEZT6.DD3	dsiE	ZT6	DD	DDZT6	3	298	ileum	epithelium	ad libitum	3_DD_ZT6	DD_ZT6	epithelium_DD_ZT6	epithelium_ileum_DD_ZT6
+dsiEZT6.DD4	dsiE	ZT6	DD	DDZT6	4	299	ileum	epithelium	ad libitum	4_DD_ZT6	DD_ZT6	epithelium_DD_ZT6	epithelium_ileum_DD_ZT6
+dsiEZT6.DD5	dsiE	ZT6	DD	DDZT6	5	300	ileum	epithelium	ad libitum	5_DD_ZT6	DD_ZT6	epithelium_DD_ZT6	epithelium_ileum_DD_ZT6
+dsiEZT10.LD1	dsiE	ZT10	LD	LDZT10	1	301	ileum	epithelium	ad libitum	1_LD_ZT10	LD_ZT10	epithelium_LD_ZT10	epithelium_ileum_LD_ZT10
+dsiEZT10.LD2	dsiE	ZT10	LD	LDZT10	2	302	ileum	epithelium	ad libitum	2_LD_ZT10	LD_ZT10	epithelium_LD_ZT10	epithelium_ileum_LD_ZT10
+dsiEZT10.LD3	dsiE	ZT10	LD	LDZT10	3	303	ileum	epithelium	ad libitum	3_LD_ZT10	LD_ZT10	epithelium_LD_ZT10	epithelium_ileum_LD_ZT10
+dsiEZT10.LD4	dsiE	ZT10	LD	LDZT10	4	304	ileum	epithelium	ad libitum	4_LD_ZT10	LD_ZT10	epithelium_LD_ZT10	epithelium_ileum_LD_ZT10
+dsiEZT10.LD5	dsiE	ZT10	LD	LDZT10	5	305	ileum	epithelium	ad libitum	5_LD_ZT10	LD_ZT10	epithelium_LD_ZT10	epithelium_ileum_LD_ZT10
+dsiEZT10.RF1	dsiE	ZT10	RF	RFZT10	1	306	ileum	epithelium	restricted feeding (time unknown)	1_RF_ZT10	RF_ZT10	epithelium_RF_ZT10	epithelium_ileum_RF_ZT10
+dsiEZT10.RF2	dsiE	ZT10	RF	RFZT10	2	307	ileum	epithelium	restricted feeding (time unknown)	2_RF_ZT10	RF_ZT10	epithelium_RF_ZT10	epithelium_ileum_RF_ZT10
+dsiEZT10.RF3	dsiE	ZT10	RF	RFZT10	3	308	ileum	epithelium	restricted feeding (time unknown)	3_RF_ZT10	RF_ZT10	epithelium_RF_ZT10	epithelium_ileum_RF_ZT10
+dsiEZT10.RF4	dsiE	ZT10	RF	RFZT10	4	309	ileum	epithelium	restricted feeding (time unknown)	4_RF_ZT10	RF_ZT10	epithelium_RF_ZT10	epithelium_ileum_RF_ZT10
+dsiEZT10.RF5	dsiE	ZT10	RF	RFZT10	5	310	ileum	epithelium	restricted feeding (time unknown)	5_RF_ZT10	RF_ZT10	epithelium_RF_ZT10	epithelium_ileum_RF_ZT10
+dsiEZT10.DD1	dsiE	ZT10	DD	DDZT10	1	311	ileum	epithelium	ad libitum	1_DD_ZT10	DD_ZT10	epithelium_DD_ZT10	epithelium_ileum_DD_ZT10
+dsiEZT10.DD2	dsiE	ZT10	DD	DDZT10	2	312	ileum	epithelium	ad libitum	2_DD_ZT10	DD_ZT10	epithelium_DD_ZT10	epithelium_ileum_DD_ZT10
+dsiEZT10.DD3	dsiE	ZT10	DD	DDZT10	3	313	ileum	epithelium	ad libitum	3_DD_ZT10	DD_ZT10	epithelium_DD_ZT10	epithelium_ileum_DD_ZT10
+dsiEZT10.DD4	dsiE	ZT10	DD	DDZT10	4	314	ileum	epithelium	ad libitum	4_DD_ZT10	DD_ZT10	epithelium_DD_ZT10	epithelium_ileum_DD_ZT10
+dsiEZT10.DD5	dsiE	ZT10	DD	DDZT10	5	315	ileum	epithelium	ad libitum	5_DD_ZT10	DD_ZT10	epithelium_DD_ZT10	epithelium_ileum_DD_ZT10
+dsiEZT14.LD1	dsiE	ZT14	LD	LDZT14	1	316	ileum	epithelium	ad libitum	1_LD_ZT14	LD_ZT14	epithelium_LD_ZT14	epithelium_ileum_LD_ZT14
+dsiEZT14.LD2	dsiE	ZT14	LD	LDZT14	2	317	ileum	epithelium	ad libitum	2_LD_ZT14	LD_ZT14	epithelium_LD_ZT14	epithelium_ileum_LD_ZT14
+dsiEZT14.LD3	dsiE	ZT14	LD	LDZT14	3	318	ileum	epithelium	ad libitum	3_LD_ZT14	LD_ZT14	epithelium_LD_ZT14	epithelium_ileum_LD_ZT14
+dsiEZT14.LD4	dsiE	ZT14	LD	LDZT14	4	319	ileum	epithelium	ad libitum	4_LD_ZT14	LD_ZT14	epithelium_LD_ZT14	epithelium_ileum_LD_ZT14
+dsiEZT14.LD5	dsiE	ZT14	LD	LDZT14	5	320	ileum	epithelium	ad libitum	5_LD_ZT14	LD_ZT14	epithelium_LD_ZT14	epithelium_ileum_LD_ZT14
+dsiEZT14.RF2	dsiE	ZT14	RF	RFZT14	2	322	ileum	epithelium	restricted feeding (time unknown)	2_RF_ZT14	RF_ZT14	epithelium_RF_ZT14	epithelium_ileum_RF_ZT14
+dsiEZT14.RF3	dsiE	ZT14	RF	RFZT14	3	323	ileum	epithelium	restricted feeding (time unknown)	3_RF_ZT14	RF_ZT14	epithelium_RF_ZT14	epithelium_ileum_RF_ZT14
+dsiEZT14.RF4	dsiE	ZT14	RF	RFZT14	4	324	ileum	epithelium	restricted feeding (time unknown)	4_RF_ZT14	RF_ZT14	epithelium_RF_ZT14	epithelium_ileum_RF_ZT14
+dsiEZT14.RF5	dsiE	ZT14	RF	RFZT14	5	325	ileum	epithelium	restricted feeding (time unknown)	5_RF_ZT14	RF_ZT14	epithelium_RF_ZT14	epithelium_ileum_RF_ZT14
+dsiEZT14.DD1	dsiE	ZT14	DD	DDZT14	1	326	ileum	epithelium	ad libitum	1_DD_ZT14	DD_ZT14	epithelium_DD_ZT14	epithelium_ileum_DD_ZT14
+dsiEZT14.DD2	dsiE	ZT14	DD	DDZT14	2	327	ileum	epithelium	ad libitum	2_DD_ZT14	DD_ZT14	epithelium_DD_ZT14	epithelium_ileum_DD_ZT14
+dsiEZT14.DD3	dsiE	ZT14	DD	DDZT14	3	328	ileum	epithelium	ad libitum	3_DD_ZT14	DD_ZT14	epithelium_DD_ZT14	epithelium_ileum_DD_ZT14
+dsiEZT14.DD4	dsiE	ZT14	DD	DDZT14	4	329	ileum	epithelium	ad libitum	4_DD_ZT14	DD_ZT14	epithelium_DD_ZT14	epithelium_ileum_DD_ZT14
+dsiEZT14.DD5	dsiE	ZT14	DD	DDZT14	5	330	ileum	epithelium	ad libitum	5_DD_ZT14	DD_ZT14	epithelium_DD_ZT14	epithelium_ileum_DD_ZT14
+dsiEZT18.LD1	dsiE	ZT18	LD	LDZT18	1	331	ileum	epithelium	ad libitum	1_LD_ZT18	LD_ZT18	epithelium_LD_ZT18	epithelium_ileum_LD_ZT18
+dsiEZT18.LD2	dsiE	ZT18	LD	LDZT18	2	332	ileum	epithelium	ad libitum	2_LD_ZT18	LD_ZT18	epithelium_LD_ZT18	epithelium_ileum_LD_ZT18
+dsiEZT18.LD3	dsiE	ZT18	LD	LDZT18	3	333	ileum	epithelium	ad libitum	3_LD_ZT18	LD_ZT18	epithelium_LD_ZT18	epithelium_ileum_LD_ZT18
+dsiEZT18.LD4	dsiE	ZT18	LD	LDZT18	4	334	ileum	epithelium	ad libitum	4_LD_ZT18	LD_ZT18	epithelium_LD_ZT18	epithelium_ileum_LD_ZT18
+dsiEZT18.LD5	dsiE	ZT18	LD	LDZT18	5	335	ileum	epithelium	ad libitum	5_LD_ZT18	LD_ZT18	epithelium_LD_ZT18	epithelium_ileum_LD_ZT18
+dsiEZT18.RF1	dsiE	ZT18	RF	RFZT18	1	336	ileum	epithelium	restricted feeding (time unknown)	1_RF_ZT18	RF_ZT18	epithelium_RF_ZT18	epithelium_ileum_RF_ZT18
+dsiEZT18.RF2	dsiE	ZT18	RF	RFZT18	2	337	ileum	epithelium	restricted feeding (time unknown)	2_RF_ZT18	RF_ZT18	epithelium_RF_ZT18	epithelium_ileum_RF_ZT18
+dsiEZT18.RF3	dsiE	ZT18	RF	RFZT18	3	338	ileum	epithelium	restricted feeding (time unknown)	3_RF_ZT18	RF_ZT18	epithelium_RF_ZT18	epithelium_ileum_RF_ZT18
+dsiEZT18.RF4	dsiE	ZT18	RF	RFZT18	4	339	ileum	epithelium	restricted feeding (time unknown)	4_RF_ZT18	RF_ZT18	epithelium_RF_ZT18	epithelium_ileum_RF_ZT18
+dsiEZT18.RF5	dsiE	ZT18	RF	RFZT18	5	340	ileum	epithelium	restricted feeding (time unknown)	5_RF_ZT18	RF_ZT18	epithelium_RF_ZT18	epithelium_ileum_RF_ZT18
+dsiEZT18.DD1	dsiE	ZT18	DD	DDZT18	1	341	ileum	epithelium	ad libitum	1_DD_ZT18	DD_ZT18	epithelium_DD_ZT18	epithelium_ileum_DD_ZT18
+dsiEZT18.DD2	dsiE	ZT18	DD	DDZT18	2	342	ileum	epithelium	ad libitum	2_DD_ZT18	DD_ZT18	epithelium_DD_ZT18	epithelium_ileum_DD_ZT18
+dsiEZT18.DD3	dsiE	ZT18	DD	DDZT18	3	343	ileum	epithelium	ad libitum	3_DD_ZT18	DD_ZT18	epithelium_DD_ZT18	epithelium_ileum_DD_ZT18
+dsiEZT18.DD4	dsiE	ZT18	DD	DDZT18	4	344	ileum	epithelium	ad libitum	4_DD_ZT18	DD_ZT18	epithelium_DD_ZT18	epithelium_ileum_DD_ZT18
+dsiEZT18.DD5	dsiE	ZT18	DD	DDZT18	5	345	ileum	epithelium	ad libitum	5_DD_ZT18	DD_ZT18	epithelium_DD_ZT18	epithelium_ileum_DD_ZT18
+dsiEZT22.LD1	dsiE	ZT22	LD	LDZT22	1	346	ileum	epithelium	ad libitum	1_LD_ZT22	LD_ZT22	epithelium_LD_ZT22	epithelium_ileum_LD_ZT22
+dsiEZT22.LD2	dsiE	ZT22	LD	LDZT22	2	347	ileum	epithelium	ad libitum	2_LD_ZT22	LD_ZT22	epithelium_LD_ZT22	epithelium_ileum_LD_ZT22
+dsiEZT22.LD3	dsiE	ZT22	LD	LDZT22	3	348	ileum	epithelium	ad libitum	3_LD_ZT22	LD_ZT22	epithelium_LD_ZT22	epithelium_ileum_LD_ZT22
+dsiEZT22.LD4	dsiE	ZT22	LD	LDZT22	4	349	ileum	epithelium	ad libitum	4_LD_ZT22	LD_ZT22	epithelium_LD_ZT22	epithelium_ileum_LD_ZT22
+dsiEZT22.LD5	dsiE	ZT22	LD	LDZT22	5	350	ileum	epithelium	ad libitum	5_LD_ZT22	LD_ZT22	epithelium_LD_ZT22	epithelium_ileum_LD_ZT22
+dsiEZT22.RF1	dsiE	ZT22	RF	RFZT22	1	351	ileum	epithelium	restricted feeding (time unknown)	1_RF_ZT22	RF_ZT22	epithelium_RF_ZT22	epithelium_ileum_RF_ZT22
+dsiEZT22.RF2	dsiE	ZT22	RF	RFZT22	2	352	ileum	epithelium	restricted feeding (time unknown)	2_RF_ZT22	RF_ZT22	epithelium_RF_ZT22	epithelium_ileum_RF_ZT22
+dsiEZT22.RF3	dsiE	ZT22	RF	RFZT22	3	353	ileum	epithelium	restricted feeding (time unknown)	3_RF_ZT22	RF_ZT22	epithelium_RF_ZT22	epithelium_ileum_RF_ZT22
+dsiEZT22.RF4	dsiE	ZT22	RF	RFZT22	4	354	ileum	epithelium	restricted feeding (time unknown)	4_RF_ZT22	RF_ZT22	epithelium_RF_ZT22	epithelium_ileum_RF_ZT22
+dsiEZT22.RF5	dsiE	ZT22	RF	RFZT22	5	355	ileum	epithelium	restricted feeding (time unknown)	5_RF_ZT22	RF_ZT22	epithelium_RF_ZT22	epithelium_ileum_RF_ZT22
+dsiEZT22.DD1	dsiE	ZT22	DD	DDZT22	1	356	ileum	epithelium	ad libitum	1_DD_ZT22	DD_ZT22	epithelium_DD_ZT22	epithelium_ileum_DD_ZT22
+dsiEZT22.DD3	dsiE	ZT22	DD	DDZT22	3	358	ileum	epithelium	ad libitum	3_DD_ZT22	DD_ZT22	epithelium_DD_ZT22	epithelium_ileum_DD_ZT22
+dsiEZT22.DD4	dsiE	ZT22	DD	DDZT22	4	359	ileum	epithelium	ad libitum	4_DD_ZT22	DD_ZT22	epithelium_DD_ZT22	epithelium_ileum_DD_ZT22
+dsiEZT22.DD5	dsiE	ZT22	DD	DDZT22	5	360	ileum	epithelium	ad libitum	5_DD_ZT22	DD_ZT22	epithelium_DD_ZT22	epithelium_ileum_DD_ZT22
+psiLZT2.LD1	psiL	ZT2	LD	LDZT2	1	361	jejunum	lumen	ad libitum	1_LD_ZT2	LD_ZT2	lumen_LD_ZT2	lumen_jejunum_LD_ZT2
+psiLZT2.LD2	psiL	ZT2	LD	LDZT2	2	362	jejunum	lumen	ad libitum	2_LD_ZT2	LD_ZT2	lumen_LD_ZT2	lumen_jejunum_LD_ZT2
+psiLZT2.LD3	psiL	ZT2	LD	LDZT2	3	363	jejunum	lumen	ad libitum	3_LD_ZT2	LD_ZT2	lumen_LD_ZT2	lumen_jejunum_LD_ZT2
+psiLZT2.LD5	psiL	ZT2	LD	LDZT2	5	365	jejunum	lumen	ad libitum	5_LD_ZT2	LD_ZT2	lumen_LD_ZT2	lumen_jejunum_LD_ZT2
+psiLZT2.RF1	psiL	ZT2	RF	RFZT2	1	366	jejunum	lumen	restricted feeding (time unknown)	1_RF_ZT2	RF_ZT2	lumen_RF_ZT2	lumen_jejunum_RF_ZT2
+psiLZT2.RF2	psiL	ZT2	RF	RFZT2	2	367	jejunum	lumen	restricted feeding (time unknown)	2_RF_ZT2	RF_ZT2	lumen_RF_ZT2	lumen_jejunum_RF_ZT2
+psiLZT2.RF3	psiL	ZT2	RF	RFZT2	3	368	jejunum	lumen	restricted feeding (time unknown)	3_RF_ZT2	RF_ZT2	lumen_RF_ZT2	lumen_jejunum_RF_ZT2
+psiLZT2.RF4	psiL	ZT2	RF	RFZT2	4	369	jejunum	lumen	restricted feeding (time unknown)	4_RF_ZT2	RF_ZT2	lumen_RF_ZT2	lumen_jejunum_RF_ZT2
+psiLZT2.RF5	psiL	ZT2	RF	RFZT2	5	370	jejunum	lumen	restricted feeding (time unknown)	5_RF_ZT2	RF_ZT2	lumen_RF_ZT2	lumen_jejunum_RF_ZT2
+psiLZT2.DD1	psiL	ZT2	DD	DDZT2	1	371	jejunum	lumen	ad libitum	1_DD_ZT2	DD_ZT2	lumen_DD_ZT2	lumen_jejunum_DD_ZT2
+psiLZT2.DD2	psiL	ZT2	DD	DDZT2	2	372	jejunum	lumen	ad libitum	2_DD_ZT2	DD_ZT2	lumen_DD_ZT2	lumen_jejunum_DD_ZT2
+psiLZT2.DD3	psiL	ZT2	DD	DDZT2	3	373	jejunum	lumen	ad libitum	3_DD_ZT2	DD_ZT2	lumen_DD_ZT2	lumen_jejunum_DD_ZT2
+psiLZT2.DD4	psiL	ZT2	DD	DDZT2	4	374	jejunum	lumen	ad libitum	4_DD_ZT2	DD_ZT2	lumen_DD_ZT2	lumen_jejunum_DD_ZT2
+psiLZT2.DD5	psiL	ZT2	DD	DDZT2	5	375	jejunum	lumen	ad libitum	5_DD_ZT2	DD_ZT2	lumen_DD_ZT2	lumen_jejunum_DD_ZT2
+psiLZT6.LD1	psiL	ZT6	LD	LDZT6	1	376	jejunum	lumen	ad libitum	1_LD_ZT6	LD_ZT6	lumen_LD_ZT6	lumen_jejunum_LD_ZT6
+psiLZT6.LD2	psiL	ZT6	LD	LDZT6	2	377	jejunum	lumen	ad libitum	2_LD_ZT6	LD_ZT6	lumen_LD_ZT6	lumen_jejunum_LD_ZT6
+psiLZT6.LD3	psiL	ZT6	LD	LDZT6	3	378	jejunum	lumen	ad libitum	3_LD_ZT6	LD_ZT6	lumen_LD_ZT6	lumen_jejunum_LD_ZT6
+psiLZT6.LD4	psiL	ZT6	LD	LDZT6	4	379	jejunum	lumen	ad libitum	4_LD_ZT6	LD_ZT6	lumen_LD_ZT6	lumen_jejunum_LD_ZT6
+psiLZT6.LD5	psiL	ZT6	LD	LDZT6	5	380	jejunum	lumen	ad libitum	5_LD_ZT6	LD_ZT6	lumen_LD_ZT6	lumen_jejunum_LD_ZT6
+psiLZT6.RF1	psiL	ZT6	RF	RFZT6	1	381	jejunum	lumen	restricted feeding (time unknown)	1_RF_ZT6	RF_ZT6	lumen_RF_ZT6	lumen_jejunum_RF_ZT6
+psiLZT6.RF2	psiL	ZT6	RF	RFZT6	2	382	jejunum	lumen	restricted feeding (time unknown)	2_RF_ZT6	RF_ZT6	lumen_RF_ZT6	lumen_jejunum_RF_ZT6
+psiLZT6.RF5	psiL	ZT6	RF	RFZT6	5	385	jejunum	lumen	restricted feeding (time unknown)	5_RF_ZT6	RF_ZT6	lumen_RF_ZT6	lumen_jejunum_RF_ZT6
+psiLZT6.DD1	psiL	ZT6	DD	DDZT6	1	386	jejunum	lumen	ad libitum	1_DD_ZT6	DD_ZT6	lumen_DD_ZT6	lumen_jejunum_DD_ZT6
+psiLZT6.DD2	psiL	ZT6	DD	DDZT6	2	387	jejunum	lumen	ad libitum	2_DD_ZT6	DD_ZT6	lumen_DD_ZT6	lumen_jejunum_DD_ZT6
+psiLZT6.DD3	psiL	ZT6	DD	DDZT6	3	388	jejunum	lumen	ad libitum	3_DD_ZT6	DD_ZT6	lumen_DD_ZT6	lumen_jejunum_DD_ZT6
+psiLZT6.DD4	psiL	ZT6	DD	DDZT6	4	389	jejunum	lumen	ad libitum	4_DD_ZT6	DD_ZT6	lumen_DD_ZT6	lumen_jejunum_DD_ZT6
+psiLZT6.DD5	psiL	ZT6	DD	DDZT6	5	390	jejunum	lumen	ad libitum	5_DD_ZT6	DD_ZT6	lumen_DD_ZT6	lumen_jejunum_DD_ZT6
+psiLZT10.LD1	psiL	ZT10	LD	LDZT10	1	391	jejunum	lumen	ad libitum	1_LD_ZT10	LD_ZT10	lumen_LD_ZT10	lumen_jejunum_LD_ZT10
+psiLZT10.LD2	psiL	ZT10	LD	LDZT10	2	392	jejunum	lumen	ad libitum	2_LD_ZT10	LD_ZT10	lumen_LD_ZT10	lumen_jejunum_LD_ZT10
+psiLZT10.LD3	psiL	ZT10	LD	LDZT10	3	393	jejunum	lumen	ad libitum	3_LD_ZT10	LD_ZT10	lumen_LD_ZT10	lumen_jejunum_LD_ZT10
+psiLZT10.LD4	psiL	ZT10	LD	LDZT10	4	394	jejunum	lumen	ad libitum	4_LD_ZT10	LD_ZT10	lumen_LD_ZT10	lumen_jejunum_LD_ZT10
+psiLZT10.RF1	psiL	ZT10	RF	RFZT10	1	396	jejunum	lumen	restricted feeding (time unknown)	1_RF_ZT10	RF_ZT10	lumen_RF_ZT10	lumen_jejunum_RF_ZT10
+psiLZT10.RF2	psiL	ZT10	RF	RFZT10	2	397	jejunum	lumen	restricted feeding (time unknown)	2_RF_ZT10	RF_ZT10	lumen_RF_ZT10	lumen_jejunum_RF_ZT10
+psiLZT10.RF3	psiL	ZT10	RF	RFZT10	3	398	jejunum	lumen	restricted feeding (time unknown)	3_RF_ZT10	RF_ZT10	lumen_RF_ZT10	lumen_jejunum_RF_ZT10
+psiLZT10.RF5	psiL	ZT10	RF	RFZT10	5	400	jejunum	lumen	restricted feeding (time unknown)	5_RF_ZT10	RF_ZT10	lumen_RF_ZT10	lumen_jejunum_RF_ZT10
+psiLZT10.DD1	psiL	ZT10	DD	DDZT10	1	401	jejunum	lumen	ad libitum	1_DD_ZT10	DD_ZT10	lumen_DD_ZT10	lumen_jejunum_DD_ZT10
+psiLZT10.DD4	psiL	ZT10	DD	DDZT10	4	404	jejunum	lumen	ad libitum	4_DD_ZT10	DD_ZT10	lumen_DD_ZT10	lumen_jejunum_DD_ZT10
+psiLZT10.DD5	psiL	ZT10	DD	DDZT10	5	405	jejunum	lumen	ad libitum	5_DD_ZT10	DD_ZT10	lumen_DD_ZT10	lumen_jejunum_DD_ZT10
+psiLZT14.LD1	psiL	ZT14	LD	LDZT14	1	406	jejunum	lumen	ad libitum	1_LD_ZT14	LD_ZT14	lumen_LD_ZT14	lumen_jejunum_LD_ZT14
+psiLZT14.LD2	psiL	ZT14	LD	LDZT14	2	407	jejunum	lumen	ad libitum	2_LD_ZT14	LD_ZT14	lumen_LD_ZT14	lumen_jejunum_LD_ZT14
+psiLZT14.LD3	psiL	ZT14	LD	LDZT14	3	408	jejunum	lumen	ad libitum	3_LD_ZT14	LD_ZT14	lumen_LD_ZT14	lumen_jejunum_LD_ZT14
+psiLZT14.LD4	psiL	ZT14	LD	LDZT14	4	409	jejunum	lumen	ad libitum	4_LD_ZT14	LD_ZT14	lumen_LD_ZT14	lumen_jejunum_LD_ZT14
+psiLZT14.LD5	psiL	ZT14	LD	LDZT14	5	410	jejunum	lumen	ad libitum	5_LD_ZT14	LD_ZT14	lumen_LD_ZT14	lumen_jejunum_LD_ZT14
+psiLZT14.RF1	psiL	ZT14	RF	RFZT14	1	411	jejunum	lumen	restricted feeding (time unknown)	1_RF_ZT14	RF_ZT14	lumen_RF_ZT14	lumen_jejunum_RF_ZT14
+psiLZT14.RF2	psiL	ZT14	RF	RFZT14	2	412	jejunum	lumen	restricted feeding (time unknown)	2_RF_ZT14	RF_ZT14	lumen_RF_ZT14	lumen_jejunum_RF_ZT14
+psiLZT14.RF3	psiL	ZT14	RF	RFZT14	3	413	jejunum	lumen	restricted feeding (time unknown)	3_RF_ZT14	RF_ZT14	lumen_RF_ZT14	lumen_jejunum_RF_ZT14
+psiLZT14.RF4	psiL	ZT14	RF	RFZT14	4	414	jejunum	lumen	restricted feeding (time unknown)	4_RF_ZT14	RF_ZT14	lumen_RF_ZT14	lumen_jejunum_RF_ZT14
+psiLZT14.RF5	psiL	ZT14	RF	RFZT14	5	415	jejunum	lumen	restricted feeding (time unknown)	5_RF_ZT14	RF_ZT14	lumen_RF_ZT14	lumen_jejunum_RF_ZT14
+psiLZT14.DD1	psiL	ZT14	DD	DDZT14	1	416	jejunum	lumen	ad libitum	1_DD_ZT14	DD_ZT14	lumen_DD_ZT14	lumen_jejunum_DD_ZT14
+psiLZT14.DD2	psiL	ZT14	DD	DDZT14	2	417	jejunum	lumen	ad libitum	2_DD_ZT14	DD_ZT14	lumen_DD_ZT14	lumen_jejunum_DD_ZT14
+psiLZT14.DD3	psiL	ZT14	DD	DDZT14	3	418	jejunum	lumen	ad libitum	3_DD_ZT14	DD_ZT14	lumen_DD_ZT14	lumen_jejunum_DD_ZT14
+psiLZT14.DD4	psiL	ZT14	DD	DDZT14	4	419	jejunum	lumen	ad libitum	4_DD_ZT14	DD_ZT14	lumen_DD_ZT14	lumen_jejunum_DD_ZT14
+psiLZT14.DD5	psiL	ZT14	DD	DDZT14	5	420	jejunum	lumen	ad libitum	5_DD_ZT14	DD_ZT14	lumen_DD_ZT14	lumen_jejunum_DD_ZT14
+psiLZT18.LD1	psiL	ZT18	LD	LDZT18	1	421	jejunum	lumen	ad libitum	1_LD_ZT18	LD_ZT18	lumen_LD_ZT18	lumen_jejunum_LD_ZT18
+psiLZT18.LD2	psiL	ZT18	LD	LDZT18	2	422	jejunum	lumen	ad libitum	2_LD_ZT18	LD_ZT18	lumen_LD_ZT18	lumen_jejunum_LD_ZT18
+psiLZT18.LD3	psiL	ZT18	LD	LDZT18	3	423	jejunum	lumen	ad libitum	3_LD_ZT18	LD_ZT18	lumen_LD_ZT18	lumen_jejunum_LD_ZT18
+psiLZT18.LD4	psiL	ZT18	LD	LDZT18	4	424	jejunum	lumen	ad libitum	4_LD_ZT18	LD_ZT18	lumen_LD_ZT18	lumen_jejunum_LD_ZT18
+psiLZT18.LD5	psiL	ZT18	LD	LDZT18	5	425	jejunum	lumen	ad libitum	5_LD_ZT18	LD_ZT18	lumen_LD_ZT18	lumen_jejunum_LD_ZT18
+psiLZT18.RF1	psiL	ZT18	RF	RFZT18	1	426	jejunum	lumen	restricted feeding (time unknown)	1_RF_ZT18	RF_ZT18	lumen_RF_ZT18	lumen_jejunum_RF_ZT18
+psiLZT18.RF2	psiL	ZT18	RF	RFZT18	2	427	jejunum	lumen	restricted feeding (time unknown)	2_RF_ZT18	RF_ZT18	lumen_RF_ZT18	lumen_jejunum_RF_ZT18
+psiLZT18.RF3	psiL	ZT18	RF	RFZT18	3	428	jejunum	lumen	restricted feeding (time unknown)	3_RF_ZT18	RF_ZT18	lumen_RF_ZT18	lumen_jejunum_RF_ZT18
+psiLZT18.RF4	psiL	ZT18	RF	RFZT18	4	429	jejunum	lumen	restricted feeding (time unknown)	4_RF_ZT18	RF_ZT18	lumen_RF_ZT18	lumen_jejunum_RF_ZT18
+psiLZT18.RF5	psiL	ZT18	RF	RFZT18	5	430	jejunum	lumen	restricted feeding (time unknown)	5_RF_ZT18	RF_ZT18	lumen_RF_ZT18	lumen_jejunum_RF_ZT18
+psiLZT18.DD1	psiL	ZT18	DD	DDZT18	1	431	jejunum	lumen	ad libitum	1_DD_ZT18	DD_ZT18	lumen_DD_ZT18	lumen_jejunum_DD_ZT18
+psiLZT18.DD2	psiL	ZT18	DD	DDZT18	2	432	jejunum	lumen	ad libitum	2_DD_ZT18	DD_ZT18	lumen_DD_ZT18	lumen_jejunum_DD_ZT18
+psiLZT18.DD3	psiL	ZT18	DD	DDZT18	3	433	jejunum	lumen	ad libitum	3_DD_ZT18	DD_ZT18	lumen_DD_ZT18	lumen_jejunum_DD_ZT18
+psiLZT18.DD4	psiL	ZT18	DD	DDZT18	4	434	jejunum	lumen	ad libitum	4_DD_ZT18	DD_ZT18	lumen_DD_ZT18	lumen_jejunum_DD_ZT18
+psiLZT18.DD5	psiL	ZT18	DD	DDZT18	5	435	jejunum	lumen	ad libitum	5_DD_ZT18	DD_ZT18	lumen_DD_ZT18	lumen_jejunum_DD_ZT18
+psiLZT22.LD1	psiL	ZT22	LD	LDZT22	1	436	jejunum	lumen	ad libitum	1_LD_ZT22	LD_ZT22	lumen_LD_ZT22	lumen_jejunum_LD_ZT22
+psiLZT22.LD2	psiL	ZT22	LD	LDZT22	2	437	jejunum	lumen	ad libitum	2_LD_ZT22	LD_ZT22	lumen_LD_ZT22	lumen_jejunum_LD_ZT22
+psiLZT22.LD3	psiL	ZT22	LD	LDZT22	3	438	jejunum	lumen	ad libitum	3_LD_ZT22	LD_ZT22	lumen_LD_ZT22	lumen_jejunum_LD_ZT22
+psiLZT22.LD4	psiL	ZT22	LD	LDZT22	4	439	jejunum	lumen	ad libitum	4_LD_ZT22	LD_ZT22	lumen_LD_ZT22	lumen_jejunum_LD_ZT22
+psiLZT22.LD5	psiL	ZT22	LD	LDZT22	5	440	jejunum	lumen	ad libitum	5_LD_ZT22	LD_ZT22	lumen_LD_ZT22	lumen_jejunum_LD_ZT22
+psiLZT22.RF1	psiL	ZT22	RF	RFZT22	1	441	jejunum	lumen	restricted feeding (time unknown)	1_RF_ZT22	RF_ZT22	lumen_RF_ZT22	lumen_jejunum_RF_ZT22
+psiLZT22.RF2	psiL	ZT22	RF	RFZT22	2	442	jejunum	lumen	restricted feeding (time unknown)	2_RF_ZT22	RF_ZT22	lumen_RF_ZT22	lumen_jejunum_RF_ZT22
+psiLZT22.RF3	psiL	ZT22	RF	RFZT22	3	443	jejunum	lumen	restricted feeding (time unknown)	3_RF_ZT22	RF_ZT22	lumen_RF_ZT22	lumen_jejunum_RF_ZT22
+psiLZT22.RF4	psiL	ZT22	RF	RFZT22	4	444	jejunum	lumen	restricted feeding (time unknown)	4_RF_ZT22	RF_ZT22	lumen_RF_ZT22	lumen_jejunum_RF_ZT22
+psiLZT22.RF5	psiL	ZT22	RF	RFZT22	5	445	jejunum	lumen	restricted feeding (time unknown)	5_RF_ZT22	RF_ZT22	lumen_RF_ZT22	lumen_jejunum_RF_ZT22
+psiLZT22.DD1	psiL	ZT22	DD	DDZT22	1	446	jejunum	lumen	ad libitum	1_DD_ZT22	DD_ZT22	lumen_DD_ZT22	lumen_jejunum_DD_ZT22
+psiLZT22.DD2	psiL	ZT22	DD	DDZT22	2	447	jejunum	lumen	ad libitum	2_DD_ZT22	DD_ZT22	lumen_DD_ZT22	lumen_jejunum_DD_ZT22
+psiLZT22.DD3	psiL	ZT22	DD	DDZT22	3	448	jejunum	lumen	ad libitum	3_DD_ZT22	DD_ZT22	lumen_DD_ZT22	lumen_jejunum_DD_ZT22
+psiLZT22.DD4	psiL	ZT22	DD	DDZT22	4	449	jejunum	lumen	ad libitum	4_DD_ZT22	DD_ZT22	lumen_DD_ZT22	lumen_jejunum_DD_ZT22
+psiLZT22.DD5	psiL	ZT22	DD	DDZT22	5	450	jejunum	lumen	ad libitum	5_DD_ZT22	DD_ZT22	lumen_DD_ZT22	lumen_jejunum_DD_ZT22
+psiMZT2.LD1	psiM	ZT2	LD	LDZT2	1	451	jejunum	mucosal	ad libitum	1_LD_ZT2	LD_ZT2	mucosal_LD_ZT2	mucosal_jejunum_LD_ZT2
+psiMZT2.LD2	psiM	ZT2	LD	LDZT2	2	452	jejunum	mucosal	ad libitum	2_LD_ZT2	LD_ZT2	mucosal_LD_ZT2	mucosal_jejunum_LD_ZT2
+psiMZT2.LD3	psiM	ZT2	LD	LDZT2	3	453	jejunum	mucosal	ad libitum	3_LD_ZT2	LD_ZT2	mucosal_LD_ZT2	mucosal_jejunum_LD_ZT2
+psiMZT2.LD4	psiM	ZT2	LD	LDZT2	4	454	jejunum	mucosal	ad libitum	4_LD_ZT2	LD_ZT2	mucosal_LD_ZT2	mucosal_jejunum_LD_ZT2
+psiMZT2.LD5	psiM	ZT2	LD	LDZT2	5	455	jejunum	mucosal	ad libitum	5_LD_ZT2	LD_ZT2	mucosal_LD_ZT2	mucosal_jejunum_LD_ZT2
+psiMZT2.RF2	psiM	ZT2	RF	RFZT2	2	457	jejunum	mucosal	restricted feeding (time unknown)	2_RF_ZT2	RF_ZT2	mucosal_RF_ZT2	mucosal_jejunum_RF_ZT2
+psiMZT2.RF3	psiM	ZT2	RF	RFZT2	3	458	jejunum	mucosal	restricted feeding (time unknown)	3_RF_ZT2	RF_ZT2	mucosal_RF_ZT2	mucosal_jejunum_RF_ZT2
+psiMZT2.RF4	psiM	ZT2	RF	RFZT2	4	459	jejunum	mucosal	restricted feeding (time unknown)	4_RF_ZT2	RF_ZT2	mucosal_RF_ZT2	mucosal_jejunum_RF_ZT2
+psiMZT2.RF5	psiM	ZT2	RF	RFZT2	5	460	jejunum	mucosal	restricted feeding (time unknown)	5_RF_ZT2	RF_ZT2	mucosal_RF_ZT2	mucosal_jejunum_RF_ZT2
+psiMZT2.DD1	psiM	ZT2	DD	DDZT2	1	461	jejunum	mucosal	ad libitum	1_DD_ZT2	DD_ZT2	mucosal_DD_ZT2	mucosal_jejunum_DD_ZT2
+psiMZT2.DD2	psiM	ZT2	DD	DDZT2	2	462	jejunum	mucosal	ad libitum	2_DD_ZT2	DD_ZT2	mucosal_DD_ZT2	mucosal_jejunum_DD_ZT2
+psiMZT2.DD3	psiM	ZT2	DD	DDZT2	3	463	jejunum	mucosal	ad libitum	3_DD_ZT2	DD_ZT2	mucosal_DD_ZT2	mucosal_jejunum_DD_ZT2
+psiMZT2.DD4	psiM	ZT2	DD	DDZT2	4	464	jejunum	mucosal	ad libitum	4_DD_ZT2	DD_ZT2	mucosal_DD_ZT2	mucosal_jejunum_DD_ZT2
+psiMZT2.DD5	psiM	ZT2	DD	DDZT2	5	465	jejunum	mucosal	ad libitum	5_DD_ZT2	DD_ZT2	mucosal_DD_ZT2	mucosal_jejunum_DD_ZT2
+psiMZT6.LD1	psiM	ZT6	LD	LDZT6	1	466	jejunum	mucosal	ad libitum	1_LD_ZT6	LD_ZT6	mucosal_LD_ZT6	mucosal_jejunum_LD_ZT6
+psiMZT6.LD2	psiM	ZT6	LD	LDZT6	2	467	jejunum	mucosal	ad libitum	2_LD_ZT6	LD_ZT6	mucosal_LD_ZT6	mucosal_jejunum_LD_ZT6
+psiMZT6.LD3	psiM	ZT6	LD	LDZT6	3	468	jejunum	mucosal	ad libitum	3_LD_ZT6	LD_ZT6	mucosal_LD_ZT6	mucosal_jejunum_LD_ZT6
+psiMZT6.LD5	psiM	ZT6	LD	LDZT6	5	470	jejunum	mucosal	ad libitum	5_LD_ZT6	LD_ZT6	mucosal_LD_ZT6	mucosal_jejunum_LD_ZT6
+psiMZT6.RF1	psiM	ZT6	RF	RFZT6	1	471	jejunum	mucosal	restricted feeding (time unknown)	1_RF_ZT6	RF_ZT6	mucosal_RF_ZT6	mucosal_jejunum_RF_ZT6
+psiMZT6.RF2	psiM	ZT6	RF	RFZT6	2	472	jejunum	mucosal	restricted feeding (time unknown)	2_RF_ZT6	RF_ZT6	mucosal_RF_ZT6	mucosal_jejunum_RF_ZT6
+psiMZT6.RF3	psiM	ZT6	RF	RFZT6	3	473	jejunum	mucosal	restricted feeding (time unknown)	3_RF_ZT6	RF_ZT6	mucosal_RF_ZT6	mucosal_jejunum_RF_ZT6
+psiMZT6.RF4	psiM	ZT6	RF	RFZT6	4	474	jejunum	mucosal	restricted feeding (time unknown)	4_RF_ZT6	RF_ZT6	mucosal_RF_ZT6	mucosal_jejunum_RF_ZT6
+psiMZT6.RF5	psiM	ZT6	RF	RFZT6	5	475	jejunum	mucosal	restricted feeding (time unknown)	5_RF_ZT6	RF_ZT6	mucosal_RF_ZT6	mucosal_jejunum_RF_ZT6
+psiMZT6.DD1	psiM	ZT6	DD	DDZT6	1	476	jejunum	mucosal	ad libitum	1_DD_ZT6	DD_ZT6	mucosal_DD_ZT6	mucosal_jejunum_DD_ZT6
+psiMZT6.DD2	psiM	ZT6	DD	DDZT6	2	477	jejunum	mucosal	ad libitum	2_DD_ZT6	DD_ZT6	mucosal_DD_ZT6	mucosal_jejunum_DD_ZT6
+psiMZT6.DD3	psiM	ZT6	DD	DDZT6	3	478	jejunum	mucosal	ad libitum	3_DD_ZT6	DD_ZT6	mucosal_DD_ZT6	mucosal_jejunum_DD_ZT6
+psiMZT6.DD4	psiM	ZT6	DD	DDZT6	4	479	jejunum	mucosal	ad libitum	4_DD_ZT6	DD_ZT6	mucosal_DD_ZT6	mucosal_jejunum_DD_ZT6
+psiMZT6.DD5	psiM	ZT6	DD	DDZT6	5	480	jejunum	mucosal	ad libitum	5_DD_ZT6	DD_ZT6	mucosal_DD_ZT6	mucosal_jejunum_DD_ZT6
+psiMZT10.LD1	psiM	ZT10	LD	LDZT10	1	481	jejunum	mucosal	ad libitum	1_LD_ZT10	LD_ZT10	mucosal_LD_ZT10	mucosal_jejunum_LD_ZT10
+psiMZT10.LD2	psiM	ZT10	LD	LDZT10	2	482	jejunum	mucosal	ad libitum	2_LD_ZT10	LD_ZT10	mucosal_LD_ZT10	mucosal_jejunum_LD_ZT10
+psiMZT10.LD3	psiM	ZT10	LD	LDZT10	3	483	jejunum	mucosal	ad libitum	3_LD_ZT10	LD_ZT10	mucosal_LD_ZT10	mucosal_jejunum_LD_ZT10
+psiMZT10.LD4	psiM	ZT10	LD	LDZT10	4	484	jejunum	mucosal	ad libitum	4_LD_ZT10	LD_ZT10	mucosal_LD_ZT10	mucosal_jejunum_LD_ZT10
+psiMZT10.LD5	psiM	ZT10	LD	LDZT10	5	485	jejunum	mucosal	ad libitum	5_LD_ZT10	LD_ZT10	mucosal_LD_ZT10	mucosal_jejunum_LD_ZT10
+psiMZT10.RF1	psiM	ZT10	RF	RFZT10	1	486	jejunum	mucosal	restricted feeding (time unknown)	1_RF_ZT10	RF_ZT10	mucosal_RF_ZT10	mucosal_jejunum_RF_ZT10
+psiMZT10.RF3	psiM	ZT10	RF	RFZT10	3	488	jejunum	mucosal	restricted feeding (time unknown)	3_RF_ZT10	RF_ZT10	mucosal_RF_ZT10	mucosal_jejunum_RF_ZT10
+psiMZT10.RF5	psiM	ZT10	RF	RFZT10	5	490	jejunum	mucosal	restricted feeding (time unknown)	5_RF_ZT10	RF_ZT10	mucosal_RF_ZT10	mucosal_jejunum_RF_ZT10
+psiMZT10.DD1	psiM	ZT10	DD	DDZT10	1	491	jejunum	mucosal	ad libitum	1_DD_ZT10	DD_ZT10	mucosal_DD_ZT10	mucosal_jejunum_DD_ZT10
+psiMZT10.DD2	psiM	ZT10	DD	DDZT10	2	492	jejunum	mucosal	ad libitum	2_DD_ZT10	DD_ZT10	mucosal_DD_ZT10	mucosal_jejunum_DD_ZT10
+psiMZT10.DD3	psiM	ZT10	DD	DDZT10	3	493	jejunum	mucosal	ad libitum	3_DD_ZT10	DD_ZT10	mucosal_DD_ZT10	mucosal_jejunum_DD_ZT10
+psiMZT10.DD5	psiM	ZT10	DD	DDZT10	5	495	jejunum	mucosal	ad libitum	5_DD_ZT10	DD_ZT10	mucosal_DD_ZT10	mucosal_jejunum_DD_ZT10
+psiMZT14.LD1	psiM	ZT14	LD	LDZT14	1	496	jejunum	mucosal	ad libitum	1_LD_ZT14	LD_ZT14	mucosal_LD_ZT14	mucosal_jejunum_LD_ZT14
+psiMZT14.LD2	psiM	ZT14	LD	LDZT14	2	497	jejunum	mucosal	ad libitum	2_LD_ZT14	LD_ZT14	mucosal_LD_ZT14	mucosal_jejunum_LD_ZT14
+psiMZT14.LD3	psiM	ZT14	LD	LDZT14	3	498	jejunum	mucosal	ad libitum	3_LD_ZT14	LD_ZT14	mucosal_LD_ZT14	mucosal_jejunum_LD_ZT14
+psiMZT14.LD4	psiM	ZT14	LD	LDZT14	4	499	jejunum	mucosal	ad libitum	4_LD_ZT14	LD_ZT14	mucosal_LD_ZT14	mucosal_jejunum_LD_ZT14
+psiMZT14.LD5	psiM	ZT14	LD	LDZT14	5	500	jejunum	mucosal	ad libitum	5_LD_ZT14	LD_ZT14	mucosal_LD_ZT14	mucosal_jejunum_LD_ZT14
+psiMZT14.RF2	psiM	ZT14	RF	RFZT14	2	502	jejunum	mucosal	restricted feeding (time unknown)	2_RF_ZT14	RF_ZT14	mucosal_RF_ZT14	mucosal_jejunum_RF_ZT14
+psiMZT14.RF3	psiM	ZT14	RF	RFZT14	3	503	jejunum	mucosal	restricted feeding (time unknown)	3_RF_ZT14	RF_ZT14	mucosal_RF_ZT14	mucosal_jejunum_RF_ZT14
+psiMZT14.RF4	psiM	ZT14	RF	RFZT14	4	504	jejunum	mucosal	restricted feeding (time unknown)	4_RF_ZT14	RF_ZT14	mucosal_RF_ZT14	mucosal_jejunum_RF_ZT14
+psiMZT14.RF5	psiM	ZT14	RF	RFZT14	5	505	jejunum	mucosal	restricted feeding (time unknown)	5_RF_ZT14	RF_ZT14	mucosal_RF_ZT14	mucosal_jejunum_RF_ZT14
+psiMZT14.DD1	psiM	ZT14	DD	DDZT14	1	506	jejunum	mucosal	ad libitum	1_DD_ZT14	DD_ZT14	mucosal_DD_ZT14	mucosal_jejunum_DD_ZT14
+psiMZT14.DD2	psiM	ZT14	DD	DDZT14	2	507	jejunum	mucosal	ad libitum	2_DD_ZT14	DD_ZT14	mucosal_DD_ZT14	mucosal_jejunum_DD_ZT14
+psiMZT14.DD3	psiM	ZT14	DD	DDZT14	3	508	jejunum	mucosal	ad libitum	3_DD_ZT14	DD_ZT14	mucosal_DD_ZT14	mucosal_jejunum_DD_ZT14
+psiMZT14.DD4	psiM	ZT14	DD	DDZT14	4	509	jejunum	mucosal	ad libitum	4_DD_ZT14	DD_ZT14	mucosal_DD_ZT14	mucosal_jejunum_DD_ZT14
+psiMZT14.DD5	psiM	ZT14	DD	DDZT14	5	510	jejunum	mucosal	ad libitum	5_DD_ZT14	DD_ZT14	mucosal_DD_ZT14	mucosal_jejunum_DD_ZT14
+psiMZT18.LD1	psiM	ZT18	LD	LDZT18	1	511	jejunum	mucosal	ad libitum	1_LD_ZT18	LD_ZT18	mucosal_LD_ZT18	mucosal_jejunum_LD_ZT18
+psiMZT18.LD2	psiM	ZT18	LD	LDZT18	2	512	jejunum	mucosal	ad libitum	2_LD_ZT18	LD_ZT18	mucosal_LD_ZT18	mucosal_jejunum_LD_ZT18
+psiMZT18.LD3	psiM	ZT18	LD	LDZT18	3	513	jejunum	mucosal	ad libitum	3_LD_ZT18	LD_ZT18	mucosal_LD_ZT18	mucosal_jejunum_LD_ZT18
+psiMZT18.LD4	psiM	ZT18	LD	LDZT18	4	514	jejunum	mucosal	ad libitum	4_LD_ZT18	LD_ZT18	mucosal_LD_ZT18	mucosal_jejunum_LD_ZT18
+psiMZT18.LD5	psiM	ZT18	LD	LDZT18	5	515	jejunum	mucosal	ad libitum	5_LD_ZT18	LD_ZT18	mucosal_LD_ZT18	mucosal_jejunum_LD_ZT18
+psiMZT18.RF1	psiM	ZT18	RF	RFZT18	1	516	jejunum	mucosal	restricted feeding (time unknown)	1_RF_ZT18	RF_ZT18	mucosal_RF_ZT18	mucosal_jejunum_RF_ZT18
+psiMZT18.RF2	psiM	ZT18	RF	RFZT18	2	517	jejunum	mucosal	restricted feeding (time unknown)	2_RF_ZT18	RF_ZT18	mucosal_RF_ZT18	mucosal_jejunum_RF_ZT18
+psiMZT18.RF3	psiM	ZT18	RF	RFZT18	3	518	jejunum	mucosal	restricted feeding (time unknown)	3_RF_ZT18	RF_ZT18	mucosal_RF_ZT18	mucosal_jejunum_RF_ZT18
+psiMZT18.RF4	psiM	ZT18	RF	RFZT18	4	519	jejunum	mucosal	restricted feeding (time unknown)	4_RF_ZT18	RF_ZT18	mucosal_RF_ZT18	mucosal_jejunum_RF_ZT18
+psiMZT18.RF5	psiM	ZT18	RF	RFZT18	5	520	jejunum	mucosal	restricted feeding (time unknown)	5_RF_ZT18	RF_ZT18	mucosal_RF_ZT18	mucosal_jejunum_RF_ZT18
+psiMZT18.DD1	psiM	ZT18	DD	DDZT18	1	521	jejunum	mucosal	ad libitum	1_DD_ZT18	DD_ZT18	mucosal_DD_ZT18	mucosal_jejunum_DD_ZT18
+psiMZT18.DD2	psiM	ZT18	DD	DDZT18	2	522	jejunum	mucosal	ad libitum	2_DD_ZT18	DD_ZT18	mucosal_DD_ZT18	mucosal_jejunum_DD_ZT18
+psiMZT18.DD3	psiM	ZT18	DD	DDZT18	3	523	jejunum	mucosal	ad libitum	3_DD_ZT18	DD_ZT18	mucosal_DD_ZT18	mucosal_jejunum_DD_ZT18
+psiMZT18.DD4	psiM	ZT18	DD	DDZT18	4	524	jejunum	mucosal	ad libitum	4_DD_ZT18	DD_ZT18	mucosal_DD_ZT18	mucosal_jejunum_DD_ZT18
+psiMZT18.DD5	psiM	ZT18	DD	DDZT18	5	525	jejunum	mucosal	ad libitum	5_DD_ZT18	DD_ZT18	mucosal_DD_ZT18	mucosal_jejunum_DD_ZT18
+psiMZT22.LD1	psiM	ZT22	LD	LDZT22	1	526	jejunum	mucosal	ad libitum	1_LD_ZT22	LD_ZT22	mucosal_LD_ZT22	mucosal_jejunum_LD_ZT22
+psiMZT22.LD2	psiM	ZT22	LD	LDZT22	2	527	jejunum	mucosal	ad libitum	2_LD_ZT22	LD_ZT22	mucosal_LD_ZT22	mucosal_jejunum_LD_ZT22
+psiMZT22.LD3	psiM	ZT22	LD	LDZT22	3	528	jejunum	mucosal	ad libitum	3_LD_ZT22	LD_ZT22	mucosal_LD_ZT22	mucosal_jejunum_LD_ZT22
+psiMZT22.LD4	psiM	ZT22	LD	LDZT22	4	529	jejunum	mucosal	ad libitum	4_LD_ZT22	LD_ZT22	mucosal_LD_ZT22	mucosal_jejunum_LD_ZT22
+psiMZT22.LD5	psiM	ZT22	LD	LDZT22	5	530	jejunum	mucosal	ad libitum	5_LD_ZT22	LD_ZT22	mucosal_LD_ZT22	mucosal_jejunum_LD_ZT22
+psiMZT22.RF1	psiM	ZT22	RF	RFZT22	1	531	jejunum	mucosal	restricted feeding (time unknown)	1_RF_ZT22	RF_ZT22	mucosal_RF_ZT22	mucosal_jejunum_RF_ZT22
+psiMZT22.RF2	psiM	ZT22	RF	RFZT22	2	532	jejunum	mucosal	restricted feeding (time unknown)	2_RF_ZT22	RF_ZT22	mucosal_RF_ZT22	mucosal_jejunum_RF_ZT22
+psiMZT22.RF3	psiM	ZT22	RF	RFZT22	3	533	jejunum	mucosal	restricted feeding (time unknown)	3_RF_ZT22	RF_ZT22	mucosal_RF_ZT22	mucosal_jejunum_RF_ZT22
+psiMZT22.RF4	psiM	ZT22	RF	RFZT22	4	534	jejunum	mucosal	restricted feeding (time unknown)	4_RF_ZT22	RF_ZT22	mucosal_RF_ZT22	mucosal_jejunum_RF_ZT22
+psiMZT22.RF5	psiM	ZT22	RF	RFZT22	5	535	jejunum	mucosal	restricted feeding (time unknown)	5_RF_ZT22	RF_ZT22	mucosal_RF_ZT22	mucosal_jejunum_RF_ZT22
+psiMZT22.DD1	psiM	ZT22	DD	DDZT22	1	536	jejunum	mucosal	ad libitum	1_DD_ZT22	DD_ZT22	mucosal_DD_ZT22	mucosal_jejunum_DD_ZT22
+psiMZT22.DD2	psiM	ZT22	DD	DDZT22	2	537	jejunum	mucosal	ad libitum	2_DD_ZT22	DD_ZT22	mucosal_DD_ZT22	mucosal_jejunum_DD_ZT22
+psiMZT22.DD3	psiM	ZT22	DD	DDZT22	3	538	jejunum	mucosal	ad libitum	3_DD_ZT22	DD_ZT22	mucosal_DD_ZT22	mucosal_jejunum_DD_ZT22
+psiMZT22.DD4	psiM	ZT22	DD	DDZT22	4	539	jejunum	mucosal	ad libitum	4_DD_ZT22	DD_ZT22	mucosal_DD_ZT22	mucosal_jejunum_DD_ZT22
+psiMZT22.DD5	psiM	ZT22	DD	DDZT22	5	540	jejunum	mucosal	ad libitum	5_DD_ZT22	DD_ZT22	mucosal_DD_ZT22	mucosal_jejunum_DD_ZT22
+psiEZT2.LD1	psiE	ZT2	LD	LDZT2	1	541	jejunum	epithelium	ad libitum	1_LD_ZT2	LD_ZT2	epithelium_LD_ZT2	epithelium_jejunum_LD_ZT2
+psiEZT2.LD3	psiE	ZT2	LD	LDZT2	3	543	jejunum	epithelium	ad libitum	3_LD_ZT2	LD_ZT2	epithelium_LD_ZT2	epithelium_jejunum_LD_ZT2
+psiEZT2.LD4	psiE	ZT2	LD	LDZT2	4	544	jejunum	epithelium	ad libitum	4_LD_ZT2	LD_ZT2	epithelium_LD_ZT2	epithelium_jejunum_LD_ZT2
+psiEZT2.LD5	psiE	ZT2	LD	LDZT2	5	545	jejunum	epithelium	ad libitum	5_LD_ZT2	LD_ZT2	epithelium_LD_ZT2	epithelium_jejunum_LD_ZT2
+psiEZT2.RF1	psiE	ZT2	RF	RFZT2	1	546	jejunum	epithelium	restricted feeding (time unknown)	1_RF_ZT2	RF_ZT2	epithelium_RF_ZT2	epithelium_jejunum_RF_ZT2
+psiEZT2.RF2	psiE	ZT2	RF	RFZT2	2	547	jejunum	epithelium	restricted feeding (time unknown)	2_RF_ZT2	RF_ZT2	epithelium_RF_ZT2	epithelium_jejunum_RF_ZT2
+psiEZT2.RF3	psiE	ZT2	RF	RFZT2	3	548	jejunum	epithelium	restricted feeding (time unknown)	3_RF_ZT2	RF_ZT2	epithelium_RF_ZT2	epithelium_jejunum_RF_ZT2
+psiEZT2.RF4	psiE	ZT2	RF	RFZT2	4	549	jejunum	epithelium	restricted feeding (time unknown)	4_RF_ZT2	RF_ZT2	epithelium_RF_ZT2	epithelium_jejunum_RF_ZT2
+psiEZT2.RF5	psiE	ZT2	RF	RFZT2	5	550	jejunum	epithelium	restricted feeding (time unknown)	5_RF_ZT2	RF_ZT2	epithelium_RF_ZT2	epithelium_jejunum_RF_ZT2
+psiEZT2.DD1	psiE	ZT2	DD	DDZT2	1	551	jejunum	epithelium	ad libitum	1_DD_ZT2	DD_ZT2	epithelium_DD_ZT2	epithelium_jejunum_DD_ZT2
+psiEZT2.DD2	psiE	ZT2	DD	DDZT2	2	552	jejunum	epithelium	ad libitum	2_DD_ZT2	DD_ZT2	epithelium_DD_ZT2	epithelium_jejunum_DD_ZT2
+psiEZT2.DD3	psiE	ZT2	DD	DDZT2	3	553	jejunum	epithelium	ad libitum	3_DD_ZT2	DD_ZT2	epithelium_DD_ZT2	epithelium_jejunum_DD_ZT2
+psiEZT2.DD4	psiE	ZT2	DD	DDZT2	4	554	jejunum	epithelium	ad libitum	4_DD_ZT2	DD_ZT2	epithelium_DD_ZT2	epithelium_jejunum_DD_ZT2
+psiEZT2.DD5	psiE	ZT2	DD	DDZT2	5	555	jejunum	epithelium	ad libitum	5_DD_ZT2	DD_ZT2	epithelium_DD_ZT2	epithelium_jejunum_DD_ZT2
+psiEZT6.LD1	psiE	ZT6	LD	LDZT6	1	556	jejunum	epithelium	ad libitum	1_LD_ZT6	LD_ZT6	epithelium_LD_ZT6	epithelium_jejunum_LD_ZT6
+psiEZT6.LD2	psiE	ZT6	LD	LDZT6	2	557	jejunum	epithelium	ad libitum	2_LD_ZT6	LD_ZT6	epithelium_LD_ZT6	epithelium_jejunum_LD_ZT6
+psiEZT6.LD3	psiE	ZT6	LD	LDZT6	3	558	jejunum	epithelium	ad libitum	3_LD_ZT6	LD_ZT6	epithelium_LD_ZT6	epithelium_jejunum_LD_ZT6
+psiEZT6.LD4	psiE	ZT6	LD	LDZT6	4	559	jejunum	epithelium	ad libitum	4_LD_ZT6	LD_ZT6	epithelium_LD_ZT6	epithelium_jejunum_LD_ZT6
+psiEZT6.LD5	psiE	ZT6	LD	LDZT6	5	560	jejunum	epithelium	ad libitum	5_LD_ZT6	LD_ZT6	epithelium_LD_ZT6	epithelium_jejunum_LD_ZT6
+psiEZT6.RF1	psiE	ZT6	RF	RFZT6	1	561	jejunum	epithelium	restricted feeding (time unknown)	1_RF_ZT6	RF_ZT6	epithelium_RF_ZT6	epithelium_jejunum_RF_ZT6
+psiEZT6.RF2	psiE	ZT6	RF	RFZT6	2	562	jejunum	epithelium	restricted feeding (time unknown)	2_RF_ZT6	RF_ZT6	epithelium_RF_ZT6	epithelium_jejunum_RF_ZT6
+psiEZT6.RF3	psiE	ZT6	RF	RFZT6	3	563	jejunum	epithelium	restricted feeding (time unknown)	3_RF_ZT6	RF_ZT6	epithelium_RF_ZT6	epithelium_jejunum_RF_ZT6
+psiEZT6.RF4	psiE	ZT6	RF	RFZT6	4	564	jejunum	epithelium	restricted feeding (time unknown)	4_RF_ZT6	RF_ZT6	epithelium_RF_ZT6	epithelium_jejunum_RF_ZT6
+psiEZT6.RF5	psiE	ZT6	RF	RFZT6	5	565	jejunum	epithelium	restricted feeding (time unknown)	5_RF_ZT6	RF_ZT6	epithelium_RF_ZT6	epithelium_jejunum_RF_ZT6
+psiEZT6.DD1	psiE	ZT6	DD	DDZT6	1	566	jejunum	epithelium	ad libitum	1_DD_ZT6	DD_ZT6	epithelium_DD_ZT6	epithelium_jejunum_DD_ZT6
+psiEZT6.DD2	psiE	ZT6	DD	DDZT6	2	567	jejunum	epithelium	ad libitum	2_DD_ZT6	DD_ZT6	epithelium_DD_ZT6	epithelium_jejunum_DD_ZT6
+psiEZT6.DD3	psiE	ZT6	DD	DDZT6	3	568	jejunum	epithelium	ad libitum	3_DD_ZT6	DD_ZT6	epithelium_DD_ZT6	epithelium_jejunum_DD_ZT6
+psiEZT6.DD4	psiE	ZT6	DD	DDZT6	4	569	jejunum	epithelium	ad libitum	4_DD_ZT6	DD_ZT6	epithelium_DD_ZT6	epithelium_jejunum_DD_ZT6
+psiEZT6.DD5	psiE	ZT6	DD	DDZT6	5	570	jejunum	epithelium	ad libitum	5_DD_ZT6	DD_ZT6	epithelium_DD_ZT6	epithelium_jejunum_DD_ZT6
+psiEZT10.LD1	psiE	ZT10	LD	LDZT10	1	571	jejunum	epithelium	ad libitum	1_LD_ZT10	LD_ZT10	epithelium_LD_ZT10	epithelium_jejunum_LD_ZT10
+psiEZT10.LD2	psiE	ZT10	LD	LDZT10	2	572	jejunum	epithelium	ad libitum	2_LD_ZT10	LD_ZT10	epithelium_LD_ZT10	epithelium_jejunum_LD_ZT10
+psiEZT10.LD3	psiE	ZT10	LD	LDZT10	3	573	jejunum	epithelium	ad libitum	3_LD_ZT10	LD_ZT10	epithelium_LD_ZT10	epithelium_jejunum_LD_ZT10
+psiEZT10.LD5	psiE	ZT10	LD	LDZT10	5	575	jejunum	epithelium	ad libitum	5_LD_ZT10	LD_ZT10	epithelium_LD_ZT10	epithelium_jejunum_LD_ZT10
+psiEZT10.RF1	psiE	ZT10	RF	RFZT10	1	576	jejunum	epithelium	restricted feeding (time unknown)	1_RF_ZT10	RF_ZT10	epithelium_RF_ZT10	epithelium_jejunum_RF_ZT10
+psiEZT10.RF2	psiE	ZT10	RF	RFZT10	2	577	jejunum	epithelium	restricted feeding (time unknown)	2_RF_ZT10	RF_ZT10	epithelium_RF_ZT10	epithelium_jejunum_RF_ZT10
+psiEZT10.RF3	psiE	ZT10	RF	RFZT10	3	578	jejunum	epithelium	restricted feeding (time unknown)	3_RF_ZT10	RF_ZT10	epithelium_RF_ZT10	epithelium_jejunum_RF_ZT10
+psiEZT10.RF4	psiE	ZT10	RF	RFZT10	4	579	jejunum	epithelium	restricted feeding (time unknown)	4_RF_ZT10	RF_ZT10	epithelium_RF_ZT10	epithelium_jejunum_RF_ZT10
+psiEZT10.RF5	psiE	ZT10	RF	RFZT10	5	580	jejunum	epithelium	restricted feeding (time unknown)	5_RF_ZT10	RF_ZT10	epithelium_RF_ZT10	epithelium_jejunum_RF_ZT10
+psiEZT10.DD1	psiE	ZT10	DD	DDZT10	1	581	jejunum	epithelium	ad libitum	1_DD_ZT10	DD_ZT10	epithelium_DD_ZT10	epithelium_jejunum_DD_ZT10
+psiEZT10.DD2	psiE	ZT10	DD	DDZT10	2	582	jejunum	epithelium	ad libitum	2_DD_ZT10	DD_ZT10	epithelium_DD_ZT10	epithelium_jejunum_DD_ZT10
+psiEZT10.DD3	psiE	ZT10	DD	DDZT10	3	583	jejunum	epithelium	ad libitum	3_DD_ZT10	DD_ZT10	epithelium_DD_ZT10	epithelium_jejunum_DD_ZT10
+psiEZT10.DD4	psiE	ZT10	DD	DDZT10	4	584	jejunum	epithelium	ad libitum	4_DD_ZT10	DD_ZT10	epithelium_DD_ZT10	epithelium_jejunum_DD_ZT10
+psiEZT10.DD5	psiE	ZT10	DD	DDZT10	5	585	jejunum	epithelium	ad libitum	5_DD_ZT10	DD_ZT10	epithelium_DD_ZT10	epithelium_jejunum_DD_ZT10
+psiEZT14.LD1	psiE	ZT14	LD	LDZT14	1	586	jejunum	epithelium	ad libitum	1_LD_ZT14	LD_ZT14	epithelium_LD_ZT14	epithelium_jejunum_LD_ZT14
+psiEZT14.LD2	psiE	ZT14	LD	LDZT14	2	587	jejunum	epithelium	ad libitum	2_LD_ZT14	LD_ZT14	epithelium_LD_ZT14	epithelium_jejunum_LD_ZT14
+psiEZT14.LD3	psiE	ZT14	LD	LDZT14	3	588	jejunum	epithelium	ad libitum	3_LD_ZT14	LD_ZT14	epithelium_LD_ZT14	epithelium_jejunum_LD_ZT14
+psiEZT14.LD4	psiE	ZT14	LD	LDZT14	4	589	jejunum	epithelium	ad libitum	4_LD_ZT14	LD_ZT14	epithelium_LD_ZT14	epithelium_jejunum_LD_ZT14
+psiEZT14.LD5	psiE	ZT14	LD	LDZT14	5	590	jejunum	epithelium	ad libitum	5_LD_ZT14	LD_ZT14	epithelium_LD_ZT14	epithelium_jejunum_LD_ZT14
+psiEZT14.RF1	psiE	ZT14	RF	RFZT14	1	591	jejunum	epithelium	restricted feeding (time unknown)	1_RF_ZT14	RF_ZT14	epithelium_RF_ZT14	epithelium_jejunum_RF_ZT14
+psiEZT14.RF2	psiE	ZT14	RF	RFZT14	2	592	jejunum	epithelium	restricted feeding (time unknown)	2_RF_ZT14	RF_ZT14	epithelium_RF_ZT14	epithelium_jejunum_RF_ZT14
+psiEZT14.RF3	psiE	ZT14	RF	RFZT14	3	593	jejunum	epithelium	restricted feeding (time unknown)	3_RF_ZT14	RF_ZT14	epithelium_RF_ZT14	epithelium_jejunum_RF_ZT14
+psiEZT14.RF4	psiE	ZT14	RF	RFZT14	4	594	jejunum	epithelium	restricted feeding (time unknown)	4_RF_ZT14	RF_ZT14	epithelium_RF_ZT14	epithelium_jejunum_RF_ZT14
+psiEZT14.RF5	psiE	ZT14	RF	RFZT14	5	595	jejunum	epithelium	restricted feeding (time unknown)	5_RF_ZT14	RF_ZT14	epithelium_RF_ZT14	epithelium_jejunum_RF_ZT14
+psiEZT14.DD1	psiE	ZT14	DD	DDZT14	1	596	jejunum	epithelium	ad libitum	1_DD_ZT14	DD_ZT14	epithelium_DD_ZT14	epithelium_jejunum_DD_ZT14
+psiEZT14.DD2	psiE	ZT14	DD	DDZT14	2	597	jejunum	epithelium	ad libitum	2_DD_ZT14	DD_ZT14	epithelium_DD_ZT14	epithelium_jejunum_DD_ZT14
+psiEZT14.DD3	psiE	ZT14	DD	DDZT14	3	598	jejunum	epithelium	ad libitum	3_DD_ZT14	DD_ZT14	epithelium_DD_ZT14	epithelium_jejunum_DD_ZT14
+psiEZT14.DD4	psiE	ZT14	DD	DDZT14	4	599	jejunum	epithelium	ad libitum	4_DD_ZT14	DD_ZT14	epithelium_DD_ZT14	epithelium_jejunum_DD_ZT14
+psiEZT14.DD5	psiE	ZT14	DD	DDZT14	5	600	jejunum	epithelium	ad libitum	5_DD_ZT14	DD_ZT14	epithelium_DD_ZT14	epithelium_jejunum_DD_ZT14
+psiEZT18.LD1	psiE	ZT18	LD	LDZT18	1	601	jejunum	epithelium	ad libitum	1_LD_ZT18	LD_ZT18	epithelium_LD_ZT18	epithelium_jejunum_LD_ZT18
+psiEZT18.LD2	psiE	ZT18	LD	LDZT18	2	602	jejunum	epithelium	ad libitum	2_LD_ZT18	LD_ZT18	epithelium_LD_ZT18	epithelium_jejunum_LD_ZT18
+psiEZT18.LD3	psiE	ZT18	LD	LDZT18	3	603	jejunum	epithelium	ad libitum	3_LD_ZT18	LD_ZT18	epithelium_LD_ZT18	epithelium_jejunum_LD_ZT18
+psiEZT18.LD4	psiE	ZT18	LD	LDZT18	4	604	jejunum	epithelium	ad libitum	4_LD_ZT18	LD_ZT18	epithelium_LD_ZT18	epithelium_jejunum_LD_ZT18
+psiEZT18.LD5	psiE	ZT18	LD	LDZT18	5	605	jejunum	epithelium	ad libitum	5_LD_ZT18	LD_ZT18	epithelium_LD_ZT18	epithelium_jejunum_LD_ZT18
+psiEZT18.RF1	psiE	ZT18	RF	RFZT18	1	606	jejunum	epithelium	restricted feeding (time unknown)	1_RF_ZT18	RF_ZT18	epithelium_RF_ZT18	epithelium_jejunum_RF_ZT18
+psiEZT18.RF2	psiE	ZT18	RF	RFZT18	2	607	jejunum	epithelium	restricted feeding (time unknown)	2_RF_ZT18	RF_ZT18	epithelium_RF_ZT18	epithelium_jejunum_RF_ZT18
+psiEZT18.RF3	psiE	ZT18	RF	RFZT18	3	608	jejunum	epithelium	restricted feeding (time unknown)	3_RF_ZT18	RF_ZT18	epithelium_RF_ZT18	epithelium_jejunum_RF_ZT18
+psiEZT18.RF4	psiE	ZT18	RF	RFZT18	4	609	jejunum	epithelium	restricted feeding (time unknown)	4_RF_ZT18	RF_ZT18	epithelium_RF_ZT18	epithelium_jejunum_RF_ZT18
+psiEZT18.RF5	psiE	ZT18	RF	RFZT18	5	610	jejunum	epithelium	restricted feeding (time unknown)	5_RF_ZT18	RF_ZT18	epithelium_RF_ZT18	epithelium_jejunum_RF_ZT18
+psiEZT18.DD1	psiE	ZT18	DD	DDZT18	1	611	jejunum	epithelium	ad libitum	1_DD_ZT18	DD_ZT18	epithelium_DD_ZT18	epithelium_jejunum_DD_ZT18
+psiEZT18.DD2	psiE	ZT18	DD	DDZT18	2	612	jejunum	epithelium	ad libitum	2_DD_ZT18	DD_ZT18	epithelium_DD_ZT18	epithelium_jejunum_DD_ZT18
+psiEZT18.DD3	psiE	ZT18	DD	DDZT18	3	613	jejunum	epithelium	ad libitum	3_DD_ZT18	DD_ZT18	epithelium_DD_ZT18	epithelium_jejunum_DD_ZT18
+psiEZT18.DD4	psiE	ZT18	DD	DDZT18	4	614	jejunum	epithelium	ad libitum	4_DD_ZT18	DD_ZT18	epithelium_DD_ZT18	epithelium_jejunum_DD_ZT18
+psiEZT18.DD5	psiE	ZT18	DD	DDZT18	5	615	jejunum	epithelium	ad libitum	5_DD_ZT18	DD_ZT18	epithelium_DD_ZT18	epithelium_jejunum_DD_ZT18
+psiEZT22.LD1	psiE	ZT22	LD	LDZT22	1	616	jejunum	epithelium	ad libitum	1_LD_ZT22	LD_ZT22	epithelium_LD_ZT22	epithelium_jejunum_LD_ZT22
+psiEZT22.LD2	psiE	ZT22	LD	LDZT22	2	617	jejunum	epithelium	ad libitum	2_LD_ZT22	LD_ZT22	epithelium_LD_ZT22	epithelium_jejunum_LD_ZT22
+psiEZT22.LD3	psiE	ZT22	LD	LDZT22	3	618	jejunum	epithelium	ad libitum	3_LD_ZT22	LD_ZT22	epithelium_LD_ZT22	epithelium_jejunum_LD_ZT22
+psiEZT22.LD4	psiE	ZT22	LD	LDZT22	4	619	jejunum	epithelium	ad libitum	4_LD_ZT22	LD_ZT22	epithelium_LD_ZT22	epithelium_jejunum_LD_ZT22
+psiEZT22.LD5	psiE	ZT22	LD	LDZT22	5	620	jejunum	epithelium	ad libitum	5_LD_ZT22	LD_ZT22	epithelium_LD_ZT22	epithelium_jejunum_LD_ZT22
+psiEZT22.RF1	psiE	ZT22	RF	RFZT22	1	621	jejunum	epithelium	restricted feeding (time unknown)	1_RF_ZT22	RF_ZT22	epithelium_RF_ZT22	epithelium_jejunum_RF_ZT22
+psiEZT22.RF2	psiE	ZT22	RF	RFZT22	2	622	jejunum	epithelium	restricted feeding (time unknown)	2_RF_ZT22	RF_ZT22	epithelium_RF_ZT22	epithelium_jejunum_RF_ZT22
+psiEZT22.RF3	psiE	ZT22	RF	RFZT22	3	623	jejunum	epithelium	restricted feeding (time unknown)	3_RF_ZT22	RF_ZT22	epithelium_RF_ZT22	epithelium_jejunum_RF_ZT22
+psiEZT22.RF4	psiE	ZT22	RF	RFZT22	4	624	jejunum	epithelium	restricted feeding (time unknown)	4_RF_ZT22	RF_ZT22	epithelium_RF_ZT22	epithelium_jejunum_RF_ZT22
+psiEZT22.RF5	psiE	ZT22	RF	RFZT22	5	625	jejunum	epithelium	restricted feeding (time unknown)	5_RF_ZT22	RF_ZT22	epithelium_RF_ZT22	epithelium_jejunum_RF_ZT22
+psiEZT22.DD1	psiE	ZT22	DD	DDZT22	1	626	jejunum	epithelium	ad libitum	1_DD_ZT22	DD_ZT22	epithelium_DD_ZT22	epithelium_jejunum_DD_ZT22
+psiEZT22.DD2	psiE	ZT22	DD	DDZT22	2	627	jejunum	epithelium	ad libitum	2_DD_ZT22	DD_ZT22	epithelium_DD_ZT22	epithelium_jejunum_DD_ZT22
+psiEZT22.DD3	psiE	ZT22	DD	DDZT22	3	628	jejunum	epithelium	ad libitum	3_DD_ZT22	DD_ZT22	epithelium_DD_ZT22	epithelium_jejunum_DD_ZT22
+psiEZT22.DD4	psiE	ZT22	DD	DDZT22	4	629	jejunum	epithelium	ad libitum	4_DD_ZT22	DD_ZT22	epithelium_DD_ZT22	epithelium_jejunum_DD_ZT22
+psiEZT22.DD5	psiE	ZT22	DD	DDZT22	5	630	jejunum	epithelium	ad libitum	5_DD_ZT22	DD_ZT22	epithelium_DD_ZT22	epithelium_jejunum_DD_ZT22
+colonLZT2.LD1	colonL	ZT2	LD	LDZT2	1	631	colon	lumen	ad libitum	1_LD_ZT2	LD_ZT2	lumen_LD_ZT2	lumen_colon_LD_ZT2
+colonLZT2.LD2	colonL	ZT2	LD	LDZT2	2	632	colon	lumen	ad libitum	2_LD_ZT2	LD_ZT2	lumen_LD_ZT2	lumen_colon_LD_ZT2
+colonLZT2.LD3	colonL	ZT2	LD	LDZT2	3	633	colon	lumen	ad libitum	3_LD_ZT2	LD_ZT2	lumen_LD_ZT2	lumen_colon_LD_ZT2
+colonLZT2.LD4	colonL	ZT2	LD	LDZT2	4	634	colon	lumen	ad libitum	4_LD_ZT2	LD_ZT2	lumen_LD_ZT2	lumen_colon_LD_ZT2
+colonLZT2.LD5	colonL	ZT2	LD	LDZT2	5	635	colon	lumen	ad libitum	5_LD_ZT2	LD_ZT2	lumen_LD_ZT2	lumen_colon_LD_ZT2
+colonLZT2.RF1	colonL	ZT2	RF	RFZT2	1	636	colon	lumen	restricted feeding (time unknown)	1_RF_ZT2	RF_ZT2	lumen_RF_ZT2	lumen_colon_RF_ZT2
+colonLZT2.RF2	colonL	ZT2	RF	RFZT2	2	637	colon	lumen	restricted feeding (time unknown)	2_RF_ZT2	RF_ZT2	lumen_RF_ZT2	lumen_colon_RF_ZT2
+colonLZT2.RF3	colonL	ZT2	RF	RFZT2	3	638	colon	lumen	restricted feeding (time unknown)	3_RF_ZT2	RF_ZT2	lumen_RF_ZT2	lumen_colon_RF_ZT2
+colonLZT2.RF4	colonL	ZT2	RF	RFZT2	4	639	colon	lumen	restricted feeding (time unknown)	4_RF_ZT2	RF_ZT2	lumen_RF_ZT2	lumen_colon_RF_ZT2
+colonLZT2.RF5	colonL	ZT2	RF	RFZT2	5	640	colon	lumen	restricted feeding (time unknown)	5_RF_ZT2	RF_ZT2	lumen_RF_ZT2	lumen_colon_RF_ZT2
+colonLZT2.DD1	colonL	ZT2	DD	DDZT2	1	641	colon	lumen	ad libitum	1_DD_ZT2	DD_ZT2	lumen_DD_ZT2	lumen_colon_DD_ZT2
+colonLZT2.DD2	colonL	ZT2	DD	DDZT2	2	642	colon	lumen	ad libitum	2_DD_ZT2	DD_ZT2	lumen_DD_ZT2	lumen_colon_DD_ZT2
+colonLZT2.DD3	colonL	ZT2	DD	DDZT2	3	643	colon	lumen	ad libitum	3_DD_ZT2	DD_ZT2	lumen_DD_ZT2	lumen_colon_DD_ZT2
+colonLZT2.DD4	colonL	ZT2	DD	DDZT2	4	644	colon	lumen	ad libitum	4_DD_ZT2	DD_ZT2	lumen_DD_ZT2	lumen_colon_DD_ZT2
+colonLZT2.DD5	colonL	ZT2	DD	DDZT2	5	645	colon	lumen	ad libitum	5_DD_ZT2	DD_ZT2	lumen_DD_ZT2	lumen_colon_DD_ZT2
+colonLZT6.LD1	colonL	ZT6	LD	LDZT6	1	646	colon	lumen	ad libitum	1_LD_ZT6	LD_ZT6	lumen_LD_ZT6	lumen_colon_LD_ZT6
+colonLZT6.LD2	colonL	ZT6	LD	LDZT6	2	647	colon	lumen	ad libitum	2_LD_ZT6	LD_ZT6	lumen_LD_ZT6	lumen_colon_LD_ZT6
+colonLZT6.LD3	colonL	ZT6	LD	LDZT6	3	648	colon	lumen	ad libitum	3_LD_ZT6	LD_ZT6	lumen_LD_ZT6	lumen_colon_LD_ZT6
+colonLZT6.LD4	colonL	ZT6	LD	LDZT6	4	649	colon	lumen	ad libitum	4_LD_ZT6	LD_ZT6	lumen_LD_ZT6	lumen_colon_LD_ZT6
+colonLZT6.LD5	colonL	ZT6	LD	LDZT6	5	650	colon	lumen	ad libitum	5_LD_ZT6	LD_ZT6	lumen_LD_ZT6	lumen_colon_LD_ZT6
+colonLZT6.RF1	colonL	ZT6	RF	RFZT6	1	651	colon	lumen	restricted feeding (time unknown)	1_RF_ZT6	RF_ZT6	lumen_RF_ZT6	lumen_colon_RF_ZT6
+colonLZT6.RF2	colonL	ZT6	RF	RFZT6	2	652	colon	lumen	restricted feeding (time unknown)	2_RF_ZT6	RF_ZT6	lumen_RF_ZT6	lumen_colon_RF_ZT6
+colonLZT6.RF3	colonL	ZT6	RF	RFZT6	3	653	colon	lumen	restricted feeding (time unknown)	3_RF_ZT6	RF_ZT6	lumen_RF_ZT6	lumen_colon_RF_ZT6
+colonLZT6.RF4	colonL	ZT6	RF	RFZT6	4	654	colon	lumen	restricted feeding (time unknown)	4_RF_ZT6	RF_ZT6	lumen_RF_ZT6	lumen_colon_RF_ZT6
+colonLZT6.RF5	colonL	ZT6	RF	RFZT6	5	655	colon	lumen	restricted feeding (time unknown)	5_RF_ZT6	RF_ZT6	lumen_RF_ZT6	lumen_colon_RF_ZT6
+colonLZT6.DD1	colonL	ZT6	DD	DDZT6	1	656	colon	lumen	ad libitum	1_DD_ZT6	DD_ZT6	lumen_DD_ZT6	lumen_colon_DD_ZT6
+colonLZT6.DD2	colonL	ZT6	DD	DDZT6	2	657	colon	lumen	ad libitum	2_DD_ZT6	DD_ZT6	lumen_DD_ZT6	lumen_colon_DD_ZT6
+colonLZT6.DD3	colonL	ZT6	DD	DDZT6	3	658	colon	lumen	ad libitum	3_DD_ZT6	DD_ZT6	lumen_DD_ZT6	lumen_colon_DD_ZT6
+colonLZT6.DD4	colonL	ZT6	DD	DDZT6	4	659	colon	lumen	ad libitum	4_DD_ZT6	DD_ZT6	lumen_DD_ZT6	lumen_colon_DD_ZT6
+colonLZT6.DD5	colonL	ZT6	DD	DDZT6	5	660	colon	lumen	ad libitum	5_DD_ZT6	DD_ZT6	lumen_DD_ZT6	lumen_colon_DD_ZT6
+colonLZT10.LD1	colonL	ZT10	LD	LDZT10	1	661	colon	lumen	ad libitum	1_LD_ZT10	LD_ZT10	lumen_LD_ZT10	lumen_colon_LD_ZT10
+colonLZT10.LD2	colonL	ZT10	LD	LDZT10	2	662	colon	lumen	ad libitum	2_LD_ZT10	LD_ZT10	lumen_LD_ZT10	lumen_colon_LD_ZT10
+colonLZT10.LD3	colonL	ZT10	LD	LDZT10	3	663	colon	lumen	ad libitum	3_LD_ZT10	LD_ZT10	lumen_LD_ZT10	lumen_colon_LD_ZT10
+colonLZT10.LD4	colonL	ZT10	LD	LDZT10	4	664	colon	lumen	ad libitum	4_LD_ZT10	LD_ZT10	lumen_LD_ZT10	lumen_colon_LD_ZT10
+colonLZT10.LD5	colonL	ZT10	LD	LDZT10	5	665	colon	lumen	ad libitum	5_LD_ZT10	LD_ZT10	lumen_LD_ZT10	lumen_colon_LD_ZT10
+colonLZT10.RF1	colonL	ZT10	RF	RFZT10	1	666	colon	lumen	restricted feeding (time unknown)	1_RF_ZT10	RF_ZT10	lumen_RF_ZT10	lumen_colon_RF_ZT10
+colonLZT10.RF2	colonL	ZT10	RF	RFZT10	2	667	colon	lumen	restricted feeding (time unknown)	2_RF_ZT10	RF_ZT10	lumen_RF_ZT10	lumen_colon_RF_ZT10
+colonLZT10.RF3	colonL	ZT10	RF	RFZT10	3	668	colon	lumen	restricted feeding (time unknown)	3_RF_ZT10	RF_ZT10	lumen_RF_ZT10	lumen_colon_RF_ZT10
+colonLZT10.RF4	colonL	ZT10	RF	RFZT10	4	669	colon	lumen	restricted feeding (time unknown)	4_RF_ZT10	RF_ZT10	lumen_RF_ZT10	lumen_colon_RF_ZT10
+colonLZT10.RF5	colonL	ZT10	RF	RFZT10	5	670	colon	lumen	restricted feeding (time unknown)	5_RF_ZT10	RF_ZT10	lumen_RF_ZT10	lumen_colon_RF_ZT10
+colonLZT10.DD1	colonL	ZT10	DD	DDZT10	1	671	colon	lumen	ad libitum	1_DD_ZT10	DD_ZT10	lumen_DD_ZT10	lumen_colon_DD_ZT10
+colonLZT10.DD2	colonL	ZT10	DD	DDZT10	2	672	colon	lumen	ad libitum	2_DD_ZT10	DD_ZT10	lumen_DD_ZT10	lumen_colon_DD_ZT10
+colonLZT10.DD3	colonL	ZT10	DD	DDZT10	3	673	colon	lumen	ad libitum	3_DD_ZT10	DD_ZT10	lumen_DD_ZT10	lumen_colon_DD_ZT10
+colonLZT10.DD4	colonL	ZT10	DD	DDZT10	4	674	colon	lumen	ad libitum	4_DD_ZT10	DD_ZT10	lumen_DD_ZT10	lumen_colon_DD_ZT10
+colonLZT10.DD5	colonL	ZT10	DD	DDZT10	5	675	colon	lumen	ad libitum	5_DD_ZT10	DD_ZT10	lumen_DD_ZT10	lumen_colon_DD_ZT10
+colonLZT14.LD1	colonL	ZT14	LD	LDZT14	1	676	colon	lumen	ad libitum	1_LD_ZT14	LD_ZT14	lumen_LD_ZT14	lumen_colon_LD_ZT14
+colonLZT14.LD2	colonL	ZT14	LD	LDZT14	2	677	colon	lumen	ad libitum	2_LD_ZT14	LD_ZT14	lumen_LD_ZT14	lumen_colon_LD_ZT14
+colonLZT14.LD3	colonL	ZT14	LD	LDZT14	3	678	colon	lumen	ad libitum	3_LD_ZT14	LD_ZT14	lumen_LD_ZT14	lumen_colon_LD_ZT14
+colonLZT14.LD4	colonL	ZT14	LD	LDZT14	4	679	colon	lumen	ad libitum	4_LD_ZT14	LD_ZT14	lumen_LD_ZT14	lumen_colon_LD_ZT14
+colonLZT14.LD5	colonL	ZT14	LD	LDZT14	5	680	colon	lumen	ad libitum	5_LD_ZT14	LD_ZT14	lumen_LD_ZT14	lumen_colon_LD_ZT14
+colonLZT14.RF1	colonL	ZT14	RF	RFZT14	1	681	colon	lumen	restricted feeding (time unknown)	1_RF_ZT14	RF_ZT14	lumen_RF_ZT14	lumen_colon_RF_ZT14
+colonLZT14.RF2	colonL	ZT14	RF	RFZT14	2	682	colon	lumen	restricted feeding (time unknown)	2_RF_ZT14	RF_ZT14	lumen_RF_ZT14	lumen_colon_RF_ZT14
+colonLZT14.RF3	colonL	ZT14	RF	RFZT14	3	683	colon	lumen	restricted feeding (time unknown)	3_RF_ZT14	RF_ZT14	lumen_RF_ZT14	lumen_colon_RF_ZT14
+colonLZT14.RF4	colonL	ZT14	RF	RFZT14	4	684	colon	lumen	restricted feeding (time unknown)	4_RF_ZT14	RF_ZT14	lumen_RF_ZT14	lumen_colon_RF_ZT14
+colonLZT14.RF5	colonL	ZT14	RF	RFZT14	5	685	colon	lumen	restricted feeding (time unknown)	5_RF_ZT14	RF_ZT14	lumen_RF_ZT14	lumen_colon_RF_ZT14
+colonLZT14.DD1	colonL	ZT14	DD	DDZT14	1	686	colon	lumen	ad libitum	1_DD_ZT14	DD_ZT14	lumen_DD_ZT14	lumen_colon_DD_ZT14
+colonLZT14.DD2	colonL	ZT14	DD	DDZT14	2	687	colon	lumen	ad libitum	2_DD_ZT14	DD_ZT14	lumen_DD_ZT14	lumen_colon_DD_ZT14
+colonLZT14.DD3	colonL	ZT14	DD	DDZT14	3	688	colon	lumen	ad libitum	3_DD_ZT14	DD_ZT14	lumen_DD_ZT14	lumen_colon_DD_ZT14
+colonLZT14.DD4	colonL	ZT14	DD	DDZT14	4	689	colon	lumen	ad libitum	4_DD_ZT14	DD_ZT14	lumen_DD_ZT14	lumen_colon_DD_ZT14
+colonLZT14.DD5	colonL	ZT14	DD	DDZT14	5	690	colon	lumen	ad libitum	5_DD_ZT14	DD_ZT14	lumen_DD_ZT14	lumen_colon_DD_ZT14
+colonLZT18.LD1	colonL	ZT18	LD	LDZT18	1	691	colon	lumen	ad libitum	1_LD_ZT18	LD_ZT18	lumen_LD_ZT18	lumen_colon_LD_ZT18
+colonLZT18.LD2	colonL	ZT18	LD	LDZT18	2	692	colon	lumen	ad libitum	2_LD_ZT18	LD_ZT18	lumen_LD_ZT18	lumen_colon_LD_ZT18
+colonLZT18.LD3	colonL	ZT18	LD	LDZT18	3	693	colon	lumen	ad libitum	3_LD_ZT18	LD_ZT18	lumen_LD_ZT18	lumen_colon_LD_ZT18
+colonLZT18.LD4	colonL	ZT18	LD	LDZT18	4	694	colon	lumen	ad libitum	4_LD_ZT18	LD_ZT18	lumen_LD_ZT18	lumen_colon_LD_ZT18
+colonLZT18.LD5	colonL	ZT18	LD	LDZT18	5	695	colon	lumen	ad libitum	5_LD_ZT18	LD_ZT18	lumen_LD_ZT18	lumen_colon_LD_ZT18
+colonLZT18.RF1	colonL	ZT18	RF	RFZT18	1	696	colon	lumen	restricted feeding (time unknown)	1_RF_ZT18	RF_ZT18	lumen_RF_ZT18	lumen_colon_RF_ZT18
+colonLZT18.RF2	colonL	ZT18	RF	RFZT18	2	697	colon	lumen	restricted feeding (time unknown)	2_RF_ZT18	RF_ZT18	lumen_RF_ZT18	lumen_colon_RF_ZT18
+colonLZT18.RF3	colonL	ZT18	RF	RFZT18	3	698	colon	lumen	restricted feeding (time unknown)	3_RF_ZT18	RF_ZT18	lumen_RF_ZT18	lumen_colon_RF_ZT18
+colonLZT18.RF4	colonL	ZT18	RF	RFZT18	4	699	colon	lumen	restricted feeding (time unknown)	4_RF_ZT18	RF_ZT18	lumen_RF_ZT18	lumen_colon_RF_ZT18
+colonLZT18.RF5	colonL	ZT18	RF	RFZT18	5	700	colon	lumen	restricted feeding (time unknown)	5_RF_ZT18	RF_ZT18	lumen_RF_ZT18	lumen_colon_RF_ZT18
+colonLZT18.DD1	colonL	ZT18	DD	DDZT18	1	701	colon	lumen	ad libitum	1_DD_ZT18	DD_ZT18	lumen_DD_ZT18	lumen_colon_DD_ZT18
+colonLZT18.DD2	colonL	ZT18	DD	DDZT18	2	702	colon	lumen	ad libitum	2_DD_ZT18	DD_ZT18	lumen_DD_ZT18	lumen_colon_DD_ZT18
+colonLZT18.DD3	colonL	ZT18	DD	DDZT18	3	703	colon	lumen	ad libitum	3_DD_ZT18	DD_ZT18	lumen_DD_ZT18	lumen_colon_DD_ZT18
+colonLZT18.DD4	colonL	ZT18	DD	DDZT18	4	704	colon	lumen	ad libitum	4_DD_ZT18	DD_ZT18	lumen_DD_ZT18	lumen_colon_DD_ZT18
+colonLZT18.DD5	colonL	ZT18	DD	DDZT18	5	705	colon	lumen	ad libitum	5_DD_ZT18	DD_ZT18	lumen_DD_ZT18	lumen_colon_DD_ZT18
+colonLZT22.LD1	colonL	ZT22	LD	LDZT22	1	706	colon	lumen	ad libitum	1_LD_ZT22	LD_ZT22	lumen_LD_ZT22	lumen_colon_LD_ZT22
+colonLZT22.LD2	colonL	ZT22	LD	LDZT22	2	707	colon	lumen	ad libitum	2_LD_ZT22	LD_ZT22	lumen_LD_ZT22	lumen_colon_LD_ZT22
+colonLZT22.LD3	colonL	ZT22	LD	LDZT22	3	708	colon	lumen	ad libitum	3_LD_ZT22	LD_ZT22	lumen_LD_ZT22	lumen_colon_LD_ZT22
+colonLZT22.LD4	colonL	ZT22	LD	LDZT22	4	709	colon	lumen	ad libitum	4_LD_ZT22	LD_ZT22	lumen_LD_ZT22	lumen_colon_LD_ZT22
+colonLZT22.LD5	colonL	ZT22	LD	LDZT22	5	710	colon	lumen	ad libitum	5_LD_ZT22	LD_ZT22	lumen_LD_ZT22	lumen_colon_LD_ZT22
+colonLZT22.RF1	colonL	ZT22	RF	RFZT22	1	711	colon	lumen	restricted feeding (time unknown)	1_RF_ZT22	RF_ZT22	lumen_RF_ZT22	lumen_colon_RF_ZT22
+colonLZT22.RF2	colonL	ZT22	RF	RFZT22	2	712	colon	lumen	restricted feeding (time unknown)	2_RF_ZT22	RF_ZT22	lumen_RF_ZT22	lumen_colon_RF_ZT22
+colonLZT22.RF3	colonL	ZT22	RF	RFZT22	3	713	colon	lumen	restricted feeding (time unknown)	3_RF_ZT22	RF_ZT22	lumen_RF_ZT22	lumen_colon_RF_ZT22
+colonLZT22.RF4	colonL	ZT22	RF	RFZT22	4	714	colon	lumen	restricted feeding (time unknown)	4_RF_ZT22	RF_ZT22	lumen_RF_ZT22	lumen_colon_RF_ZT22
+colonLZT22.RF5	colonL	ZT22	RF	RFZT22	5	715	colon	lumen	restricted feeding (time unknown)	5_RF_ZT22	RF_ZT22	lumen_RF_ZT22	lumen_colon_RF_ZT22
+colonLZT22.DD1	colonL	ZT22	DD	DDZT22	1	716	colon	lumen	ad libitum	1_DD_ZT22	DD_ZT22	lumen_DD_ZT22	lumen_colon_DD_ZT22
+colonLZT22.DD2	colonL	ZT22	DD	DDZT22	2	717	colon	lumen	ad libitum	2_DD_ZT22	DD_ZT22	lumen_DD_ZT22	lumen_colon_DD_ZT22
+colonLZT22.DD3	colonL	ZT22	DD	DDZT22	3	718	colon	lumen	ad libitum	3_DD_ZT22	DD_ZT22	lumen_DD_ZT22	lumen_colon_DD_ZT22
+colonLZT22.DD4	colonL	ZT22	DD	DDZT22	4	719	colon	lumen	ad libitum	4_DD_ZT22	DD_ZT22	lumen_DD_ZT22	lumen_colon_DD_ZT22
+colonLZT22.DD5	colonL	ZT22	DD	DDZT22	5	720	colon	lumen	ad libitum	5_DD_ZT22	DD_ZT22	lumen_DD_ZT22	lumen_colon_DD_ZT22
+colonMZT2.LD1	colonM	ZT2	LD	LDZT2	1	721	colon	mucosal	ad libitum	1_LD_ZT2	LD_ZT2	mucosal_LD_ZT2	mucosal_colon_LD_ZT2
+colonMZT2.LD2	colonM	ZT2	LD	LDZT2	2	722	colon	mucosal	ad libitum	2_LD_ZT2	LD_ZT2	mucosal_LD_ZT2	mucosal_colon_LD_ZT2
+colonMZT2.LD3	colonM	ZT2	LD	LDZT2	3	723	colon	mucosal	ad libitum	3_LD_ZT2	LD_ZT2	mucosal_LD_ZT2	mucosal_colon_LD_ZT2
+colonMZT2.LD4	colonM	ZT2	LD	LDZT2	4	724	colon	mucosal	ad libitum	4_LD_ZT2	LD_ZT2	mucosal_LD_ZT2	mucosal_colon_LD_ZT2
+colonMZT2.LD5	colonM	ZT2	LD	LDZT2	5	725	colon	mucosal	ad libitum	5_LD_ZT2	LD_ZT2	mucosal_LD_ZT2	mucosal_colon_LD_ZT2
+colonMZT2.RF1	colonM	ZT2	RF	RFZT2	1	726	colon	mucosal	restricted feeding (time unknown)	1_RF_ZT2	RF_ZT2	mucosal_RF_ZT2	mucosal_colon_RF_ZT2
+colonMZT2.RF2	colonM	ZT2	RF	RFZT2	2	727	colon	mucosal	restricted feeding (time unknown)	2_RF_ZT2	RF_ZT2	mucosal_RF_ZT2	mucosal_colon_RF_ZT2
+colonMZT2.RF3	colonM	ZT2	RF	RFZT2	3	728	colon	mucosal	restricted feeding (time unknown)	3_RF_ZT2	RF_ZT2	mucosal_RF_ZT2	mucosal_colon_RF_ZT2
+colonMZT2.RF4	colonM	ZT2	RF	RFZT2	4	729	colon	mucosal	restricted feeding (time unknown)	4_RF_ZT2	RF_ZT2	mucosal_RF_ZT2	mucosal_colon_RF_ZT2
+colonMZT2.DD1	colonM	ZT2	DD	DDZT2	1	731	colon	mucosal	ad libitum	1_DD_ZT2	DD_ZT2	mucosal_DD_ZT2	mucosal_colon_DD_ZT2
+colonMZT2.DD2	colonM	ZT2	DD	DDZT2	2	732	colon	mucosal	ad libitum	2_DD_ZT2	DD_ZT2	mucosal_DD_ZT2	mucosal_colon_DD_ZT2
+colonMZT2.DD3	colonM	ZT2	DD	DDZT2	3	733	colon	mucosal	ad libitum	3_DD_ZT2	DD_ZT2	mucosal_DD_ZT2	mucosal_colon_DD_ZT2
+colonMZT2.DD4	colonM	ZT2	DD	DDZT2	4	734	colon	mucosal	ad libitum	4_DD_ZT2	DD_ZT2	mucosal_DD_ZT2	mucosal_colon_DD_ZT2
+colonMZT2.DD5	colonM	ZT2	DD	DDZT2	5	735	colon	mucosal	ad libitum	5_DD_ZT2	DD_ZT2	mucosal_DD_ZT2	mucosal_colon_DD_ZT2
+colonMZT6.LD1	colonM	ZT6	LD	LDZT6	1	736	colon	mucosal	ad libitum	1_LD_ZT6	LD_ZT6	mucosal_LD_ZT6	mucosal_colon_LD_ZT6
+colonMZT6.LD2	colonM	ZT6	LD	LDZT6	2	737	colon	mucosal	ad libitum	2_LD_ZT6	LD_ZT6	mucosal_LD_ZT6	mucosal_colon_LD_ZT6
+colonMZT6.LD3	colonM	ZT6	LD	LDZT6	3	738	colon	mucosal	ad libitum	3_LD_ZT6	LD_ZT6	mucosal_LD_ZT6	mucosal_colon_LD_ZT6
+colonMZT6.LD4	colonM	ZT6	LD	LDZT6	4	739	colon	mucosal	ad libitum	4_LD_ZT6	LD_ZT6	mucosal_LD_ZT6	mucosal_colon_LD_ZT6
+colonMZT6.LD5	colonM	ZT6	LD	LDZT6	5	740	colon	mucosal	ad libitum	5_LD_ZT6	LD_ZT6	mucosal_LD_ZT6	mucosal_colon_LD_ZT6
+colonMZT6.RF1	colonM	ZT6	RF	RFZT6	1	741	colon	mucosal	restricted feeding (time unknown)	1_RF_ZT6	RF_ZT6	mucosal_RF_ZT6	mucosal_colon_RF_ZT6
+colonMZT6.RF2	colonM	ZT6	RF	RFZT6	2	742	colon	mucosal	restricted feeding (time unknown)	2_RF_ZT6	RF_ZT6	mucosal_RF_ZT6	mucosal_colon_RF_ZT6
+colonMZT6.RF3	colonM	ZT6	RF	RFZT6	3	743	colon	mucosal	restricted feeding (time unknown)	3_RF_ZT6	RF_ZT6	mucosal_RF_ZT6	mucosal_colon_RF_ZT6
+colonMZT6.RF5	colonM	ZT6	RF	RFZT6	5	745	colon	mucosal	restricted feeding (time unknown)	5_RF_ZT6	RF_ZT6	mucosal_RF_ZT6	mucosal_colon_RF_ZT6
+colonMZT6.DD1	colonM	ZT6	DD	DDZT6	1	746	colon	mucosal	ad libitum	1_DD_ZT6	DD_ZT6	mucosal_DD_ZT6	mucosal_colon_DD_ZT6
+colonMZT6.DD2	colonM	ZT6	DD	DDZT6	2	747	colon	mucosal	ad libitum	2_DD_ZT6	DD_ZT6	mucosal_DD_ZT6	mucosal_colon_DD_ZT6
+colonMZT6.DD3	colonM	ZT6	DD	DDZT6	3	748	colon	mucosal	ad libitum	3_DD_ZT6	DD_ZT6	mucosal_DD_ZT6	mucosal_colon_DD_ZT6
+colonMZT6.DD4	colonM	ZT6	DD	DDZT6	4	749	colon	mucosal	ad libitum	4_DD_ZT6	DD_ZT6	mucosal_DD_ZT6	mucosal_colon_DD_ZT6
+colonMZT6.DD5	colonM	ZT6	DD	DDZT6	5	750	colon	mucosal	ad libitum	5_DD_ZT6	DD_ZT6	mucosal_DD_ZT6	mucosal_colon_DD_ZT6
+colonMZT10.LD1	colonM	ZT10	LD	LDZT10	1	751	colon	mucosal	ad libitum	1_LD_ZT10	LD_ZT10	mucosal_LD_ZT10	mucosal_colon_LD_ZT10
+colonMZT10.LD3	colonM	ZT10	LD	LDZT10	3	753	colon	mucosal	ad libitum	3_LD_ZT10	LD_ZT10	mucosal_LD_ZT10	mucosal_colon_LD_ZT10
+colonMZT10.LD4	colonM	ZT10	LD	LDZT10	4	754	colon	mucosal	ad libitum	4_LD_ZT10	LD_ZT10	mucosal_LD_ZT10	mucosal_colon_LD_ZT10
+colonMZT10.LD5	colonM	ZT10	LD	LDZT10	5	755	colon	mucosal	ad libitum	5_LD_ZT10	LD_ZT10	mucosal_LD_ZT10	mucosal_colon_LD_ZT10
+colonMZT10.RF1	colonM	ZT10	RF	RFZT10	1	756	colon	mucosal	restricted feeding (time unknown)	1_RF_ZT10	RF_ZT10	mucosal_RF_ZT10	mucosal_colon_RF_ZT10
+colonMZT10.RF2	colonM	ZT10	RF	RFZT10	2	757	colon	mucosal	restricted feeding (time unknown)	2_RF_ZT10	RF_ZT10	mucosal_RF_ZT10	mucosal_colon_RF_ZT10
+colonMZT10.RF3	colonM	ZT10	RF	RFZT10	3	758	colon	mucosal	restricted feeding (time unknown)	3_RF_ZT10	RF_ZT10	mucosal_RF_ZT10	mucosal_colon_RF_ZT10
+colonMZT10.RF4	colonM	ZT10	RF	RFZT10	4	759	colon	mucosal	restricted feeding (time unknown)	4_RF_ZT10	RF_ZT10	mucosal_RF_ZT10	mucosal_colon_RF_ZT10
+colonMZT10.RF5	colonM	ZT10	RF	RFZT10	5	760	colon	mucosal	restricted feeding (time unknown)	5_RF_ZT10	RF_ZT10	mucosal_RF_ZT10	mucosal_colon_RF_ZT10
+colonMZT10.DD1	colonM	ZT10	DD	DDZT10	1	761	colon	mucosal	ad libitum	1_DD_ZT10	DD_ZT10	mucosal_DD_ZT10	mucosal_colon_DD_ZT10
+colonMZT10.DD2	colonM	ZT10	DD	DDZT10	2	762	colon	mucosal	ad libitum	2_DD_ZT10	DD_ZT10	mucosal_DD_ZT10	mucosal_colon_DD_ZT10
+colonMZT10.DD3	colonM	ZT10	DD	DDZT10	3	763	colon	mucosal	ad libitum	3_DD_ZT10	DD_ZT10	mucosal_DD_ZT10	mucosal_colon_DD_ZT10
+colonMZT10.DD4	colonM	ZT10	DD	DDZT10	4	764	colon	mucosal	ad libitum	4_DD_ZT10	DD_ZT10	mucosal_DD_ZT10	mucosal_colon_DD_ZT10
+colonMZT10.DD5	colonM	ZT10	DD	DDZT10	5	765	colon	mucosal	ad libitum	5_DD_ZT10	DD_ZT10	mucosal_DD_ZT10	mucosal_colon_DD_ZT10
+colonMZT14.LD1	colonM	ZT14	LD	LDZT14	1	766	colon	mucosal	ad libitum	1_LD_ZT14	LD_ZT14	mucosal_LD_ZT14	mucosal_colon_LD_ZT14
+colonMZT14.LD2	colonM	ZT14	LD	LDZT14	2	767	colon	mucosal	ad libitum	2_LD_ZT14	LD_ZT14	mucosal_LD_ZT14	mucosal_colon_LD_ZT14
+colonMZT14.LD3	colonM	ZT14	LD	LDZT14	3	768	colon	mucosal	ad libitum	3_LD_ZT14	LD_ZT14	mucosal_LD_ZT14	mucosal_colon_LD_ZT14
+colonMZT14.LD4	colonM	ZT14	LD	LDZT14	4	769	colon	mucosal	ad libitum	4_LD_ZT14	LD_ZT14	mucosal_LD_ZT14	mucosal_colon_LD_ZT14
+colonMZT14.LD5	colonM	ZT14	LD	LDZT14	5	770	colon	mucosal	ad libitum	5_LD_ZT14	LD_ZT14	mucosal_LD_ZT14	mucosal_colon_LD_ZT14
+colonMZT14.RF1	colonM	ZT14	RF	RFZT14	1	771	colon	mucosal	restricted feeding (time unknown)	1_RF_ZT14	RF_ZT14	mucosal_RF_ZT14	mucosal_colon_RF_ZT14
+colonMZT14.RF2	colonM	ZT14	RF	RFZT14	2	772	colon	mucosal	restricted feeding (time unknown)	2_RF_ZT14	RF_ZT14	mucosal_RF_ZT14	mucosal_colon_RF_ZT14
+colonMZT14.RF3	colonM	ZT14	RF	RFZT14	3	773	colon	mucosal	restricted feeding (time unknown)	3_RF_ZT14	RF_ZT14	mucosal_RF_ZT14	mucosal_colon_RF_ZT14
+colonMZT14.RF4	colonM	ZT14	RF	RFZT14	4	774	colon	mucosal	restricted feeding (time unknown)	4_RF_ZT14	RF_ZT14	mucosal_RF_ZT14	mucosal_colon_RF_ZT14
+colonMZT14.RF5	colonM	ZT14	RF	RFZT14	5	775	colon	mucosal	restricted feeding (time unknown)	5_RF_ZT14	RF_ZT14	mucosal_RF_ZT14	mucosal_colon_RF_ZT14
+colonMZT14.DD1	colonM	ZT14	DD	DDZT14	1	776	colon	mucosal	ad libitum	1_DD_ZT14	DD_ZT14	mucosal_DD_ZT14	mucosal_colon_DD_ZT14
+colonMZT14.DD2	colonM	ZT14	DD	DDZT14	2	777	colon	mucosal	ad libitum	2_DD_ZT14	DD_ZT14	mucosal_DD_ZT14	mucosal_colon_DD_ZT14
+colonMZT14.DD3	colonM	ZT14	DD	DDZT14	3	778	colon	mucosal	ad libitum	3_DD_ZT14	DD_ZT14	mucosal_DD_ZT14	mucosal_colon_DD_ZT14
+colonMZT14.DD4	colonM	ZT14	DD	DDZT14	4	779	colon	mucosal	ad libitum	4_DD_ZT14	DD_ZT14	mucosal_DD_ZT14	mucosal_colon_DD_ZT14
+colonMZT14.DD5	colonM	ZT14	DD	DDZT14	5	780	colon	mucosal	ad libitum	5_DD_ZT14	DD_ZT14	mucosal_DD_ZT14	mucosal_colon_DD_ZT14
+colonMZT18.LD1	colonM	ZT18	LD	LDZT18	1	781	colon	mucosal	ad libitum	1_LD_ZT18	LD_ZT18	mucosal_LD_ZT18	mucosal_colon_LD_ZT18
+colonMZT18.LD2	colonM	ZT18	LD	LDZT18	2	782	colon	mucosal	ad libitum	2_LD_ZT18	LD_ZT18	mucosal_LD_ZT18	mucosal_colon_LD_ZT18
+colonMZT18.LD3	colonM	ZT18	LD	LDZT18	3	783	colon	mucosal	ad libitum	3_LD_ZT18	LD_ZT18	mucosal_LD_ZT18	mucosal_colon_LD_ZT18
+colonMZT18.LD4	colonM	ZT18	LD	LDZT18	4	784	colon	mucosal	ad libitum	4_LD_ZT18	LD_ZT18	mucosal_LD_ZT18	mucosal_colon_LD_ZT18
+colonMZT18.LD5	colonM	ZT18	LD	LDZT18	5	785	colon	mucosal	ad libitum	5_LD_ZT18	LD_ZT18	mucosal_LD_ZT18	mucosal_colon_LD_ZT18
+colonMZT18.RF1	colonM	ZT18	RF	RFZT18	1	786	colon	mucosal	restricted feeding (time unknown)	1_RF_ZT18	RF_ZT18	mucosal_RF_ZT18	mucosal_colon_RF_ZT18
+colonMZT18.RF2	colonM	ZT18	RF	RFZT18	2	787	colon	mucosal	restricted feeding (time unknown)	2_RF_ZT18	RF_ZT18	mucosal_RF_ZT18	mucosal_colon_RF_ZT18
+colonMZT18.RF3	colonM	ZT18	RF	RFZT18	3	788	colon	mucosal	restricted feeding (time unknown)	3_RF_ZT18	RF_ZT18	mucosal_RF_ZT18	mucosal_colon_RF_ZT18
+colonMZT18.RF4	colonM	ZT18	RF	RFZT18	4	789	colon	mucosal	restricted feeding (time unknown)	4_RF_ZT18	RF_ZT18	mucosal_RF_ZT18	mucosal_colon_RF_ZT18
+colonMZT18.RF5	colonM	ZT18	RF	RFZT18	5	790	colon	mucosal	restricted feeding (time unknown)	5_RF_ZT18	RF_ZT18	mucosal_RF_ZT18	mucosal_colon_RF_ZT18
+colonMZT18.DD1	colonM	ZT18	DD	DDZT18	1	791	colon	mucosal	ad libitum	1_DD_ZT18	DD_ZT18	mucosal_DD_ZT18	mucosal_colon_DD_ZT18
+colonMZT18.DD2	colonM	ZT18	DD	DDZT18	2	792	colon	mucosal	ad libitum	2_DD_ZT18	DD_ZT18	mucosal_DD_ZT18	mucosal_colon_DD_ZT18
+colonMZT18.DD3	colonM	ZT18	DD	DDZT18	3	793	colon	mucosal	ad libitum	3_DD_ZT18	DD_ZT18	mucosal_DD_ZT18	mucosal_colon_DD_ZT18
+colonMZT18.DD4	colonM	ZT18	DD	DDZT18	4	794	colon	mucosal	ad libitum	4_DD_ZT18	DD_ZT18	mucosal_DD_ZT18	mucosal_colon_DD_ZT18
+colonMZT18.DD5	colonM	ZT18	DD	DDZT18	5	795	colon	mucosal	ad libitum	5_DD_ZT18	DD_ZT18	mucosal_DD_ZT18	mucosal_colon_DD_ZT18
+colonMZT22.LD1	colonM	ZT22	LD	LDZT22	1	796	colon	mucosal	ad libitum	1_LD_ZT22	LD_ZT22	mucosal_LD_ZT22	mucosal_colon_LD_ZT22
+colonMZT22.LD2	colonM	ZT22	LD	LDZT22	2	797	colon	mucosal	ad libitum	2_LD_ZT22	LD_ZT22	mucosal_LD_ZT22	mucosal_colon_LD_ZT22
+colonMZT22.LD3	colonM	ZT22	LD	LDZT22	3	798	colon	mucosal	ad libitum	3_LD_ZT22	LD_ZT22	mucosal_LD_ZT22	mucosal_colon_LD_ZT22
+colonMZT22.LD4	colonM	ZT22	LD	LDZT22	4	799	colon	mucosal	ad libitum	4_LD_ZT22	LD_ZT22	mucosal_LD_ZT22	mucosal_colon_LD_ZT22
+colonMZT22.LD5	colonM	ZT22	LD	LDZT22	5	800	colon	mucosal	ad libitum	5_LD_ZT22	LD_ZT22	mucosal_LD_ZT22	mucosal_colon_LD_ZT22
+colonMZT22.RF1	colonM	ZT22	RF	RFZT22	1	801	colon	mucosal	restricted feeding (time unknown)	1_RF_ZT22	RF_ZT22	mucosal_RF_ZT22	mucosal_colon_RF_ZT22
+colonMZT22.RF2	colonM	ZT22	RF	RFZT22	2	802	colon	mucosal	restricted feeding (time unknown)	2_RF_ZT22	RF_ZT22	mucosal_RF_ZT22	mucosal_colon_RF_ZT22
+colonMZT22.RF3	colonM	ZT22	RF	RFZT22	3	803	colon	mucosal	restricted feeding (time unknown)	3_RF_ZT22	RF_ZT22	mucosal_RF_ZT22	mucosal_colon_RF_ZT22
+colonMZT22.RF4	colonM	ZT22	RF	RFZT22	4	804	colon	mucosal	restricted feeding (time unknown)	4_RF_ZT22	RF_ZT22	mucosal_RF_ZT22	mucosal_colon_RF_ZT22
+colonMZT22.RF5	colonM	ZT22	RF	RFZT22	5	805	colon	mucosal	restricted feeding (time unknown)	5_RF_ZT22	RF_ZT22	mucosal_RF_ZT22	mucosal_colon_RF_ZT22
+colonMZT22.DD1	colonM	ZT22	DD	DDZT22	1	806	colon	mucosal	ad libitum	1_DD_ZT22	DD_ZT22	mucosal_DD_ZT22	mucosal_colon_DD_ZT22
+colonMZT22.DD2	colonM	ZT22	DD	DDZT22	2	807	colon	mucosal	ad libitum	2_DD_ZT22	DD_ZT22	mucosal_DD_ZT22	mucosal_colon_DD_ZT22
+colonMZT22.DD3	colonM	ZT22	DD	DDZT22	3	808	colon	mucosal	ad libitum	3_DD_ZT22	DD_ZT22	mucosal_DD_ZT22	mucosal_colon_DD_ZT22
+colonMZT22.DD4	colonM	ZT22	DD	DDZT22	4	809	colon	mucosal	ad libitum	4_DD_ZT22	DD_ZT22	mucosal_DD_ZT22	mucosal_colon_DD_ZT22
+colonMZT22.DD5	colonM	ZT22	DD	DDZT22	5	810	colon	mucosal	ad libitum	5_DD_ZT22	DD_ZT22	mucosal_DD_ZT22	mucosal_colon_DD_ZT22
+colonEZT2.LD1	colonE	ZT2	LD	LDZT2	1	811	colon	epithelium	ad libitum	1_LD_ZT2	LD_ZT2	epithelium_LD_ZT2	epithelium_colon_LD_ZT2
+colonEZT2.LD2	colonE	ZT2	LD	LDZT2	2	812	colon	epithelium	ad libitum	2_LD_ZT2	LD_ZT2	epithelium_LD_ZT2	epithelium_colon_LD_ZT2
+colonEZT2.LD3	colonE	ZT2	LD	LDZT2	3	813	colon	epithelium	ad libitum	3_LD_ZT2	LD_ZT2	epithelium_LD_ZT2	epithelium_colon_LD_ZT2
+colonEZT2.LD4	colonE	ZT2	LD	LDZT2	4	814	colon	epithelium	ad libitum	4_LD_ZT2	LD_ZT2	epithelium_LD_ZT2	epithelium_colon_LD_ZT2
+colonEZT2.LD5	colonE	ZT2	LD	LDZT2	5	815	colon	epithelium	ad libitum	5_LD_ZT2	LD_ZT2	epithelium_LD_ZT2	epithelium_colon_LD_ZT2
+colonEZT2.RF1	colonE	ZT2	RF	RFZT2	1	816	colon	epithelium	restricted feeding (time unknown)	1_RF_ZT2	RF_ZT2	epithelium_RF_ZT2	epithelium_colon_RF_ZT2
+colonEZT2.RF2	colonE	ZT2	RF	RFZT2	2	817	colon	epithelium	restricted feeding (time unknown)	2_RF_ZT2	RF_ZT2	epithelium_RF_ZT2	epithelium_colon_RF_ZT2
+colonEZT2.RF3	colonE	ZT2	RF	RFZT2	3	818	colon	epithelium	restricted feeding (time unknown)	3_RF_ZT2	RF_ZT2	epithelium_RF_ZT2	epithelium_colon_RF_ZT2
+colonEZT2.RF4	colonE	ZT2	RF	RFZT2	4	819	colon	epithelium	restricted feeding (time unknown)	4_RF_ZT2	RF_ZT2	epithelium_RF_ZT2	epithelium_colon_RF_ZT2
+colonEZT2.RF5	colonE	ZT2	RF	RFZT2	5	820	colon	epithelium	restricted feeding (time unknown)	5_RF_ZT2	RF_ZT2	epithelium_RF_ZT2	epithelium_colon_RF_ZT2
+colonEZT2.DD1	colonE	ZT2	DD	DDZT2	1	821	colon	epithelium	ad libitum	1_DD_ZT2	DD_ZT2	epithelium_DD_ZT2	epithelium_colon_DD_ZT2
+colonEZT2.DD2	colonE	ZT2	DD	DDZT2	2	822	colon	epithelium	ad libitum	2_DD_ZT2	DD_ZT2	epithelium_DD_ZT2	epithelium_colon_DD_ZT2
+colonEZT2.DD3	colonE	ZT2	DD	DDZT2	3	823	colon	epithelium	ad libitum	3_DD_ZT2	DD_ZT2	epithelium_DD_ZT2	epithelium_colon_DD_ZT2
+colonEZT2.DD4	colonE	ZT2	DD	DDZT2	4	824	colon	epithelium	ad libitum	4_DD_ZT2	DD_ZT2	epithelium_DD_ZT2	epithelium_colon_DD_ZT2
+colonEZT2.DD5	colonE	ZT2	DD	DDZT2	5	825	colon	epithelium	ad libitum	5_DD_ZT2	DD_ZT2	epithelium_DD_ZT2	epithelium_colon_DD_ZT2
+colonEZT6.LD1	colonE	ZT6	LD	LDZT6	1	826	colon	epithelium	ad libitum	1_LD_ZT6	LD_ZT6	epithelium_LD_ZT6	epithelium_colon_LD_ZT6
+colonEZT6.LD2	colonE	ZT6	LD	LDZT6	2	827	colon	epithelium	ad libitum	2_LD_ZT6	LD_ZT6	epithelium_LD_ZT6	epithelium_colon_LD_ZT6
+colonEZT6.LD3	colonE	ZT6	LD	LDZT6	3	828	colon	epithelium	ad libitum	3_LD_ZT6	LD_ZT6	epithelium_LD_ZT6	epithelium_colon_LD_ZT6
+colonEZT6.LD4	colonE	ZT6	LD	LDZT6	4	829	colon	epithelium	ad libitum	4_LD_ZT6	LD_ZT6	epithelium_LD_ZT6	epithelium_colon_LD_ZT6
+colonEZT6.LD5	colonE	ZT6	LD	LDZT6	5	830	colon	epithelium	ad libitum	5_LD_ZT6	LD_ZT6	epithelium_LD_ZT6	epithelium_colon_LD_ZT6
+colonEZT6.RF1	colonE	ZT6	RF	RFZT6	1	831	colon	epithelium	restricted feeding (time unknown)	1_RF_ZT6	RF_ZT6	epithelium_RF_ZT6	epithelium_colon_RF_ZT6
+colonEZT6.RF2	colonE	ZT6	RF	RFZT6	2	832	colon	epithelium	restricted feeding (time unknown)	2_RF_ZT6	RF_ZT6	epithelium_RF_ZT6	epithelium_colon_RF_ZT6
+colonEZT6.RF3	colonE	ZT6	RF	RFZT6	3	833	colon	epithelium	restricted feeding (time unknown)	3_RF_ZT6	RF_ZT6	epithelium_RF_ZT6	epithelium_colon_RF_ZT6
+colonEZT6.RF4	colonE	ZT6	RF	RFZT6	4	834	colon	epithelium	restricted feeding (time unknown)	4_RF_ZT6	RF_ZT6	epithelium_RF_ZT6	epithelium_colon_RF_ZT6
+colonEZT6.RF5	colonE	ZT6	RF	RFZT6	5	835	colon	epithelium	restricted feeding (time unknown)	5_RF_ZT6	RF_ZT6	epithelium_RF_ZT6	epithelium_colon_RF_ZT6
+colonEZT6.DD1	colonE	ZT6	DD	DDZT6	1	836	colon	epithelium	ad libitum	1_DD_ZT6	DD_ZT6	epithelium_DD_ZT6	epithelium_colon_DD_ZT6
+colonEZT6.DD2	colonE	ZT6	DD	DDZT6	2	837	colon	epithelium	ad libitum	2_DD_ZT6	DD_ZT6	epithelium_DD_ZT6	epithelium_colon_DD_ZT6
+colonEZT6.DD3	colonE	ZT6	DD	DDZT6	3	838	colon	epithelium	ad libitum	3_DD_ZT6	DD_ZT6	epithelium_DD_ZT6	epithelium_colon_DD_ZT6
+colonEZT6.DD4	colonE	ZT6	DD	DDZT6	4	839	colon	epithelium	ad libitum	4_DD_ZT6	DD_ZT6	epithelium_DD_ZT6	epithelium_colon_DD_ZT6
+colonEZT6.DD5	colonE	ZT6	DD	DDZT6	5	840	colon	epithelium	ad libitum	5_DD_ZT6	DD_ZT6	epithelium_DD_ZT6	epithelium_colon_DD_ZT6
+colonEZT10.LD1	colonE	ZT10	LD	LDZT10	1	841	colon	epithelium	ad libitum	1_LD_ZT10	LD_ZT10	epithelium_LD_ZT10	epithelium_colon_LD_ZT10
+colonEZT10.LD2	colonE	ZT10	LD	LDZT10	2	842	colon	epithelium	ad libitum	2_LD_ZT10	LD_ZT10	epithelium_LD_ZT10	epithelium_colon_LD_ZT10
+colonEZT10.LD3	colonE	ZT10	LD	LDZT10	3	843	colon	epithelium	ad libitum	3_LD_ZT10	LD_ZT10	epithelium_LD_ZT10	epithelium_colon_LD_ZT10
+colonEZT10.LD4	colonE	ZT10	LD	LDZT10	4	844	colon	epithelium	ad libitum	4_LD_ZT10	LD_ZT10	epithelium_LD_ZT10	epithelium_colon_LD_ZT10
+colonEZT10.LD5	colonE	ZT10	LD	LDZT10	5	845	colon	epithelium	ad libitum	5_LD_ZT10	LD_ZT10	epithelium_LD_ZT10	epithelium_colon_LD_ZT10
+colonEZT10.RF1	colonE	ZT10	RF	RFZT10	1	846	colon	epithelium	restricted feeding (time unknown)	1_RF_ZT10	RF_ZT10	epithelium_RF_ZT10	epithelium_colon_RF_ZT10
+colonEZT10.RF2	colonE	ZT10	RF	RFZT10	2	847	colon	epithelium	restricted feeding (time unknown)	2_RF_ZT10	RF_ZT10	epithelium_RF_ZT10	epithelium_colon_RF_ZT10
+colonEZT10.RF3	colonE	ZT10	RF	RFZT10	3	848	colon	epithelium	restricted feeding (time unknown)	3_RF_ZT10	RF_ZT10	epithelium_RF_ZT10	epithelium_colon_RF_ZT10
+colonEZT10.RF5	colonE	ZT10	RF	RFZT10	5	850	colon	epithelium	restricted feeding (time unknown)	5_RF_ZT10	RF_ZT10	epithelium_RF_ZT10	epithelium_colon_RF_ZT10
+colonEZT10.DD1	colonE	ZT10	DD	DDZT10	1	851	colon	epithelium	ad libitum	1_DD_ZT10	DD_ZT10	epithelium_DD_ZT10	epithelium_colon_DD_ZT10
+colonEZT10.DD2	colonE	ZT10	DD	DDZT10	2	852	colon	epithelium	ad libitum	2_DD_ZT10	DD_ZT10	epithelium_DD_ZT10	epithelium_colon_DD_ZT10
+colonEZT10.DD3	colonE	ZT10	DD	DDZT10	3	853	colon	epithelium	ad libitum	3_DD_ZT10	DD_ZT10	epithelium_DD_ZT10	epithelium_colon_DD_ZT10
+colonEZT10.DD4	colonE	ZT10	DD	DDZT10	4	854	colon	epithelium	ad libitum	4_DD_ZT10	DD_ZT10	epithelium_DD_ZT10	epithelium_colon_DD_ZT10
+colonEZT10.DD5	colonE	ZT10	DD	DDZT10	5	855	colon	epithelium	ad libitum	5_DD_ZT10	DD_ZT10	epithelium_DD_ZT10	epithelium_colon_DD_ZT10
+colonEZT14.LD1	colonE	ZT14	LD	LDZT14	1	856	colon	epithelium	ad libitum	1_LD_ZT14	LD_ZT14	epithelium_LD_ZT14	epithelium_colon_LD_ZT14
+colonEZT14.LD2	colonE	ZT14	LD	LDZT14	2	857	colon	epithelium	ad libitum	2_LD_ZT14	LD_ZT14	epithelium_LD_ZT14	epithelium_colon_LD_ZT14
+colonEZT14.LD3	colonE	ZT14	LD	LDZT14	3	858	colon	epithelium	ad libitum	3_LD_ZT14	LD_ZT14	epithelium_LD_ZT14	epithelium_colon_LD_ZT14
+colonEZT14.LD4	colonE	ZT14	LD	LDZT14	4	859	colon	epithelium	ad libitum	4_LD_ZT14	LD_ZT14	epithelium_LD_ZT14	epithelium_colon_LD_ZT14
+colonEZT14.LD5	colonE	ZT14	LD	LDZT14	5	860	colon	epithelium	ad libitum	5_LD_ZT14	LD_ZT14	epithelium_LD_ZT14	epithelium_colon_LD_ZT14
+colonEZT14.RF1	colonE	ZT14	RF	RFZT14	1	861	colon	epithelium	restricted feeding (time unknown)	1_RF_ZT14	RF_ZT14	epithelium_RF_ZT14	epithelium_colon_RF_ZT14
+colonEZT14.RF2	colonE	ZT14	RF	RFZT14	2	862	colon	epithelium	restricted feeding (time unknown)	2_RF_ZT14	RF_ZT14	epithelium_RF_ZT14	epithelium_colon_RF_ZT14
+colonEZT14.RF3	colonE	ZT14	RF	RFZT14	3	863	colon	epithelium	restricted feeding (time unknown)	3_RF_ZT14	RF_ZT14	epithelium_RF_ZT14	epithelium_colon_RF_ZT14
+colonEZT14.RF4	colonE	ZT14	RF	RFZT14	4	864	colon	epithelium	restricted feeding (time unknown)	4_RF_ZT14	RF_ZT14	epithelium_RF_ZT14	epithelium_colon_RF_ZT14
+colonEZT14.RF5	colonE	ZT14	RF	RFZT14	5	865	colon	epithelium	restricted feeding (time unknown)	5_RF_ZT14	RF_ZT14	epithelium_RF_ZT14	epithelium_colon_RF_ZT14
+colonEZT14.DD1	colonE	ZT14	DD	DDZT14	1	866	colon	epithelium	ad libitum	1_DD_ZT14	DD_ZT14	epithelium_DD_ZT14	epithelium_colon_DD_ZT14
+colonEZT14.DD2	colonE	ZT14	DD	DDZT14	2	867	colon	epithelium	ad libitum	2_DD_ZT14	DD_ZT14	epithelium_DD_ZT14	epithelium_colon_DD_ZT14
+colonEZT14.DD3	colonE	ZT14	DD	DDZT14	3	868	colon	epithelium	ad libitum	3_DD_ZT14	DD_ZT14	epithelium_DD_ZT14	epithelium_colon_DD_ZT14
+colonEZT14.DD4	colonE	ZT14	DD	DDZT14	4	869	colon	epithelium	ad libitum	4_DD_ZT14	DD_ZT14	epithelium_DD_ZT14	epithelium_colon_DD_ZT14
+colonEZT14.DD5	colonE	ZT14	DD	DDZT14	5	870	colon	epithelium	ad libitum	5_DD_ZT14	DD_ZT14	epithelium_DD_ZT14	epithelium_colon_DD_ZT14
+colonEZT18.LD1	colonE	ZT18	LD	LDZT18	1	871	colon	epithelium	ad libitum	1_LD_ZT18	LD_ZT18	epithelium_LD_ZT18	epithelium_colon_LD_ZT18
+colonEZT18.LD2	colonE	ZT18	LD	LDZT18	2	872	colon	epithelium	ad libitum	2_LD_ZT18	LD_ZT18	epithelium_LD_ZT18	epithelium_colon_LD_ZT18
+colonEZT18.LD3	colonE	ZT18	LD	LDZT18	3	873	colon	epithelium	ad libitum	3_LD_ZT18	LD_ZT18	epithelium_LD_ZT18	epithelium_colon_LD_ZT18
+colonEZT18.LD4	colonE	ZT18	LD	LDZT18	4	874	colon	epithelium	ad libitum	4_LD_ZT18	LD_ZT18	epithelium_LD_ZT18	epithelium_colon_LD_ZT18
+colonEZT18.LD5	colonE	ZT18	LD	LDZT18	5	875	colon	epithelium	ad libitum	5_LD_ZT18	LD_ZT18	epithelium_LD_ZT18	epithelium_colon_LD_ZT18
+colonEZT18.RF1	colonE	ZT18	RF	RFZT18	1	876	colon	epithelium	restricted feeding (time unknown)	1_RF_ZT18	RF_ZT18	epithelium_RF_ZT18	epithelium_colon_RF_ZT18
+colonEZT18.RF2	colonE	ZT18	RF	RFZT18	2	877	colon	epithelium	restricted feeding (time unknown)	2_RF_ZT18	RF_ZT18	epithelium_RF_ZT18	epithelium_colon_RF_ZT18
+colonEZT18.RF3	colonE	ZT18	RF	RFZT18	3	878	colon	epithelium	restricted feeding (time unknown)	3_RF_ZT18	RF_ZT18	epithelium_RF_ZT18	epithelium_colon_RF_ZT18
+colonEZT18.RF4	colonE	ZT18	RF	RFZT18	4	879	colon	epithelium	restricted feeding (time unknown)	4_RF_ZT18	RF_ZT18	epithelium_RF_ZT18	epithelium_colon_RF_ZT18
+colonEZT18.RF5	colonE	ZT18	RF	RFZT18	5	880	colon	epithelium	restricted feeding (time unknown)	5_RF_ZT18	RF_ZT18	epithelium_RF_ZT18	epithelium_colon_RF_ZT18
+colonEZT18.DD1	colonE	ZT18	DD	DDZT18	1	881	colon	epithelium	ad libitum	1_DD_ZT18	DD_ZT18	epithelium_DD_ZT18	epithelium_colon_DD_ZT18
+colonEZT18.DD2	colonE	ZT18	DD	DDZT18	2	882	colon	epithelium	ad libitum	2_DD_ZT18	DD_ZT18	epithelium_DD_ZT18	epithelium_colon_DD_ZT18
+colonEZT18.DD3	colonE	ZT18	DD	DDZT18	3	883	colon	epithelium	ad libitum	3_DD_ZT18	DD_ZT18	epithelium_DD_ZT18	epithelium_colon_DD_ZT18
+colonEZT18.DD4	colonE	ZT18	DD	DDZT18	4	884	colon	epithelium	ad libitum	4_DD_ZT18	DD_ZT18	epithelium_DD_ZT18	epithelium_colon_DD_ZT18
+colonEZT18.DD5	colonE	ZT18	DD	DDZT18	5	885	colon	epithelium	ad libitum	5_DD_ZT18	DD_ZT18	epithelium_DD_ZT18	epithelium_colon_DD_ZT18
+colonEZT22.LD1	colonE	ZT22	LD	LDZT22	1	886	colon	epithelium	ad libitum	1_LD_ZT22	LD_ZT22	epithelium_LD_ZT22	epithelium_colon_LD_ZT22
+colonEZT22.LD2	colonE	ZT22	LD	LDZT22	2	887	colon	epithelium	ad libitum	2_LD_ZT22	LD_ZT22	epithelium_LD_ZT22	epithelium_colon_LD_ZT22
+colonEZT22.LD3	colonE	ZT22	LD	LDZT22	3	888	colon	epithelium	ad libitum	3_LD_ZT22	LD_ZT22	epithelium_LD_ZT22	epithelium_colon_LD_ZT22
+colonEZT22.LD4	colonE	ZT22	LD	LDZT22	4	889	colon	epithelium	ad libitum	4_LD_ZT22	LD_ZT22	epithelium_LD_ZT22	epithelium_colon_LD_ZT22
+colonEZT22.LD5	colonE	ZT22	LD	LDZT22	5	890	colon	epithelium	ad libitum	5_LD_ZT22	LD_ZT22	epithelium_LD_ZT22	epithelium_colon_LD_ZT22
+colonEZT22.RF1	colonE	ZT22	RF	RFZT22	1	891	colon	epithelium	restricted feeding (time unknown)	1_RF_ZT22	RF_ZT22	epithelium_RF_ZT22	epithelium_colon_RF_ZT22
+colonEZT22.RF2	colonE	ZT22	RF	RFZT22	2	892	colon	epithelium	restricted feeding (time unknown)	2_RF_ZT22	RF_ZT22	epithelium_RF_ZT22	epithelium_colon_RF_ZT22
+colonEZT22.RF3	colonE	ZT22	RF	RFZT22	3	893	colon	epithelium	restricted feeding (time unknown)	3_RF_ZT22	RF_ZT22	epithelium_RF_ZT22	epithelium_colon_RF_ZT22
+colonEZT22.RF4	colonE	ZT22	RF	RFZT22	4	894	colon	epithelium	restricted feeding (time unknown)	4_RF_ZT22	RF_ZT22	epithelium_RF_ZT22	epithelium_colon_RF_ZT22
+colonEZT22.RF5	colonE	ZT22	RF	RFZT22	5	895	colon	epithelium	restricted feeding (time unknown)	5_RF_ZT22	RF_ZT22	epithelium_RF_ZT22	epithelium_colon_RF_ZT22
+colonEZT22.DD1	colonE	ZT22	DD	DDZT22	1	896	colon	epithelium	ad libitum	1_DD_ZT22	DD_ZT22	epithelium_DD_ZT22	epithelium_colon_DD_ZT22
+colonEZT22.DD2	colonE	ZT22	DD	DDZT22	2	897	colon	epithelium	ad libitum	2_DD_ZT22	DD_ZT22	epithelium_DD_ZT22	epithelium_colon_DD_ZT22
+colonEZT22.DD3	colonE	ZT22	DD	DDZT22	3	898	colon	epithelium	ad libitum	3_DD_ZT22	DD_ZT22	epithelium_DD_ZT22	epithelium_colon_DD_ZT22
+colonEZT22.DD4	colonE	ZT22	DD	DDZT22	4	899	colon	epithelium	ad libitum	4_DD_ZT22	DD_ZT22	epithelium_DD_ZT22	epithelium_colon_DD_ZT22
+colonEZT22.DD5	colonE	ZT22	DD	DDZT22	5	900	colon	epithelium	ad libitum	5_DD_ZT22	DD_ZT22	epithelium_DD_ZT22	epithelium_colon_DD_ZT22

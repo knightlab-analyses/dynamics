@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with matplotlib (https://matplotlib.org/) -->
+<svg height="252.399375pt" version="1.1" viewBox="0 0 782.092 252.399375" width="782.092pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2021-08-25T22:14:33.984271</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.3.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linecap:butt;stroke-linejoin:round;}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 252.399375 
+L 782.092 252.399375 
+L 782.092 0 
+L 0 0 
+z
+" style="fill:none;"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 601.328315 133.906285 
+C 601.328315 121.795376 598.798753 109.816914 593.902059 98.740068 
+C 589.005365 87.663222 581.848641 77.73027 572.89144 69.579033 
+C 563.934239 61.427795 553.372476 55.23656 541.884351 51.402881 
+C 530.396225 47.569203 518.233009 46.176935 506.175735 47.315476 
+L 514.352315 133.906285 
+L 601.328315 133.906285 
+z
+" style="fill:#3cb371;"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 501.392471 47.410297 
+C 481.464865 49.292017 462.784992 57.996324 448.526555 72.044359 
+C 434.268118 86.092395 425.287094 104.640813 423.109355 124.538245 
+L 509.56905 134.001105 
+L 501.392471 47.410297 
+z
+" style="fill:#006400;"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 422.186871 127.903072 
+C 421.027013 138.500391 421.825339 149.221211 424.541961 159.529868 
+C 427.258583 169.838525 431.847489 179.56042 438.079395 188.209801 
+L 508.646566 137.365932 
+L 422.186871 127.903072 
+z
+" style="fill:#7fffd4;"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 439.508936 190.214762 
+C 445.571514 198.629129 453.090492 205.891722 461.710044 211.658848 
+C 470.329596 217.425975 479.911575 221.605205 490.002527 223.998761 
+L 510.076107 139.370893 
+L 439.508936 190.214762 
+z
+" style="fill:#00ff00;"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 492.092272 224.582823 
+C 499.932627 226.442542 507.993524 227.203715 516.043411 226.844478 
+C 524.093297 226.485242 532.05435 225.009068 539.697884 222.458361 
+L 512.165852 139.954956 
+L 492.092272 224.582823 
+z
+" style="fill:#5f9ea0;"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 541.242339 222.018439 
+C 546.424551 220.289094 551.432321 218.07533 556.199225 215.406512 
+C 560.966129 212.737693 565.470997 209.625672 569.654075 206.111726 
+L 513.710307 139.515034 
+L 541.242339 222.018439 
+z
+" style="fill:#20b2aa;"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 570.651356 205.273972 
+C 574.834435 201.760026 578.677147 197.85976 582.128524 193.624909 
+C 585.5799 189.390058 588.624613 184.839428 591.222277 180.033379 
+L 514.707587 138.67728 
+L 570.651356 205.273972 
+z
+" style="fill:#00bfff;"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 591.841581 178.887577 
+C 594.439245 174.081528 596.578324 169.041403 598.230444 163.834056 
+C 599.882565 158.626709 601.04039 153.275266 601.688562 147.850707 
+L 515.326892 137.531478 
+L 591.841581 178.887577 
+z
+" style="fill:#008080;"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 601.845311 147.005354 
+C 602.049862 145.293473 602.203467 143.575888 602.305923 141.854876 
+C 602.408379 140.133864 602.459641 138.410187 602.459641 136.686128 
+L 515.483641 136.686125 
+L 601.845311 147.005354 
+z
+" style="fill:#4682b4;"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2"/>
+   <g id="text_1">
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 578.745353, 65.733807)" x="578.745353" y="65.733807">mSystems</text>
+   </g>
+   <g id="text_2">
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 549.47579, 97.89509)" x="549.47579" y="97.89509">26.50%</text>
+   </g>
+   <g id="text_3">
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 442.422305, 68.433841)" x="442.422305" y="68.433841">Nature Communications</text>
+   </g>
+   <g id="text_4">
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 472.943553, 99.412214)" x="472.943553" y="99.412214">21.77%</text>
+   </g>
+   <g id="text_5">
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 416.131501, 164.331418)" x="416.131501" y="164.331418">Cell Host Microbe</text>
+   </g>
+   <g id="text_6">
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 458.183803, 153.24945)" x="458.183803" y="153.24945">11.67%</text>
+   </g>
+   <g id="text_7">
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 456.873438, 221.475144)" x="456.873438" y="221.475144">Science; Science Translational Medicine; Science Signaling; Science Advances; Science Immunology</text>
+   </g>
+   <g id="text_8">
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 481.056469, 185.328823)" x="481.056469" y="185.328823">11.36%</text>
+   </g>
+   <g id="text_9">
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 516.431167, 238.059993)" x="516.431167" y="238.059993">Nature Microbiology</text>
+   </g>
+   <g id="text_10">
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 514.492387, 194.673826)" x="514.492387" y="194.673826">8.83%</text>
+   </g>
+   <g id="text_11">
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 560.448117, 225.580816)" x="560.448117" y="225.580816">Nature</text>
+   </g>
+   <g id="text_12">
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 539.203658, 187.635077)" x="539.203658" y="187.635077">5.99%</text>
+   </g>
+   <g id="text_13">
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 588.870617, 201.765766)" x="588.870617" y="201.765766">Cell Reports</text>
+   </g>
+   <g id="text_14">
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 555.160149, 174.231014)" x="555.160149" y="174.231014">5.99%</text>
+   </g>
+   <g id="text_15">
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 606.520799, 169.04947)" x="606.520799" y="169.04947">Cell</text>
+   </g>
+   <g id="text_16">
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 565.069023, 155.898181)" x="565.069023" y="155.898181">5.99%</text>
+   </g>
+   <g id="text_17">
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 610.988151, 144.956907)" x="610.988151" y="144.956907">Cell Metabolism</text>
+   </g>
+   <g id="text_18">
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 567.57701, 142.372532)" x="567.57701" y="142.372532">1.89%</text>
+   </g>
+   <g id="text_19">
+    <text style="font-family:Arial;font-size:20px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 512.01075, 21.759375)" x="512.01075" y="21.759375">Journal Composition for Articles that have Microbiome Data</text>
+   </g>
+  </g>
+ </g>
+</svg>

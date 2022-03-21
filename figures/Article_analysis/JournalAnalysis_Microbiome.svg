@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with matplotlib (https://matplotlib.org/) -->
+<svg height="252.155625pt" version="1.1" viewBox="0 0 240.03125 252.155625" width="240.03125pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2021-08-25T22:13:41.303121</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.3.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linecap:butt;stroke-linejoin:round;}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 252.155625 
+L 240.03125 252.155625 
+L 240.03125 0 
+L 0 0 
+z
+" style="fill:none;"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 206.991625 136.235625 
+C 206.991625 123.871788 204.355304 111.648887 199.258951 100.384268 
+C 194.162599 89.119648 186.722403 79.070122 177.43589 70.9077 
+C 168.149376 62.745278 157.228259 56.656049 145.402835 53.047199 
+C 133.57741 49.43835 121.117275 48.392154 108.855638 49.978572 
+C 96.594001 51.564989 84.810405 55.747853 74.292817 62.247454 
+C 63.77523 68.747056 54.763433 77.415216 47.860045 87.672297 
+C 40.956657 97.929377 36.319062 109.541535 34.257377 121.732266 
+C 32.195691 133.922996 32.756917 146.414374 35.903526 158.371101 
+L 120.015625 136.235625 
+L 206.991625 136.235625 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 35.903526 158.371101 
+C 41.28083 178.804201 53.923756 196.593858 71.452293 208.391203 
+C 88.980831 220.188547 110.221437 225.20374 131.175604 222.492679 
+C 152.129771 219.781619 171.394607 209.525813 185.343542 193.655899 
+C 199.292477 177.785984 206.991621 157.36446 206.991625 136.235641 
+L 120.015625 136.235625 
+L 35.903526 158.371101 
+z
+" style="fill:#ff7f0e;"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2"/>
+   <g id="text_1">
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 107.739639, 43.938022)" x="107.739639" y="43.938022">Yes</text>
+   </g>
+   <g id="text_2">
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 113.319633, 87.066549)" x="113.319633" y="87.066549">54.1%</text>
+   </g>
+   <g id="text_3">
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 132.291602, 233.703541)" x="132.291602" y="233.703541">No</text>
+   </g>
+   <g id="text_4">
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 126.711612, 190.575014)" x="126.711612" y="190.575014">45.9%</text>
+   </g>
+   <g id="text_5">
+    <text style="font-family:Arial;font-size:20px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 120.015625, 21.515625)" x="120.015625" y="21.515625">Microbiome Data Present</text>
+   </g>
+  </g>
+ </g>
+</svg>
