@@ -1,5 +1,11 @@
 # Microbiome Diurnal Dynamics Dominate Phenotype Effects, Enabling Replicability When Controlled
 
-Although many aspects of microbiome studies have been standardized to improve experimental replicability, none account for how the daily diurnal fluctuations in the gut lumen cause dynamic changes in 16S sequencing and untargeted LC-MS/MS metabolomic results. Here we show that sample collection time affects the conclusions drawn from microbiome studies and are larger than the effect size of a daily experimental intervention or dietary changes. The divergence of the microbiome composition between an experimental and control group due to daily exposure is unique to each specific experiment. Sample collection times as short as only four hours apart lead to vastly different conclusions. These dynamic changes are pronounced in the 16S microbiome data but are less obvious in the untargeted metabolomics data. Thus, the lack of consistency in the time of sample collection explains poor cross-study replicability in microbiome research and leads to an incorrect understanding of the role of the gut microbiome in physiological homeostasis and pathophysiological studies.
+**Abstract:** Although many aspects of microbiome studies have been standardized to improve experimental replicability, none account for how the daily diurnal fluctuations in the gut lumen cause dynamic changes in 16S amplicon sequencing in male mice. Here we show that sample collection time affects the conclusions drawn from microbiome studies and are larger than the effect size of a daily experimental intervention or dietary changes. The timing of divergence of the microbiome composition between experimental and control groups are unique to each experiment. Sample collection times as short as only four hours apart can lead to vastly different conclusions. Lack of consistency in the time of sample collection may explain poor cross-study replicability in microbiome research. Without looking at other data, the impact on other fields is unknown but likely significant.
 
-Basically, if we are not controlling for host circadian rhythm time when examining the microbiome, it is like trying to measure sea level rise while not knowing that tides or waves exist.
+**One Liner:** Basically, if we are not controlling for host circadian rhythm time when examining the microbiome, it is like trying to measure sea level rise while not knowing that tides or waves exist.
+
+
+# Paper Versions
+
+Longer version on BioRxiv: https://doi.org/10.1101/2022.10.26.513817 
+Shorter/Concise version: currently under review at Nature Metabolism
