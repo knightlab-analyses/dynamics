@@ -8,4 +8,5 @@
 # Paper Versions
 
 Longer version on BioRxiv: https://doi.org/10.1101/2022.10.26.513817 
-Shorter/Concise version: currently under review at Nature Metabolism
+Shorter/Concise version: [Nature Metabolism Paper](https://doi.org/10.1038/s42255-024-01064-1) 
+Perspective: https://doi.org/10.1038/s42255-024-01077-w
